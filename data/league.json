@@ -1,0 +1,1312 @@
+{
+  "schema": 1,
+  "kind": "council-league",
+  "lang": "en",
+  "generated_at": "2026-10-19T20:46:11Z",
+  "resolved_n": 11,
+  "need": 30,
+  "days_collected": 4,
+  "first_day": "2026-10-16",
+  "history": "collecting history: 11 of 30 resolved forecasts",
+  "benchmarks": {
+    "coin_brier": 0.25,
+    "consensus_brier": 0.282,
+    "weighted_brier": 0.2837,
+    "usa_brier": 0.2774,
+    "china_brier": 0.2932,
+    "sp500_ret_pct": -0.147,
+    "poly_portfolio": {
+      "value": 99963.28,
+      "ret_pct": -0.037,
+      "sp500_ret_pct": -0.147,
+      "hold_ret_pct": null
+    }
+  },
+  "need_days": 10,
+  "calibration": {
+    "all": [
+      {
+        "lo": 50,
+        "hi": 60,
+        "n": 62,
+        "said": 54,
+        "came": 33.9
+      },
+      {
+        "lo": 60,
+        "hi": 70,
+        "n": 14,
+        "said": 62.4,
+        "came": 14.3
+      },
+      {
+        "lo": 70,
+        "hi": 80,
+        "n": 0,
+        "said": null,
+        "came": null
+      },
+      {
+        "lo": 80,
+        "hi": 100,
+        "n": 0,
+        "said": null,
+        "came": null
+      }
+    ],
+    "chatgpt": [
+      {
+        "lo": 50,
+        "hi": 60,
+        "n": 11,
+        "said": 54.5,
+        "came": 18.2
+      },
+      {
+        "lo": 60,
+        "hi": 70,
+        "n": 0,
+        "said": null,
+        "came": null
+      },
+      {
+        "lo": 70,
+        "hi": 80,
+        "n": 0,
+        "said": null,
+        "came": null
+      },
+      {
+        "lo": 80,
+        "hi": 100,
+        "n": 0,
+        "said": null,
+        "came": null
+      }
+    ],
+    "claude": [
+      {
+        "lo": 50,
+        "hi": 60,
+        "n": 11,
+        "said": 53.5,
+        "came": 9.1
+      },
+      {
+        "lo": 60,
+        "hi": 70,
+        "n": 0,
+        "said": null,
+        "came": null
+      },
+      {
+        "lo": 70,
+        "hi": 80,
+        "n": 0,
+        "said": null,
+        "came": null
+      },
+      {
+        "lo": 80,
+        "hi": 100,
+        "n": 0,
+        "said": null,
+        "came": null
+      }
+    ],
+    "deepseek": [
+      {
+        "lo": 50,
+        "hi": 60,
+        "n": 11,
+        "said": 53.5,
+        "came": 54.5
+      },
+      {
+        "lo": 60,
+        "hi": 70,
+        "n": 0,
+        "said": null,
+        "came": null
+      },
+      {
+        "lo": 70,
+        "hi": 80,
+        "n": 0,
+        "said": null,
+        "came": null
+      },
+      {
+        "lo": 80,
+        "hi": 100,
+        "n": 0,
+        "said": null,
+        "came": null
+      }
+    ],
+    "gemini": [
+      {
+        "lo": 50,
+        "hi": 60,
+        "n": 6,
+        "said": 54.3,
+        "came": 66.7
+      },
+      {
+        "lo": 60,
+        "hi": 70,
+        "n": 5,
+        "said": 61,
+        "came": 20
+      },
+      {
+        "lo": 70,
+        "hi": 80,
+        "n": 0,
+        "said": null,
+        "came": null
+      },
+      {
+        "lo": 80,
+        "hi": 100,
+        "n": 0,
+        "said": null,
+        "came": null
+      }
+    ],
+    "grok": [
+      {
+        "lo": 50,
+        "hi": 60,
+        "n": 9,
+        "said": 54.7,
+        "came": 44.4
+      },
+      {
+        "lo": 60,
+        "hi": 70,
+        "n": 2,
+        "said": 61,
+        "came": 50
+      },
+      {
+        "lo": 70,
+        "hi": 80,
+        "n": 0,
+        "said": null,
+        "came": null
+      },
+      {
+        "lo": 80,
+        "hi": 100,
+        "n": 0,
+        "said": null,
+        "came": null
+      }
+    ],
+    "kimi": [
+      {
+        "lo": 50,
+        "hi": 60,
+        "n": 9,
+        "said": 53.9,
+        "came": 22.2
+      },
+      {
+        "lo": 60,
+        "hi": 70,
+        "n": 2,
+        "said": 63.5,
+        "came": 0
+      },
+      {
+        "lo": 70,
+        "hi": 80,
+        "n": 0,
+        "said": null,
+        "came": null
+      },
+      {
+        "lo": 80,
+        "hi": 100,
+        "n": 0,
+        "said": null,
+        "came": null
+      }
+    ],
+    "mimo": [
+      {
+        "lo": 50,
+        "hi": 60,
+        "n": 5,
+        "said": 54.2,
+        "came": 40
+      },
+      {
+        "lo": 60,
+        "hi": 70,
+        "n": 5,
+        "said": 64,
+        "came": 0
+      },
+      {
+        "lo": 70,
+        "hi": 80,
+        "n": 0,
+        "said": null,
+        "came": null
+      },
+      {
+        "lo": 80,
+        "hi": 100,
+        "n": 0,
+        "said": null,
+        "came": null
+      }
+    ]
+  },
+  "together": {
+    "all_wrong": 3,
+    "minority_right": 5,
+    "rows": 11
+  },
+  "crowd": {
+    "polymarket": null,
+    "kalshi": null
+  },
+  "experiment": {
+    "g0": {
+      "n": 0,
+      "right": 0,
+      "pct": null,
+      "sec": null,
+      "cn": 0,
+      "conf": null,
+      "hit": null,
+      "brier": null
+    },
+    "g1": {
+      "n": 0,
+      "right": 0,
+      "pct": null,
+      "sec": null,
+      "cn": 0,
+      "conf": null,
+      "hit": null,
+      "brier": null
+    },
+    "peek": 0,
+    "sessions": 0,
+    "matched": 0
+  },
+  "arena": null,
+  "models": [
+    {
+      "seat": "deepseek",
+      "name": "DeepSeek",
+      "side": "CN",
+      "model": "DeepSeek V4.1",
+      "n": 11,
+      "days": 1,
+      "ranked": false,
+      "dir_pct": 54.5,
+      "brier": 0.2479,
+      "consensus_brier": null,
+      "stars": null,
+      "stability": null,
+      "worst_month_pct": null,
+      "portfolio": {
+        "value": 100000,
+        "ret_pct": 0,
+        "sp500_ret_pct": -0.147,
+        "hold_ret_pct": null
+      }
+    },
+    {
+      "seat": "gemini",
+      "name": "Gemini",
+      "side": "US",
+      "model": "Gemini 4 Argon",
+      "n": 11,
+      "days": 1,
+      "ranked": false,
+      "dir_pct": 45.5,
+      "brier": 0.283,
+      "consensus_brier": null,
+      "stars": null,
+      "stability": null,
+      "worst_month_pct": null,
+      "portfolio": {
+        "value": 100036.88,
+        "ret_pct": 0.037,
+        "sp500_ret_pct": -0.147,
+        "hold_ret_pct": null
+      }
+    },
+    {
+      "seat": "grok",
+      "name": "Grok",
+      "side": "US",
+      "model": "Grok 4.7",
+      "n": 11,
+      "days": 1,
+      "ranked": false,
+      "dir_pct": 45.5,
+      "brier": 0.2636,
+      "consensus_brier": null,
+      "stars": null,
+      "stability": null,
+      "worst_month_pct": null,
+      "portfolio": {
+        "value": 100000,
+        "ret_pct": 0,
+        "sp500_ret_pct": -0.147,
+        "hold_ret_pct": null
+      }
+    },
+    {
+      "seat": "mimo",
+      "name": "MiMo (Xiaomi)",
+      "side": "CN",
+      "model": "MiMo-V2.6-Pro",
+      "n": 10,
+      "days": 1,
+      "ranked": false,
+      "dir_pct": 20,
+      "brier": 0.3463,
+      "consensus_brier": null,
+      "stars": null,
+      "stability": null,
+      "worst_month_pct": null,
+      "portfolio": {
+        "value": 100007.68,
+        "ret_pct": 0.008,
+        "sp500_ret_pct": -0.147,
+        "hold_ret_pct": null
+      }
+    },
+    {
+      "seat": "chatgpt",
+      "name": "ChatGPT",
+      "side": "US",
+      "model": "GPT-6.1 Sol",
+      "n": 11,
+      "days": 1,
+      "ranked": false,
+      "dir_pct": 18.2,
+      "brier": 0.2868,
+      "consensus_brier": null,
+      "stars": null,
+      "stability": null,
+      "worst_month_pct": null,
+      "portfolio": {
+        "value": 99989.94,
+        "ret_pct": -0.01,
+        "sp500_ret_pct": -0.147,
+        "hold_ret_pct": null
+      }
+    },
+    {
+      "seat": "kimi",
+      "name": "Kimi",
+      "side": "CN",
+      "model": "Kimi K3",
+      "n": 11,
+      "days": 1,
+      "ranked": false,
+      "dir_pct": 18.2,
+      "brier": 0.2986,
+      "consensus_brier": null,
+      "stars": null,
+      "stability": null,
+      "worst_month_pct": null,
+      "portfolio": {
+        "value": 99989.49,
+        "ret_pct": -0.011,
+        "sp500_ret_pct": -0.147,
+        "hold_ret_pct": null
+      }
+    },
+    {
+      "seat": "claude",
+      "name": "Claude",
+      "side": "US",
+      "model": "Claude Opus 5.5",
+      "n": 11,
+      "days": 1,
+      "ranked": false,
+      "dir_pct": 9.1,
+      "brier": 0.2834,
+      "consensus_brier": null,
+      "stars": null,
+      "stability": null,
+      "worst_month_pct": null,
+      "portfolio": {
+        "value": 99980.32,
+        "ret_pct": -0.02,
+        "sp500_ret_pct": -0.147,
+        "hold_ret_pct": null
+      }
+    },
+    {
+      "seat": "meta",
+      "name": "Meta AI",
+      "side": "US",
+      "model": "Muse Spark 1.3",
+      "n": 0,
+      "days": 0,
+      "ranked": false,
+      "dir_pct": null,
+      "brier": null,
+      "consensus_brier": null,
+      "stars": null,
+      "stability": null,
+      "worst_month_pct": null,
+      "portfolio": null
+    },
+    {
+      "seat": "stepfun",
+      "name": "Step 5 Preview",
+      "side": "CN",
+      "model": "Step 5 Preview",
+      "n": 0,
+      "days": 0,
+      "ranked": false,
+      "dir_pct": null,
+      "brier": null,
+      "consensus_brier": null,
+      "stars": null,
+      "stability": null,
+      "worst_month_pct": null,
+      "portfolio": null
+    },
+    {
+      "seat": "wenxin",
+      "name": "Wenxin (文心, Baidu; ERNIE)",
+      "side": "CN",
+      "model": "ERNIE",
+      "n": 0,
+      "days": 0,
+      "ranked": false,
+      "dir_pct": null,
+      "brier": null,
+      "consensus_brier": null,
+      "stars": null,
+      "stability": null,
+      "worst_month_pct": null,
+      "portfolio": null
+    }
+  ],
+  "by_asset": {
+    "SPX": {
+      "chatgpt": {
+        "n": 1,
+        "right": 0,
+        "called": 1,
+        "since": "2026-10-19",
+        "brier": 0.2916
+      },
+      "claude": {
+        "n": 1,
+        "right": 0,
+        "called": 1,
+        "since": "2026-10-19",
+        "brier": 0.3025
+      },
+      "deepseek": {
+        "n": 1,
+        "right": 0,
+        "called": 1,
+        "since": "2026-10-19",
+        "brier": 0.2916
+      },
+      "gemini": {
+        "n": 1,
+        "right": 0,
+        "called": 1,
+        "since": "2026-10-19",
+        "brier": 0.3844
+      },
+      "grok": {
+        "n": 1,
+        "right": 0,
+        "called": 1,
+        "since": "2026-10-19",
+        "brier": 0.2916
+      },
+      "kimi": {
+        "n": 1,
+        "right": 0,
+        "called": 1,
+        "since": "2026-10-19",
+        "brier": 0.3364
+      },
+      "mimo": {
+        "n": 1,
+        "right": 0,
+        "called": 1,
+        "since": "2026-10-19",
+        "brier": 0.3249
+      }
+    },
+    "NDX": {
+      "chatgpt": {
+        "n": 1,
+        "right": 0,
+        "called": 1,
+        "since": "2026-10-19",
+        "brier": 0.3025
+      },
+      "claude": {
+        "n": 1,
+        "right": 0,
+        "called": 1,
+        "since": "2026-10-19",
+        "brier": 0.2916
+      },
+      "deepseek": {
+        "n": 1,
+        "right": 0,
+        "called": 1,
+        "since": "2026-10-19",
+        "brier": 0.2704
+      },
+      "gemini": {
+        "n": 1,
+        "right": 0,
+        "called": 1,
+        "since": "2026-10-19",
+        "brier": 0.36
+      },
+      "grok": {
+        "n": 1,
+        "right": 1,
+        "called": 1,
+        "since": "2026-10-19",
+        "brier": 0.2116
+      },
+      "kimi": {
+        "n": 1,
+        "right": 0,
+        "called": 1,
+        "since": "2026-10-19",
+        "brier": 0.3025
+      },
+      "mimo": {
+        "n": 1,
+        "right": 0,
+        "called": 1,
+        "since": "2026-10-19",
+        "brier": 0.3844
+      }
+    },
+    "SOX": {
+      "chatgpt": {
+        "n": 1,
+        "right": 0,
+        "called": 1,
+        "since": "2026-10-19",
+        "brier": 0.3249
+      },
+      "claude": {
+        "n": 1,
+        "right": 0,
+        "called": 1,
+        "since": "2026-10-19",
+        "brier": 0.2916
+      },
+      "deepseek": {
+        "n": 1,
+        "right": 1,
+        "called": 1,
+        "since": "2026-10-19",
+        "brier": 0.1764
+      },
+      "gemini": {
+        "n": 1,
+        "right": 0,
+        "called": 1,
+        "since": "2026-10-19",
+        "brier": 0.3721
+      },
+      "grok": {
+        "n": 1,
+        "right": 1,
+        "called": 1,
+        "since": "2026-10-19",
+        "brier": 0.1444
+      },
+      "kimi": {
+        "n": 1,
+        "right": 0,
+        "called": 1,
+        "since": "2026-10-19",
+        "brier": 0.2704
+      },
+      "mimo": {
+        "n": 1,
+        "right": 0,
+        "called": 1,
+        "since": "2026-10-19",
+        "brier": 0.36
+      }
+    },
+    "US10Y": {
+      "chatgpt": {
+        "n": 1,
+        "right": 0,
+        "called": 1,
+        "since": "2026-10-19",
+        "brier": 0.3025
+      },
+      "claude": {
+        "n": 1,
+        "right": 0,
+        "called": 1,
+        "since": "2026-10-19",
+        "brier": 0.2809
+      },
+      "deepseek": {
+        "n": 1,
+        "right": 1,
+        "called": 1,
+        "since": "2026-10-19",
+        "brier": 0.2025
+      },
+      "gemini": {
+        "n": 1,
+        "right": 1,
+        "called": 1,
+        "since": "2026-10-19",
+        "brier": 0.2025
+      },
+      "grok": {
+        "n": 1,
+        "right": 1,
+        "called": 1,
+        "since": "2026-10-19",
+        "brier": 0.2304
+      },
+      "kimi": {
+        "n": 1,
+        "right": 0,
+        "called": 1,
+        "since": "2026-10-19",
+        "brier": 0.3844
+      }
+    },
+    "DXY": {
+      "chatgpt": {
+        "n": 1,
+        "right": 0,
+        "called": 1,
+        "since": "2026-10-19",
+        "brier": 0.2916
+      },
+      "claude": {
+        "n": 1,
+        "right": 0,
+        "called": 1,
+        "since": "2026-10-19",
+        "brier": 0.2809
+      },
+      "deepseek": {
+        "n": 1,
+        "right": 1,
+        "called": 1,
+        "since": "2026-10-19",
+        "brier": 0.2304
+      },
+      "gemini": {
+        "n": 1,
+        "right": 1,
+        "called": 1,
+        "since": "2026-10-19",
+        "brier": 0.2304
+      },
+      "grok": {
+        "n": 1,
+        "right": 1,
+        "called": 1,
+        "since": "2026-10-19",
+        "brier": 0.2401
+      },
+      "kimi": {
+        "n": 1,
+        "right": 1,
+        "called": 1,
+        "since": "2026-10-19",
+        "brier": 0.2025
+      },
+      "mimo": {
+        "n": 1,
+        "right": 1,
+        "called": 1,
+        "since": "2026-10-19",
+        "brier": 0.2304
+      }
+    },
+    "VIX": {
+      "chatgpt": {
+        "n": 1,
+        "right": 0,
+        "called": 1,
+        "since": "2026-10-19",
+        "brier": 0.3249
+      },
+      "claude": {
+        "n": 1,
+        "right": 0,
+        "called": 1,
+        "since": "2026-10-19",
+        "brier": 0.3364
+      },
+      "deepseek": {
+        "n": 1,
+        "right": 0,
+        "called": 1,
+        "since": "2026-10-19",
+        "brier": 0.3025
+      },
+      "gemini": {
+        "n": 1,
+        "right": 0,
+        "called": 1,
+        "since": "2026-10-19",
+        "brier": 0.3844
+      },
+      "grok": {
+        "n": 1,
+        "right": 0,
+        "called": 1,
+        "since": "2026-10-19",
+        "brier": 0.36
+      },
+      "kimi": {
+        "n": 1,
+        "right": 0,
+        "called": 1,
+        "since": "2026-10-19",
+        "brier": 0.4225
+      },
+      "mimo": {
+        "n": 1,
+        "right": 0,
+        "called": 1,
+        "since": "2026-10-19",
+        "brier": 0.4225
+      }
+    },
+    "GOLD": {
+      "chatgpt": {
+        "n": 1,
+        "right": 0,
+        "called": 1,
+        "since": "2026-10-19",
+        "brier": 0.2916
+      },
+      "claude": {
+        "n": 1,
+        "right": 0,
+        "called": 1,
+        "since": "2026-10-19",
+        "brier": 0.2704
+      },
+      "deepseek": {
+        "n": 1,
+        "right": 0,
+        "called": 1,
+        "since": "2026-10-19",
+        "brier": 0.2809
+      },
+      "gemini": {
+        "n": 1,
+        "right": 0,
+        "called": 1,
+        "since": "2026-10-19",
+        "brier": 0.3136
+      },
+      "grok": {
+        "n": 1,
+        "right": 0,
+        "called": 1,
+        "since": "2026-10-19",
+        "brier": 0.2809
+      },
+      "kimi": {
+        "n": 1,
+        "right": 0,
+        "called": 1,
+        "since": "2026-10-19",
+        "brier": 0.3136
+      },
+      "mimo": {
+        "n": 1,
+        "right": 0,
+        "called": 1,
+        "since": "2026-10-19",
+        "brier": 0.3025
+      }
+    },
+    "WTI": {
+      "chatgpt": {
+        "n": 1,
+        "right": 0,
+        "called": 1,
+        "since": "2026-10-19",
+        "brier": 0.3025
+      },
+      "claude": {
+        "n": 1,
+        "right": 0,
+        "called": 1,
+        "since": "2026-10-19",
+        "brier": 0.2809
+      },
+      "deepseek": {
+        "n": 1,
+        "right": 1,
+        "called": 1,
+        "since": "2026-10-19",
+        "brier": 0.2304
+      },
+      "gemini": {
+        "n": 1,
+        "right": 1,
+        "called": 1,
+        "since": "2026-10-19",
+        "brier": 0.2116
+      },
+      "grok": {
+        "n": 1,
+        "right": 0,
+        "called": 1,
+        "since": "2026-10-19",
+        "brier": 0.3364
+      },
+      "kimi": {
+        "n": 1,
+        "right": 0,
+        "called": 1,
+        "since": "2026-10-19",
+        "brier": 0.2704
+      },
+      "mimo": {
+        "n": 1,
+        "right": 0,
+        "called": 1,
+        "since": "2026-10-19",
+        "brier": 0.4489
+      }
+    },
+    "BRENT": {
+      "chatgpt": {
+        "n": 1,
+        "right": 0,
+        "called": 1,
+        "since": "2026-10-19",
+        "brier": 0.2809
+      },
+      "claude": {
+        "n": 1,
+        "right": 0,
+        "called": 1,
+        "since": "2026-10-19",
+        "brier": 0.2916
+      },
+      "deepseek": {
+        "n": 1,
+        "right": 1,
+        "called": 1,
+        "since": "2026-10-19",
+        "brier": 0.2304
+      },
+      "gemini": {
+        "n": 1,
+        "right": 1,
+        "called": 1,
+        "since": "2026-10-19",
+        "brier": 0.2025
+      },
+      "grok": {
+        "n": 1,
+        "right": 0,
+        "called": 1,
+        "since": "2026-10-19",
+        "brier": 0.3249
+      },
+      "kimi": {
+        "n": 1,
+        "right": 0,
+        "called": 1,
+        "since": "2026-10-19",
+        "brier": 0.2704
+      },
+      "mimo": {
+        "n": 1,
+        "right": 0,
+        "called": 1,
+        "since": "2026-10-19",
+        "brier": 0.4356
+      }
+    },
+    "COPPER": {
+      "chatgpt": {
+        "n": 1,
+        "right": 1,
+        "called": 1,
+        "since": "2026-10-19",
+        "brier": 0.2209
+      },
+      "claude": {
+        "n": 1,
+        "right": 1,
+        "called": 1,
+        "since": "2026-10-19",
+        "brier": 0.2304
+      },
+      "deepseek": {
+        "n": 1,
+        "right": 1,
+        "called": 1,
+        "since": "2026-10-19",
+        "brier": 0.2304
+      },
+      "gemini": {
+        "n": 1,
+        "right": 1,
+        "called": 1,
+        "since": "2026-10-19",
+        "brier": 0.16
+      },
+      "grok": {
+        "n": 1,
+        "right": 1,
+        "called": 1,
+        "since": "2026-10-19",
+        "brier": 0.1764
+      },
+      "kimi": {
+        "n": 1,
+        "right": 1,
+        "called": 1,
+        "since": "2026-10-19",
+        "brier": 0.2304
+      },
+      "mimo": {
+        "n": 1,
+        "right": 1,
+        "called": 1,
+        "since": "2026-10-19",
+        "brier": 0.2401
+      }
+    },
+    "BTC": {
+      "chatgpt": {
+        "n": 1,
+        "right": 1,
+        "called": 1,
+        "since": "2026-10-19",
+        "brier": 0.2209
+      },
+      "claude": {
+        "n": 1,
+        "right": 0,
+        "called": 1,
+        "since": "2026-10-19",
+        "brier": 0.2601
+      },
+      "deepseek": {
+        "n": 1,
+        "right": 0,
+        "called": 1,
+        "since": "2026-10-19",
+        "brier": 0.2809
+      },
+      "gemini": {
+        "n": 1,
+        "right": 0,
+        "called": 1,
+        "since": "2026-10-19",
+        "brier": 0.2916
+      },
+      "grok": {
+        "n": 1,
+        "right": 0,
+        "called": 1,
+        "since": "2026-10-19",
+        "brier": 0.3025
+      },
+      "kimi": {
+        "n": 1,
+        "right": 0,
+        "called": 1,
+        "since": "2026-10-19",
+        "brier": 0.2809
+      },
+      "mimo": {
+        "n": 1,
+        "right": 0,
+        "called": 1,
+        "since": "2026-10-19",
+        "brier": 0.3136
+      }
+    }
+  },
+  "by_horizon": {
+    "1d": [
+      {
+        "seat": "deepseek",
+        "name": "DeepSeek",
+        "side": "CN",
+        "model": "DeepSeek V4.1",
+        "n": 11,
+        "days": 1,
+        "ranked": false,
+        "dir_pct": 54.5,
+        "brier": 0.2479,
+        "consensus_brier": null,
+        "stars": null,
+        "stability": null,
+        "worst_month_pct": null,
+        "portfolio": {
+          "value": 100000,
+          "ret_pct": 0,
+          "sp500_ret_pct": -0.147,
+          "hold_ret_pct": null
+        }
+      },
+      {
+        "seat": "gemini",
+        "name": "Gemini",
+        "side": "US",
+        "model": "Gemini 4 Argon",
+        "n": 11,
+        "days": 1,
+        "ranked": false,
+        "dir_pct": 45.5,
+        "brier": 0.283,
+        "consensus_brier": null,
+        "stars": null,
+        "stability": null,
+        "worst_month_pct": null,
+        "portfolio": {
+          "value": 100036.88,
+          "ret_pct": 0.037,
+          "sp500_ret_pct": -0.147,
+          "hold_ret_pct": null
+        }
+      },
+      {
+        "seat": "grok",
+        "name": "Grok",
+        "side": "US",
+        "model": "Grok 4.7",
+        "n": 11,
+        "days": 1,
+        "ranked": false,
+        "dir_pct": 45.5,
+        "brier": 0.2636,
+        "consensus_brier": null,
+        "stars": null,
+        "stability": null,
+        "worst_month_pct": null,
+        "portfolio": {
+          "value": 100000,
+          "ret_pct": 0,
+          "sp500_ret_pct": -0.147,
+          "hold_ret_pct": null
+        }
+      },
+      {
+        "seat": "mimo",
+        "name": "MiMo (Xiaomi)",
+        "side": "CN",
+        "model": "MiMo-V2.6-Pro",
+        "n": 10,
+        "days": 1,
+        "ranked": false,
+        "dir_pct": 20,
+        "brier": 0.3463,
+        "consensus_brier": null,
+        "stars": null,
+        "stability": null,
+        "worst_month_pct": null,
+        "portfolio": {
+          "value": 100007.68,
+          "ret_pct": 0.008,
+          "sp500_ret_pct": -0.147,
+          "hold_ret_pct": null
+        }
+      },
+      {
+        "seat": "chatgpt",
+        "name": "ChatGPT",
+        "side": "US",
+        "model": "GPT-6.1 Sol",
+        "n": 11,
+        "days": 1,
+        "ranked": false,
+        "dir_pct": 18.2,
+        "brier": 0.2868,
+        "consensus_brier": null,
+        "stars": null,
+        "stability": null,
+        "worst_month_pct": null,
+        "portfolio": {
+          "value": 99989.94,
+          "ret_pct": -0.01,
+          "sp500_ret_pct": -0.147,
+          "hold_ret_pct": null
+        }
+      },
+      {
+        "seat": "kimi",
+        "name": "Kimi",
+        "side": "CN",
+        "model": "Kimi K3",
+        "n": 11,
+        "days": 1,
+        "ranked": false,
+        "dir_pct": 18.2,
+        "brier": 0.2986,
+        "consensus_brier": null,
+        "stars": null,
+        "stability": null,
+        "worst_month_pct": null,
+        "portfolio": {
+          "value": 99989.49,
+          "ret_pct": -0.011,
+          "sp500_ret_pct": -0.147,
+          "hold_ret_pct": null
+        }
+      },
+      {
+        "seat": "claude",
+        "name": "Claude",
+        "side": "US",
+        "model": "Claude Opus 5.5",
+        "n": 11,
+        "days": 1,
+        "ranked": false,
+        "dir_pct": 9.1,
+        "brier": 0.2834,
+        "consensus_brier": null,
+        "stars": null,
+        "stability": null,
+        "worst_month_pct": null,
+        "portfolio": {
+          "value": 99980.32,
+          "ret_pct": -0.02,
+          "sp500_ret_pct": -0.147,
+          "hold_ret_pct": null
+        }
+      },
+      {
+        "seat": "meta",
+        "name": "Meta AI",
+        "side": "US",
+        "model": "Muse Spark 1.3",
+        "n": 0,
+        "days": 0,
+        "ranked": false,
+        "dir_pct": null,
+        "brier": null,
+        "consensus_brier": null,
+        "stars": null,
+        "stability": null,
+        "worst_month_pct": null,
+        "portfolio": null
+      },
+      {
+        "seat": "stepfun",
+        "name": "Step 5 Preview",
+        "side": "CN",
+        "model": "Step 5 Preview",
+        "n": 0,
+        "days": 0,
+        "ranked": false,
+        "dir_pct": null,
+        "brier": null,
+        "consensus_brier": null,
+        "stars": null,
+        "stability": null,
+        "worst_month_pct": null,
+        "portfolio": null
+      },
+      {
+        "seat": "wenxin",
+        "name": "Wenxin (文心, Baidu; ERNIE)",
+        "side": "CN",
+        "model": "ERNIE",
+        "n": 0,
+        "days": 0,
+        "ranked": false,
+        "dir_pct": null,
+        "brier": null,
+        "consensus_brier": null,
+        "stars": null,
+        "stability": null,
+        "worst_month_pct": null,
+        "portfolio": null
+      }
+    ]
+  },
+  "lines_hit": {
+    "chatgpt": {
+      "t": 3,
+      "tn": 7,
+      "i": 1,
+      "in": 12
+    },
+    "claude": {
+      "t": 6,
+      "tn": 12,
+      "i": 2,
+      "in": 12
+    },
+    "deepseek": {
+      "t": 7,
+      "tn": 10,
+      "i": 1,
+      "in": 12
+    },
+    "gemini": {
+      "t": 6,
+      "tn": 10,
+      "i": 1,
+      "in": 12
+    },
+    "grok": {
+      "t": 3,
+      "tn": 12,
+      "i": 2,
+      "in": 12
+    },
+    "kimi": {
+      "t": 2,
+      "tn": 9,
+      "i": 2,
+      "in": 12
+    },
+    "mimo": {
+      "t": 2,
+      "tn": 10,
+      "i": 1,
+      "in": 11
+    }
+  },
+  "usa_cn": {
+    "us": {
+      "dir_pct": 29.5,
+      "brier": 0.2792,
+      "n": 44
+    },
+    "cn": {
+      "dir_pct": 31.2,
+      "brier": 0.2976,
+      "n": 32
+    }
+  },
+  "url": "https://top.polyhelper.ai/ai-markets/"
+}

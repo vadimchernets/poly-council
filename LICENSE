@@ -1,0 +1,10 @@
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+This dataset (everything under data/ and the CSV/JSON files derived from the Poly Council feeds) is licensed under
+CC BY 4.0. You may share and adapt it for any purpose, including commercially, if you give appropriate credit,
+link to the license and indicate if changes were made.
+
+Full legal text: https://creativecommons.org/licenses/by/4.0/legalcode
+Attribution: "Poly Council open dataset, Poly Helper, https://trends.polyhelper.ai/"
+
+The code in scripts/ is released under the MIT License (Copyright (c) 2026 Poly Helper).

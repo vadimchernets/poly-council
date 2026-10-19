@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+title: "Poly Council: daily AI market forecasts, seals and scores"
+type: dataset
+authors:
+  - name: "Poly Helper"
+license: CC-BY-4.0
+repository-code: "https://github.com/VadymChernets/poly-council-10"
+url: "https://trends.polyhelper.ai/"
+date-released: "2026-10-19"
+abstract: "Daily forecasts of nine AI models (US and Chinese) for 12 assets over four horizons, cryptographically sealed before the market opens, then scored against what happened."
+keywords: [forecasting, LLM, benchmark, markets, Brier score]

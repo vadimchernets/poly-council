@@ -1,0 +1,10 @@
+date,model,country,resolved_n,direction_hit_pct,brier,consensus_brier,stars,ranked
+2026-10-16,ChatGPT,US,0,,,,,false
+2026-10-16,Claude,US,0,,,,,false
+2026-10-16,DeepSeek,CN,0,,,,,false
+2026-10-16,Gemini,US,0,,,,,false
+2026-10-16,Grok,US,0,,,,,false
+2026-10-16,Kimi,CN,0,,,,,false
+2026-10-16,Meta AI,US,0,,,,,false
+2026-10-16,MiMo (Xiaomi),CN,0,,,,,false
+2026-10-16,Step 5 Preview,CN,0,,,,,false
