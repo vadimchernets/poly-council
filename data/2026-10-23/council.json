@@ -2,7 +2,7 @@
   "schema": 1,
   "kind": "council",
   "lang": "en",
-  "generated_at": "2026-10-24T20:57:57Z",
+  "generated_at": "2026-10-24T22:14:30Z",
   "issue": "2026-10-23",
   "run_id": "2026-10-23-am",
   "tz": "America/New_York",
@@ -149,7 +149,7 @@
   ],
   "free_asset": "US10Y",
   "quotes": {
-    "as_of": "2026-10-24T20:57:04Z",
+    "as_of": "2026-10-24T22:13:52Z",
     "delay_min": 15,
     "source": "yahoo|kraken",
     "live_url": "https://polyhelper-trends-votes.vadymchernets.workers.dev/quotes"
@@ -9269,10 +9269,10 @@
         "source": "kraken"
       },
       "now": {
-        "price": 80427.9,
-        "chg_day_pct": -1.079,
-        "chg_since_seal_pct": -1.425,
-        "at": "2026-10-24T20:57:04Z",
+        "price": 80378,
+        "chg_day_pct": -0.468,
+        "chg_since_seal_pct": -1.486,
+        "at": "2026-10-24T22:13:52Z",
         "stale": false,
         "source": "kraken",
         "delay_min": 0
