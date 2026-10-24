@@ -2,11 +2,15 @@
   "schema": 1,
   "kind": "council",
   "lang": "en",
-  "generated_at": "2026-10-23T20:53:58Z",
+  "generated_at": "2026-10-24T20:57:57Z",
   "issue": "2026-10-23",
   "run_id": "2026-10-23-am",
   "tz": "America/New_York",
-  "next_at": "2026-10-24T13:12:00Z",
+  "next_at": "2026-10-25T21:15:00Z",
+  "next_issue": {
+    "kind": "radar",
+    "label": "the Sunday issue: the week’s radar"
+  },
   "status": "scored",
   "pinned": true,
   "cut": false,
@@ -145,7 +149,7 @@
   ],
   "free_asset": "US10Y",
   "quotes": {
-    "as_of": "2026-10-23T20:53:31Z",
+    "as_of": "2026-10-24T20:57:04Z",
     "delay_min": 15,
     "source": "yahoo|kraken",
     "live_url": "https://polyhelper-trends-votes.vadymchernets.workers.dev/quotes"
@@ -1017,7 +1021,7 @@
         "price": 28957.527,
         "chg_day_pct": -0.004,
         "chg_since_seal_pct": -0.004,
-        "at": "2026-10-23T20:53:29Z",
+        "at": "2026-10-23T21:15:59Z",
         "stale": false,
         "source": "yahoo",
         "delay_min": 15
@@ -2669,7 +2673,7 @@
         "price": 10779.464,
         "chg_day_pct": 0.442,
         "chg_since_seal_pct": 0.442,
-        "at": "2026-10-23T20:53:30Z",
+        "at": "2026-10-23T21:15:59Z",
         "stale": false,
         "source": "yahoo",
         "delay_min": 15
@@ -4310,10 +4314,10 @@
         "source": "yahoo"
       },
       "now": {
-        "price": 101.829,
-        "chg_day_pct": 0.218,
-        "chg_since_seal_pct": 0.045,
-        "at": "2026-10-23T20:43:28Z",
+        "price": 101.752,
+        "chg_day_pct": -0.057,
+        "chg_since_seal_pct": -0.03,
+        "at": "2026-10-23T20:59:59Z",
         "stale": false,
         "source": "yahoo",
         "delay_min": 15
@@ -5953,10 +5957,10 @@
         "source": "yahoo"
       },
       "now": {
-        "price": 4006.9,
-        "chg_day_pct": -1.318,
-        "chg_since_seal_pct": -0.787,
-        "at": "2026-10-23T20:43:23Z",
+        "price": 4007.9,
+        "chg_day_pct": -1.293,
+        "chg_since_seal_pct": -0.763,
+        "at": "2026-10-23T20:59:58Z",
         "stale": false,
         "source": "yahoo",
         "delay_min": 15
@@ -6796,10 +6800,10 @@
         "source": "yahoo"
       },
       "now": {
-        "price": 103.38,
-        "chg_day_pct": 3.931,
-        "chg_since_seal_pct": 1.923,
-        "at": "2026-10-23T20:43:27Z",
+        "price": 103.27,
+        "chg_day_pct": 3.82,
+        "chg_since_seal_pct": 1.814,
+        "at": "2026-10-23T20:59:58Z",
         "stale": false,
         "source": "yahoo",
         "delay_min": 15
@@ -7627,10 +7631,10 @@
         "source": "yahoo"
       },
       "now": {
-        "price": 111.59,
-        "chg_day_pct": 2.696,
-        "chg_since_seal_pct": 1.105,
-        "at": "2026-10-23T20:42:51Z",
+        "price": 111.7,
+        "chg_day_pct": 2.798,
+        "chg_since_seal_pct": 1.205,
+        "at": "2026-10-23T20:59:19Z",
         "stale": false,
         "source": "yahoo",
         "delay_min": 15
@@ -8447,10 +8451,10 @@
         "source": "yahoo"
       },
       "now": {
-        "price": 6.501,
-        "chg_day_pct": 1.61,
-        "chg_since_seal_pct": 0.433,
-        "at": "2026-10-23T20:43:03Z",
+        "price": 6.508,
+        "chg_day_pct": 1.711,
+        "chg_since_seal_pct": 0.541,
+        "at": "2026-10-23T20:59:35Z",
         "stale": false,
         "source": "yahoo",
         "delay_min": 15
@@ -9265,10 +9269,10 @@
         "source": "kraken"
       },
       "now": {
-        "price": 81348.5,
-        "chg_day_pct": 0.222,
-        "chg_since_seal_pct": -0.297,
-        "at": "2026-10-23T20:53:31Z",
+        "price": 80427.9,
+        "chg_day_pct": -1.079,
+        "chg_since_seal_pct": -1.425,
+        "at": "2026-10-24T20:57:04Z",
         "stale": false,
         "source": "kraken",
         "delay_min": 0
