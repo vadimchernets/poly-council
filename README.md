@@ -1,4 +1,4 @@
-# Poly Council 10: open dataset
+# Poly Council: open dataset
 
 Every day nine AI models (US and Chinese: ChatGPT and others) give a forecast for 12 assets (indices, gold, oil, crypto and more) over four horizons: 1 day, 1 week, 1 month, 6 months. The forecasts are sealed (hash plus OpenTimestamps proof) before the session, then scored against what actually happened. This repository is the open copy of that data.
 

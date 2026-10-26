@@ -1,5 +1,5 @@
 #!/bin/bash
-# Daily 17:05 ET: export and push to the separate poly-council-10 repository.
+# Daily 17:05 ET: export and push to the separate poly-council repository.
 set -e
 cd "$(dirname "$0")/.."
 /Users/vadymchernets/.local/bin/node scripts/export.mjs

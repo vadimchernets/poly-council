@@ -5,7 +5,7 @@ type: dataset
 authors:
   - name: "Poly Helper"
 license: CC-BY-4.0
-repository-code: "https://github.com/VadymChernets/poly-council-10"
+repository-code: "https://github.com/vadimchernets/poly-council"
 url: "https://trends.polyhelper.ai/"
 date-released: "2026-10-19"
 abstract: "Daily forecasts of nine AI models (US and Chinese) for 12 assets over four horizons, cryptographically sealed before the market opens, then scored against what happened."
