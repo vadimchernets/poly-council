@@ -2,24 +2,24 @@
   "schema": 1,
   "kind": "council-league",
   "lang": "en",
-  "generated_at": "2026-10-25T17:07:59Z",
+  "generated_at": "2026-10-26T20:58:40Z",
   "notice": "These results are based on simulated or hypothetical performance results that have certain inherent limitations. Unlike the results shown in an actual performance record, these results do not represent actual trading. Also, because these trades have not actually been executed, these results may have under-or over-compensated for the impact, if any, of certain market factors, such as lack of liquidity. Simulated or hypothetical trading programs in general are also subject to the fact that they are designed with the benefit of hindsight. No representation is being made that any account will or is likely to achieve profits or losses similar to these being shown.",
-  "resolved_n": 55,
+  "resolved_n": 65,
   "need": 30,
-  "days_collected": 9,
+  "days_collected": 11,
   "first_day": "2026-10-16",
   "history": "collecting history: 30 of 30 resolved forecasts",
   "benchmarks": {
     "coin_brier": 0.25,
-    "consensus_brier": 0.2486,
-    "weighted_brier": 0.2482,
-    "usa_brier": 0.2468,
-    "china_brier": 0.2521,
-    "sp500_ret_pct": -0.995,
+    "consensus_brier": 0.2472,
+    "weighted_brier": 0.2467,
+    "usa_brier": 0.2458,
+    "china_brier": 0.2502,
+    "sp500_ret_pct": -0.292,
     "poly_portfolio": {
-      "value": 99252.28,
-      "ret_pct": -0.748,
-      "sp500_ret_pct": -0.995,
+      "value": 99476.07,
+      "ret_pct": -0.524,
+      "sp500_ret_pct": -0.292,
       "hold_ret_pct": null
     }
   },
@@ -30,17 +30,17 @@
         "lo": 50,
         "hi": 60,
         "bin": "[50,60)",
-        "n": 366,
-        "said": 54.5,
-        "came": 48.9
+        "n": 456,
+        "said": 54.4,
+        "came": 52.9
       },
       {
         "lo": 60,
         "hi": 70,
         "bin": "[60,70)",
-        "n": 78,
-        "said": 62.3,
-        "came": 59
+        "n": 82,
+        "said": 62.2,
+        "came": 58.5
       },
       {
         "lo": 70,
@@ -64,9 +64,9 @@
         "lo": 50,
         "hi": 60,
         "bin": "[50,60)",
-        "n": 38,
-        "said": 54.5,
-        "came": 39.5
+        "n": 48,
+        "said": 54.4,
+        "came": 43.8
       },
       {
         "lo": 60,
@@ -98,15 +98,15 @@
         "lo": 50,
         "hi": 60,
         "bin": "[50,60)",
-        "n": 53,
-        "said": 52.5,
-        "came": 45.3
+        "n": 60,
+        "said": 52.6,
+        "came": 46.7
       },
       {
         "lo": 60,
         "hi": 70,
         "bin": "[60,70)",
-        "n": 1,
+        "n": 2,
         "said": 60,
         "came": 100
       },
@@ -166,9 +166,9 @@
         "lo": 50,
         "hi": 60,
         "bin": "[50,60)",
-        "n": 29,
+        "n": 39,
         "said": 55.8,
-        "came": 51.7
+        "came": 53.8
       },
       {
         "lo": 60,
@@ -200,17 +200,17 @@
         "lo": 50,
         "hi": 60,
         "bin": "[50,60)",
-        "n": 36,
+        "n": 45,
         "said": 54.2,
-        "came": 44.4
+        "came": 51.1
       },
       {
         "lo": 60,
         "hi": 70,
         "bin": "[60,70)",
-        "n": 15,
-        "said": 62.7,
-        "came": 66.7
+        "n": 16,
+        "said": 62.6,
+        "came": 62.5
       },
       {
         "lo": 70,
@@ -234,9 +234,9 @@
         "lo": 50,
         "hi": 60,
         "bin": "[50,60)",
-        "n": 17,
-        "said": 55,
-        "came": 52.9
+        "n": 27,
+        "said": 54.6,
+        "came": 59.3
       },
       {
         "lo": 60,
@@ -268,9 +268,9 @@
         "lo": 50,
         "hi": 60,
         "bin": "[50,60)",
-        "n": 46,
-        "said": 54.8,
-        "came": 58.7
+        "n": 56,
+        "said": 54.9,
+        "came": 60.7
       },
       {
         "lo": 60,
@@ -302,9 +302,9 @@
         "lo": 50,
         "hi": 60,
         "bin": "[50,60)",
-        "n": 30,
-        "said": 54.6,
-        "came": 50
+        "n": 37,
+        "said": 54.2,
+        "came": 54.1
       },
       {
         "lo": 60,
@@ -370,17 +370,17 @@
         "lo": 50,
         "hi": 60,
         "bin": "[50,60)",
-        "n": 20,
-        "said": 55.2,
-        "came": 35
+        "n": 29,
+        "said": 55,
+        "came": 48.3
       },
       {
         "lo": 60,
         "hi": 70,
         "bin": "[60,70)",
-        "n": 16,
+        "n": 17,
         "said": 63.4,
-        "came": 81.2
+        "came": 76.5
       },
       {
         "lo": 70,
@@ -404,9 +404,9 @@
         "lo": 50,
         "hi": 60,
         "bin": "[50,60)",
-        "n": 32,
-        "said": 54.9,
-        "came": 59.4
+        "n": 42,
+        "said": 54.7,
+        "came": 64.3
       },
       {
         "lo": 60,
@@ -466,12 +466,46 @@
         "said": null,
         "came": null
       }
+    ],
+    "qwen": [
+      {
+        "lo": 50,
+        "hi": 60,
+        "bin": "[50,60)",
+        "n": 8,
+        "said": 54.6,
+        "came": 62.5
+      },
+      {
+        "lo": 60,
+        "hi": 70,
+        "bin": "[60,70)",
+        "n": 1,
+        "said": 60,
+        "came": 100
+      },
+      {
+        "lo": 70,
+        "hi": 80,
+        "bin": "[70,80)",
+        "n": 0,
+        "said": null,
+        "came": null
+      },
+      {
+        "lo": 80,
+        "hi": 100,
+        "bin": "[80,100]",
+        "n": 0,
+        "said": null,
+        "came": null
+      }
     ]
   },
   "together": {
-    "all_wrong": 5,
-    "minority_right": 23,
-    "rows": 58
+    "all_wrong": 6,
+    "minority_right": 24,
+    "rows": 68
   },
   "crowd": {
     "polymarket": {
@@ -9891,23 +9925,65 @@
   },
   "models": [
     {
-      "seat": "zai",
-      "name": "Z.ai",
+      "seat": "qwen",
+      "name": "Qwen",
       "side": "CN",
-      "model": "GLM-5.3",
-      "n": 33,
-      "days": 3,
+      "model": "Qwen3.8-Max",
+      "n": 9,
+      "days": 1,
       "ranked": false,
-      "dir_pct": 60.6,
-      "brier": 0.2341,
+      "dir_pct": 66.7,
+      "brier": 0.242,
       "consensus_brier": null,
       "stars": null,
       "stability": null,
       "worst_month_pct": null,
       "portfolio": {
-        "value": 100375.78,
-        "ret_pct": 0.376,
-        "sp500_ret_pct": -0.995,
+        "value": 100009.23,
+        "ret_pct": 0.009,
+        "sp500_ret_pct": -0.292,
+        "hold_ret_pct": null
+      }
+    },
+    {
+      "seat": "zai",
+      "name": "Z.ai",
+      "side": "CN",
+      "model": "GLM-5.3-Flash",
+      "n": 43,
+      "days": 4,
+      "ranked": false,
+      "dir_pct": 65.1,
+      "brier": 0.2332,
+      "consensus_brier": null,
+      "stars": null,
+      "stability": null,
+      "worst_month_pct": null,
+      "portfolio": {
+        "value": 100314.26,
+        "ret_pct": 0.314,
+        "sp500_ret_pct": -0.292,
+        "hold_ret_pct": null
+      }
+    },
+    {
+      "seat": "meta",
+      "name": "Meta AI",
+      "side": "US",
+      "model": "Muse Spark 1.3",
+      "n": 50,
+      "days": 5,
+      "ranked": false,
+      "dir_pct": 62,
+      "brier": 0.2185,
+      "consensus_brier": null,
+      "stars": null,
+      "stability": null,
+      "worst_month_pct": null,
+      "portfolio": {
+        "value": 101098.47,
+        "ret_pct": 1.098,
+        "sp500_ret_pct": -0.292,
         "hold_ret_pct": null
       }
     },
@@ -9926,30 +10002,9 @@
       "stability": null,
       "worst_month_pct": null,
       "portfolio": {
-        "value": 99375.8,
-        "ret_pct": -0.624,
-        "sp500_ret_pct": -0.995,
-        "hold_ret_pct": null
-      }
-    },
-    {
-      "seat": "meta",
-      "name": "Meta AI",
-      "side": "US",
-      "model": "Muse Spark 1.3",
-      "n": 40,
-      "days": 4,
-      "ranked": false,
-      "dir_pct": 60,
-      "brier": 0.2144,
-      "consensus_brier": null,
-      "stars": null,
-      "stability": null,
-      "worst_month_pct": null,
-      "portfolio": {
-        "value": 102236.09,
-        "ret_pct": 2.236,
-        "sp500_ret_pct": -0.995,
+        "value": 99208.07,
+        "ret_pct": -0.792,
+        "sp500_ret_pct": -0.292,
         "hold_ret_pct": null
       }
     },
@@ -9958,19 +10013,19 @@
       "name": "MiMo (Xiaomi)",
       "side": "CN",
       "model": "MiMo-V2.6-Pro",
-      "n": 55,
-      "days": 5,
+      "n": 65,
+      "days": 6,
       "ranked": false,
-      "dir_pct": 54.5,
-      "brier": 0.2548,
+      "dir_pct": 56.9,
+      "brier": 0.2527,
       "consensus_brier": null,
       "stars": null,
       "stability": null,
       "worst_month_pct": null,
       "portfolio": {
-        "value": 100371.59,
-        "ret_pct": 0.372,
-        "sp500_ret_pct": -0.995,
+        "value": 100324.42,
+        "ret_pct": 0.324,
+        "sp500_ret_pct": -0.292,
         "hold_ret_pct": null
       }
     },
@@ -9979,19 +10034,19 @@
       "name": "Step 5 Preview",
       "side": "CN",
       "model": "Step 5 Preview",
-      "n": 32,
-      "days": 3,
+      "n": 39,
+      "days": 4,
       "ranked": false,
-      "dir_pct": 53.1,
-      "brier": 0.2443,
+      "dir_pct": 56.4,
+      "brier": 0.2442,
       "consensus_brier": null,
       "stars": null,
       "stability": null,
       "worst_month_pct": null,
       "portfolio": {
-        "value": 99851.31,
-        "ret_pct": -0.149,
-        "sp500_ret_pct": -0.995,
+        "value": 99861.31,
+        "ret_pct": -0.139,
+        "sp500_ret_pct": -0.292,
         "hold_ret_pct": null
       }
     },
@@ -10000,19 +10055,19 @@
       "name": "Grok",
       "side": "US",
       "model": "Grok 4.7",
-      "n": 53,
-      "days": 5,
+      "n": 63,
+      "days": 6,
       "ranked": false,
-      "dir_pct": 52.8,
+      "dir_pct": 55.6,
       "brier": 0.2407,
       "consensus_brier": null,
       "stars": null,
       "stability": null,
       "worst_month_pct": null,
       "portfolio": {
-        "value": 100464.77,
-        "ret_pct": 0.465,
-        "sp500_ret_pct": -0.995,
+        "value": 100264.55,
+        "ret_pct": 0.265,
+        "sp500_ret_pct": -0.292,
         "hold_ret_pct": null
       }
     },
@@ -10021,19 +10076,19 @@
       "name": "Gemini",
       "side": "US",
       "model": "Gemini 4 Argon",
-      "n": 44,
-      "days": 4,
+      "n": 54,
+      "days": 5,
       "ranked": false,
-      "dir_pct": 50,
-      "brier": 0.2585,
+      "dir_pct": 51.9,
+      "brier": 0.2559,
       "consensus_brier": null,
       "stars": null,
       "stability": null,
       "worst_month_pct": null,
       "portfolio": {
-        "value": 100966.01,
-        "ret_pct": 0.966,
-        "sp500_ret_pct": -0.995,
+        "value": 100537.24,
+        "ret_pct": 0.537,
+        "sp500_ret_pct": -0.292,
         "hold_ret_pct": null
       }
     },
@@ -10042,40 +10097,19 @@
       "name": "ChatGPT",
       "side": "US",
       "model": "GPT-6.1 Sol",
-      "n": 46,
-      "days": 4,
-      "ranked": false,
-      "dir_pct": 47.8,
-      "brier": 0.2494,
-      "consensus_brier": null,
-      "stars": null,
-      "stability": null,
-      "worst_month_pct": null,
-      "portfolio": {
-        "value": 99986.51,
-        "ret_pct": -0.013,
-        "sp500_ret_pct": -0.995,
-        "hold_ret_pct": null
-      }
-    },
-    {
-      "seat": "claude",
-      "name": "Claude",
-      "side": "US",
-      "model": "Claude Opus 5.5",
-      "n": 54,
+      "n": 56,
       "days": 5,
       "ranked": false,
-      "dir_pct": 46.3,
-      "brier": 0.2534,
+      "dir_pct": 50,
+      "brier": 0.2492,
       "consensus_brier": null,
       "stars": null,
       "stability": null,
       "worst_month_pct": null,
       "portfolio": {
-        "value": 99181.46,
-        "ret_pct": -0.819,
-        "sp500_ret_pct": -0.995,
+        "value": 100024.54,
+        "ret_pct": 0.025,
+        "sp500_ret_pct": -0.292,
         "hold_ret_pct": null
       }
     },
@@ -10084,19 +10118,40 @@
       "name": "Kimi",
       "side": "CN",
       "model": "Kimi K3",
-      "n": 22,
-      "days": 2,
+      "n": 32,
+      "days": 3,
       "ranked": false,
-      "dir_pct": 40.9,
-      "brier": 0.2766,
+      "dir_pct": 50,
+      "brier": 0.2671,
       "consensus_brier": null,
       "stars": null,
       "stability": null,
       "worst_month_pct": null,
       "portfolio": {
-        "value": 99722.52,
-        "ret_pct": -0.277,
-        "sp500_ret_pct": -0.995,
+        "value": 99761.06,
+        "ret_pct": -0.239,
+        "sp500_ret_pct": -0.292,
+        "hold_ret_pct": null
+      }
+    },
+    {
+      "seat": "claude",
+      "name": "Claude",
+      "side": "US",
+      "model": "Claude Opus 5.5",
+      "n": 62,
+      "days": 6,
+      "ranked": false,
+      "dir_pct": 48.4,
+      "brier": 0.2519,
+      "consensus_brier": null,
+      "stars": null,
+      "stability": null,
+      "worst_month_pct": null,
+      "portfolio": {
+        "value": 99619.69,
+        "ret_pct": -0.38,
+        "sp500_ret_pct": -0.292,
         "hold_ret_pct": null
       }
     },
@@ -10115,9 +10170,9 @@
       "stability": null,
       "worst_month_pct": null,
       "portfolio": {
-        "value": 101110.92,
-        "ret_pct": 1.111,
-        "sp500_ret_pct": -0.995,
+        "value": 100693.01,
+        "ret_pct": 0.693,
+        "sp500_ret_pct": -0.292,
         "hold_ret_pct": null
       }
     },
@@ -10136,9 +10191,9 @@
       "stability": null,
       "worst_month_pct": null,
       "portfolio": {
-        "value": 99941.85,
-        "ret_pct": -0.058,
-        "sp500_ret_pct": -0.995,
+        "value": 100039.83,
+        "ret_pct": 0.04,
+        "sp500_ret_pct": -0.292,
         "hold_ret_pct": null
       }
     }
@@ -10146,18 +10201,18 @@
   "by_asset": {
     "SPX": {
       "chatgpt": {
-        "n": 4,
-        "right": 2,
-        "called": 4,
-        "since": "2026-10-19",
-        "brier": 0.2428
-      },
-      "claude": {
         "n": 5,
-        "right": 1,
+        "right": 2,
         "called": 5,
         "since": "2026-10-19",
-        "brier": 0.2687
+        "brier": 0.2463
+      },
+      "claude": {
+        "n": 6,
+        "right": 2,
+        "called": 6,
+        "since": "2026-10-19",
+        "brier": 0.2577
       },
       "deepseek": {
         "n": 5,
@@ -10167,39 +10222,39 @@
         "brier": 0.2235
       },
       "gemini": {
-        "n": 4,
-        "right": 3,
-        "called": 4,
+        "n": 5,
+        "right": 4,
+        "called": 5,
         "since": "2026-10-19",
-        "brier": 0.2367
+        "brier": 0.2336
       },
       "grok": {
-        "n": 5,
-        "right": 3,
-        "called": 5,
+        "n": 6,
+        "right": 4,
+        "called": 6,
         "since": "2026-10-19",
-        "brier": 0.2107
+        "brier": 0.205
       },
       "kimi": {
-        "n": 2,
-        "right": 1,
-        "called": 2,
-        "since": "2026-10-19",
-        "brier": 0.2694
-      },
-      "mimo": {
-        "n": 5,
-        "right": 3,
-        "called": 5,
-        "since": "2026-10-19",
-        "brier": 0.2477
-      },
-      "stepfun": {
         "n": 3,
         "right": 2,
         "called": 3,
+        "since": "2026-10-19",
+        "brier": 0.2533
+      },
+      "mimo": {
+        "n": 6,
+        "right": 4,
+        "called": 6,
+        "since": "2026-10-19",
+        "brier": 0.2401
+      },
+      "stepfun": {
+        "n": 4,
+        "right": 3,
+        "called": 4,
         "since": "2026-10-20",
-        "brier": 0.2271
+        "brier": 0.2279
       },
       "wenxin": {
         "n": 1,
@@ -10209,18 +10264,18 @@
         "brier": 0.2025
       },
       "meta": {
-        "n": 3,
-        "right": 3,
-        "called": 3,
+        "n": 4,
+        "right": 4,
+        "called": 4,
         "since": "2026-10-21",
-        "brier": 0.1338
+        "brier": 0.1487
       },
       "zai": {
-        "n": 3,
-        "right": 2,
-        "called": 3,
+        "n": 4,
+        "right": 3,
+        "called": 4,
         "since": "2026-10-21",
-        "brier": 0.2271
+        "brier": 0.221
       },
       "nemotron": {
         "n": 1,
@@ -10228,22 +10283,29 @@
         "called": 1,
         "since": "2026-10-23",
         "brier": 0.3025
+      },
+      "qwen": {
+        "n": 1,
+        "right": 1,
+        "called": 1,
+        "since": "2026-10-26",
+        "brier": 0.2025
       }
     },
     "NDX": {
       "chatgpt": {
-        "n": 4,
-        "right": 2,
-        "called": 4,
-        "since": "2026-10-19",
-        "brier": 0.2484
-      },
-      "claude": {
         "n": 5,
-        "right": 1,
+        "right": 2,
         "called": 5,
         "since": "2026-10-19",
-        "brier": 0.2728
+        "brier": 0.2592
+      },
+      "claude": {
+        "n": 6,
+        "right": 2,
+        "called": 6,
+        "since": "2026-10-19",
+        "brier": 0.2657
       },
       "deepseek": {
         "n": 5,
@@ -10253,46 +10315,46 @@
         "brier": 0.2616
       },
       "gemini": {
-        "n": 4,
+        "n": 5,
         "right": 1,
-        "called": 4,
+        "called": 5,
         "since": "2026-10-19",
-        "brier": 0.2754
+        "brier": 0.2786
       },
       "grok": {
-        "n": 5,
-        "right": 3,
-        "called": 5,
+        "n": 6,
+        "right": 4,
+        "called": 6,
         "since": "2026-10-19",
-        "brier": 0.2159
+        "brier": 0.2183
       },
       "kimi": {
-        "n": 2,
-        "right": 0,
-        "called": 2,
+        "n": 3,
+        "right": 1,
+        "called": 3,
         "since": "2026-10-19",
-        "brier": 0.3137
+        "brier": 0.2892
       },
       "mimo": {
-        "n": 5,
-        "right": 2,
-        "called": 5,
+        "n": 6,
+        "right": 3,
+        "called": 6,
         "since": "2026-10-19",
-        "brier": 0.2836
+        "brier": 0.2701
       },
       "meta": {
+        "n": 5,
+        "right": 4,
+        "called": 5,
+        "since": "2026-10-20",
+        "brier": 0.1973
+      },
+      "stepfun": {
         "n": 4,
         "right": 3,
         "called": 4,
         "since": "2026-10-20",
-        "brier": 0.1866
-      },
-      "stepfun": {
-        "n": 3,
-        "right": 2,
-        "called": 3,
-        "since": "2026-10-20",
-        "brier": 0.233
+        "brier": 0.2323
       },
       "wenxin": {
         "n": 1,
@@ -10302,11 +10364,11 @@
         "brier": 0.3364
       },
       "zai": {
-        "n": 3,
-        "right": 1,
-        "called": 3,
+        "n": 4,
+        "right": 2,
+        "called": 4,
         "since": "2026-10-21",
-        "brier": 0.2478
+        "brier": 0.2434
       },
       "nemotron": {
         "n": 1,
@@ -10314,15 +10376,22 @@
         "called": 1,
         "since": "2026-10-23",
         "brier": 0.3364
+      },
+      "qwen": {
+        "n": 1,
+        "right": 1,
+        "called": 1,
+        "since": "2026-10-26",
+        "brier": 0.2025
       }
     },
     "SOX": {
       "chatgpt": {
-        "n": 4,
-        "right": 1,
-        "called": 4,
+        "n": 5,
+        "right": 2,
+        "called": 5,
         "since": "2026-10-19",
-        "brier": 0.2897
+        "brier": 0.2759
       },
       "claude": {
         "n": 4,
@@ -10339,46 +10408,46 @@
         "brier": 0.2539
       },
       "gemini": {
-        "n": 4,
+        "n": 5,
         "right": 2,
-        "called": 4,
+        "called": 5,
         "since": "2026-10-19",
-        "brier": 0.2607
+        "brier": 0.2759
       },
       "grok": {
-        "n": 5,
-        "right": 2,
-        "called": 5,
+        "n": 6,
+        "right": 3,
+        "called": 6,
         "since": "2026-10-19",
-        "brier": 0.2399
+        "brier": 0.2336
       },
       "kimi": {
-        "n": 2,
-        "right": 0,
-        "called": 2,
-        "since": "2026-10-19",
-        "brier": 0.3274
-      },
-      "mimo": {
-        "n": 5,
-        "right": 2,
-        "called": 5,
-        "since": "2026-10-19",
-        "brier": 0.2763
-      },
-      "meta": {
-        "n": 4,
-        "right": 2,
-        "called": 4,
-        "since": "2026-10-20",
-        "brier": 0.1989
-      },
-      "stepfun": {
         "n": 3,
         "right": 1,
         "called": 3,
+        "since": "2026-10-19",
+        "brier": 0.2951
+      },
+      "mimo": {
+        "n": 6,
+        "right": 3,
+        "called": 6,
+        "since": "2026-10-19",
+        "brier": 0.264
+      },
+      "meta": {
+        "n": 5,
+        "right": 2,
+        "called": 5,
         "since": "2026-10-20",
-        "brier": 0.2443
+        "brier": 0.2132
+      },
+      "stepfun": {
+        "n": 4,
+        "right": 2,
+        "called": 4,
+        "since": "2026-10-20",
+        "brier": 0.2433
       },
       "wenxin": {
         "n": 1,
@@ -10388,11 +10457,11 @@
         "brier": 0.4225
       },
       "zai": {
-        "n": 2,
-        "right": 0,
-        "called": 2,
+        "n": 3,
+        "right": 1,
+        "called": 3,
         "since": "2026-10-21",
-        "brier": 0.3081
+        "brier": 0.2854
       },
       "nemotron": {
         "n": 1,
@@ -10400,22 +10469,29 @@
         "called": 1,
         "since": "2026-10-23",
         "brier": 0.49
+      },
+      "qwen": {
+        "n": 1,
+        "right": 1,
+        "called": 1,
+        "since": "2026-10-26",
+        "brier": 0.2304
       }
     },
     "US10Y": {
       "chatgpt": {
-        "n": 4,
-        "right": 2,
-        "called": 4,
-        "since": "2026-10-19",
-        "brier": 0.2419
-      },
-      "claude": {
         "n": 5,
-        "right": 2,
+        "right": 3,
         "called": 5,
         "since": "2026-10-19",
-        "brier": 0.2605
+        "brier": 0.234
+      },
+      "claude": {
+        "n": 6,
+        "right": 2,
+        "called": 6,
+        "since": "2026-10-19",
+        "brier": 0.2675
       },
       "deepseek": {
         "n": 5,
@@ -10425,46 +10501,46 @@
         "brier": 0.2229
       },
       "gemini": {
-        "n": 4,
-        "right": 3,
-        "called": 4,
+        "n": 5,
+        "right": 4,
+        "called": 5,
         "since": "2026-10-19",
-        "brier": 0.2402
+        "brier": 0.2291
       },
       "grok": {
+        "n": 6,
+        "right": 4,
+        "called": 6,
+        "since": "2026-10-19",
+        "brier": 0.2594
+      },
+      "kimi": {
+        "n": 3,
+        "right": 1,
+        "called": 3,
+        "since": "2026-10-19",
+        "brier": 0.3156
+      },
+      "meta": {
         "n": 5,
         "right": 3,
         "called": 5,
-        "since": "2026-10-19",
-        "brier": 0.2707
-      },
-      "kimi": {
-        "n": 2,
-        "right": 0,
-        "called": 2,
-        "since": "2026-10-19",
-        "brier": 0.3722
-      },
-      "meta": {
-        "n": 4,
-        "right": 2,
-        "called": 4,
         "since": "2026-10-20",
-        "brier": 0.2541
+        "brier": 0.2385
       },
       "mimo": {
-        "n": 4,
-        "right": 4,
-        "called": 4,
+        "n": 5,
+        "right": 5,
+        "called": 5,
         "since": "2026-10-20",
-        "brier": 0.2007
+        "brier": 0.2029
       },
       "stepfun": {
-        "n": 3,
+        "n": 4,
         "right": 2,
-        "called": 3,
+        "called": 4,
         "since": "2026-10-20",
-        "brier": 0.2439
+        "brier": 0.2505
       },
       "wenxin": {
         "n": 1,
@@ -10474,11 +10550,11 @@
         "brier": 0.2116
       },
       "zai": {
-        "n": 3,
-        "right": 0,
-        "called": 3,
+        "n": 4,
+        "right": 1,
+        "called": 4,
         "since": "2026-10-21",
-        "brier": 0.274
+        "brier": 0.2539
       },
       "nemotron": {
         "n": 1,
@@ -10490,18 +10566,18 @@
     },
     "DXY": {
       "chatgpt": {
-        "n": 3,
-        "right": 0,
-        "called": 3,
-        "since": "2026-10-19",
-        "brier": 0.2922
-      },
-      "claude": {
         "n": 4,
-        "right": 2,
+        "right": 1,
         "called": 4,
         "since": "2026-10-19",
-        "brier": 0.2505
+        "brier": 0.2676
+      },
+      "claude": {
+        "n": 5,
+        "right": 2,
+        "called": 5,
+        "since": "2026-10-19",
+        "brier": 0.2544
       },
       "deepseek": {
         "n": 3,
@@ -10511,39 +10587,39 @@
         "brier": 0.2344
       },
       "gemini": {
-        "n": 3,
-        "right": 1,
-        "called": 3,
-        "since": "2026-10-19",
-        "brier": 0.2974
-      },
-      "grok": {
-        "n": 3,
-        "right": 3,
-        "called": 3,
-        "since": "2026-10-19",
-        "brier": 0.2336
-      },
-      "kimi": {
-        "n": 2,
-        "right": 2,
-        "called": 2,
-        "since": "2026-10-19",
-        "brier": 0.2025
-      },
-      "mimo": {
         "n": 4,
         "right": 2,
         "called": 4,
         "since": "2026-10-19",
-        "brier": 0.2515
+        "brier": 0.2714
+      },
+      "grok": {
+        "n": 4,
+        "right": 4,
+        "called": 4,
+        "since": "2026-10-19",
+        "brier": 0.2328
+      },
+      "kimi": {
+        "n": 3,
+        "right": 3,
+        "called": 3,
+        "since": "2026-10-19",
+        "brier": 0.2055
+      },
+      "mimo": {
+        "n": 5,
+        "right": 3,
+        "called": 5,
+        "since": "2026-10-19",
+        "brier": 0.2472
       },
       "meta": {
-        "n": 3,
-        "right": 1,
-        "called": 3,
+        "n": 4,
+        "right": 2,
+        "called": 4,
         "since": "2026-10-20",
-        "brier": 0.2498
+        "brier": 0.2336
       },
       "stepfun": {
         "n": 2,
@@ -10560,11 +10636,11 @@
         "brier": 0.2704
       },
       "zai": {
-        "n": 2,
-        "right": 1,
-        "called": 2,
+        "n": 3,
+        "right": 2,
+        "called": 3,
         "since": "2026-10-22",
-        "brier": 0.2383
+        "brier": 0.2294
       },
       "nemotron": {
         "n": 1,
@@ -10572,22 +10648,29 @@
         "called": 1,
         "since": "2026-10-23",
         "brier": 0.3249
+      },
+      "qwen": {
+        "n": 1,
+        "right": 0,
+        "called": 1,
+        "since": "2026-10-26",
+        "brier": 0.3025
       }
     },
     "VIX": {
       "chatgpt": {
-        "n": 4,
-        "right": 2,
-        "called": 4,
-        "since": "2026-10-19",
-        "brier": 0.2414
-      },
-      "claude": {
         "n": 5,
-        "right": 3,
+        "right": 2,
         "called": 5,
         "since": "2026-10-19",
-        "brier": 0.236
+        "brier": 0.2604
+      },
+      "claude": {
+        "n": 6,
+        "right": 4,
+        "called": 6,
+        "since": "2026-10-19",
+        "brier": 0.2233
       },
       "deepseek": {
         "n": 5,
@@ -10597,46 +10680,46 @@
         "brier": 0.2693
       },
       "gemini": {
-        "n": 4,
+        "n": 5,
         "right": 1,
-        "called": 4,
+        "called": 5,
         "since": "2026-10-19",
-        "brier": 0.2806
+        "brier": 0.2828
       },
       "grok": {
-        "n": 5,
+        "n": 6,
         "right": 2,
-        "called": 5,
+        "called": 6,
         "since": "2026-10-19",
-        "brier": 0.2475
+        "brier": 0.2566
       },
       "kimi": {
-        "n": 2,
+        "n": 3,
         "right": 0,
-        "called": 2,
+        "called": 3,
         "since": "2026-10-19",
-        "brier": 0.4035
+        "brier": 0.3773
       },
       "mimo": {
-        "n": 5,
+        "n": 6,
         "right": 0,
-        "called": 5,
+        "called": 6,
         "since": "2026-10-19",
-        "brier": 0.3071
+        "brier": 0.312
       },
       "meta": {
-        "n": 4,
-        "right": 2,
-        "called": 4,
+        "n": 5,
+        "right": 3,
+        "called": 5,
         "since": "2026-10-20",
-        "brier": 0.2358
+        "brier": 0.2239
       },
       "stepfun": {
-        "n": 3,
-        "right": 2,
-        "called": 3,
+        "n": 4,
+        "right": 3,
+        "called": 4,
         "since": "2026-10-20",
-        "brier": 0.2384
+        "brier": 0.2317
       },
       "wenxin": {
         "n": 1,
@@ -10646,11 +10729,11 @@
         "brier": 0.3844
       },
       "zai": {
-        "n": 2,
-        "right": 1,
-        "called": 2,
+        "n": 3,
+        "right": 2,
+        "called": 3,
         "since": "2026-10-22",
-        "brier": 0.2825
+        "brier": 0.2558
       },
       "nemotron": {
         "n": 1,
@@ -10658,22 +10741,29 @@
         "called": 1,
         "since": "2026-10-23",
         "brier": 0.3364
+      },
+      "qwen": {
+        "n": 1,
+        "right": 1,
+        "called": 1,
+        "since": "2026-10-26",
+        "brier": 0.16
       }
     },
     "GOLD": {
       "chatgpt": {
-        "n": 4,
-        "right": 1,
-        "called": 4,
-        "since": "2026-10-19",
-        "brier": 0.2686
-      },
-      "claude": {
         "n": 5,
-        "right": 3,
+        "right": 2,
         "called": 5,
         "since": "2026-10-19",
-        "brier": 0.2448
+        "brier": 0.259
+      },
+      "claude": {
+        "n": 6,
+        "right": 4,
+        "called": 6,
+        "since": "2026-10-19",
+        "brier": 0.244
       },
       "deepseek": {
         "n": 4,
@@ -10683,46 +10773,46 @@
         "brier": 0.244
       },
       "gemini": {
-        "n": 4,
-        "right": 1,
-        "called": 4,
-        "since": "2026-10-19",
-        "brier": 0.2807
-      },
-      "grok": {
         "n": 5,
-        "right": 1,
+        "right": 2,
         "called": 5,
         "since": "2026-10-19",
-        "brier": 0.2686
+        "brier": 0.2633
+      },
+      "grok": {
+        "n": 6,
+        "right": 2,
+        "called": 6,
+        "since": "2026-10-19",
+        "brier": 0.2591
       },
       "kimi": {
-        "n": 2,
-        "right": 1,
-        "called": 2,
+        "n": 3,
+        "right": 2,
+        "called": 3,
         "since": "2026-10-19",
-        "brier": 0.2536
+        "brier": 0.2366
       },
       "mimo": {
+        "n": 6,
+        "right": 4,
+        "called": 6,
+        "since": "2026-10-19",
+        "brier": 0.223
+      },
+      "meta": {
         "n": 5,
         "right": 3,
         "called": 5,
-        "since": "2026-10-19",
-        "brier": 0.2272
-      },
-      "meta": {
-        "n": 4,
-        "right": 2,
-        "called": 4,
         "since": "2026-10-20",
-        "brier": 0.2369
+        "brier": 0.2337
       },
       "stepfun": {
-        "n": 2,
-        "right": 1,
-        "called": 2,
+        "n": 3,
+        "right": 2,
+        "called": 3,
         "since": "2026-10-20",
-        "brier": 0.2581
+        "brier": 0.2488
       },
       "wenxin": {
         "n": 1,
@@ -10732,11 +10822,11 @@
         "brier": 0.2704
       },
       "zai": {
-        "n": 3,
-        "right": 2,
-        "called": 3,
+        "n": 4,
+        "right": 3,
+        "called": 4,
         "since": "2026-10-21",
-        "brier": 0.2329
+        "brier": 0.2253
       },
       "nemotron": {
         "n": 1,
@@ -10744,6 +10834,13 @@
         "called": 1,
         "since": "2026-10-23",
         "brier": 0.3136
+      },
+      "qwen": {
+        "n": 1,
+        "right": 1,
+        "called": 1,
+        "since": "2026-10-26",
+        "brier": 0.2025
       }
     },
     "WTI": {
@@ -10920,11 +11017,11 @@
     },
     "COPPER": {
       "chatgpt": {
-        "n": 4,
-        "right": 3,
-        "called": 4,
+        "n": 5,
+        "right": 4,
+        "called": 5,
         "since": "2026-10-19",
-        "brier": 0.2336
+        "brier": 0.2349
       },
       "claude": {
         "n": 5,
@@ -10941,46 +11038,46 @@
         "brier": 0.2308
       },
       "gemini": {
+        "n": 4,
+        "right": 4,
+        "called": 4,
+        "since": "2026-10-19",
+        "brier": 0.1965
+      },
+      "grok": {
         "n": 3,
         "right": 3,
         "called": 3,
         "since": "2026-10-19",
-        "brier": 0.1945
-      },
-      "grok": {
-        "n": 2,
-        "right": 2,
-        "called": 2,
-        "since": "2026-10-19",
-        "brier": 0.1682
+        "brier": 0.1858
       },
       "kimi": {
-        "n": 2,
-        "right": 2,
-        "called": 2,
+        "n": 3,
+        "right": 3,
+        "called": 3,
         "since": "2026-10-19",
-        "brier": 0.2164
+        "brier": 0.2179
       },
       "mimo": {
-        "n": 5,
-        "right": 4,
-        "called": 5,
+        "n": 6,
+        "right": 5,
+        "called": 6,
         "since": "2026-10-19",
-        "brier": 0.2357
+        "brier": 0.2302
       },
       "meta": {
-        "n": 3,
-        "right": 1,
-        "called": 3,
+        "n": 4,
+        "right": 2,
+        "called": 4,
         "since": "2026-10-21",
-        "brier": 0.2739
+        "brier": 0.263
       },
       "zai": {
-        "n": 3,
-        "right": 2,
-        "called": 3,
+        "n": 4,
+        "right": 3,
+        "called": 4,
         "since": "2026-10-21",
-        "brier": 0.2286
+        "brier": 0.2267
       },
       "stepfun": {
         "n": 1,
@@ -10995,22 +11092,29 @@
         "called": 1,
         "since": "2026-10-23",
         "brier": 0.2025
+      },
+      "qwen": {
+        "n": 1,
+        "right": 1,
+        "called": 1,
+        "since": "2026-10-26",
+        "brier": 0.2304
       }
     },
     "BTC": {
       "chatgpt": {
-        "n": 4,
-        "right": 3,
-        "called": 4,
+        "n": 5,
+        "right": 4,
+        "called": 5,
         "since": "2026-10-19",
-        "brier": 0.2168
+        "brier": 0.2176
       },
       "claude": {
-        "n": 4,
-        "right": 2,
-        "called": 4,
+        "n": 5,
+        "right": 3,
+        "called": 5,
         "since": "2026-10-19",
-        "brier": 0.2429
+        "brier": 0.2404
       },
       "deepseek": {
         "n": 5,
@@ -11020,32 +11124,32 @@
         "brier": 0.2279
       },
       "gemini": {
-        "n": 3,
-        "right": 0,
-        "called": 3,
-        "since": "2026-10-19",
-        "brier": 0.3063
-      },
-      "grok": {
-        "n": 5,
-        "right": 3,
-        "called": 5,
-        "since": "2026-10-19",
-        "brier": 0.2355
-      },
-      "kimi": {
-        "n": 1,
-        "right": 0,
-        "called": 1,
-        "since": "2026-10-19",
-        "brier": 0.2809
-      },
-      "mimo": {
         "n": 4,
-        "right": 2,
+        "right": 1,
         "called": 4,
         "since": "2026-10-19",
-        "brier": 0.2487
+        "brier": 0.2782
+      },
+      "grok": {
+        "n": 6,
+        "right": 3,
+        "called": 6,
+        "since": "2026-10-19",
+        "brier": 0.2413
+      },
+      "kimi": {
+        "n": 2,
+        "right": 0,
+        "called": 2,
+        "since": "2026-10-19",
+        "brier": 0.2757
+      },
+      "mimo": {
+        "n": 5,
+        "right": 2,
+        "called": 5,
+        "since": "2026-10-19",
+        "brier": 0.2551
       },
       "stepfun": {
         "n": 3,
@@ -11062,41 +11166,55 @@
         "brier": 0.3025
       },
       "zai": {
-        "n": 3,
+        "n": 4,
         "right": 3,
-        "called": 3,
+        "called": 4,
         "since": "2026-10-21",
-        "brier": 0.2086
+        "brier": 0.2241
+      },
+      "meta": {
+        "n": 1,
+        "right": 0,
+        "called": 1,
+        "since": "2026-10-26",
+        "brier": 0.2704
+      },
+      "qwen": {
+        "n": 1,
+        "right": 0,
+        "called": 1,
+        "since": "2026-10-26",
+        "brier": 0.3025
       }
     },
     "DJI": {
       "chatgpt": {
-        "n": 3,
+        "n": 4,
         "right": 1,
-        "called": 3,
+        "called": 4,
         "since": "2026-10-20",
-        "brier": 0.2536
+        "brier": 0.2604
       },
       "gemini": {
-        "n": 3,
-        "right": 2,
-        "called": 3,
-        "since": "2026-10-20",
-        "brier": 0.2233
-      },
-      "meta": {
         "n": 4,
         "right": 2,
         "called": 4,
         "since": "2026-10-20",
-        "brier": 0.22
+        "brier": 0.2516
+      },
+      "meta": {
+        "n": 5,
+        "right": 2,
+        "called": 5,
+        "since": "2026-10-20",
+        "brier": 0.2529
       },
       "stepfun": {
-        "n": 3,
+        "n": 4,
         "right": 1,
-        "called": 3,
+        "called": 4,
         "since": "2026-10-20",
-        "brier": 0.2461
+        "brier": 0.2548
       },
       "wenxin": {
         "n": 1,
@@ -11113,39 +11231,39 @@
         "brier": 0.214
       },
       "grok": {
+        "n": 4,
+        "right": 1,
+        "called": 4,
+        "since": "2026-10-21",
+        "brier": 0.2732
+      },
+      "mimo": {
+        "n": 4,
+        "right": 3,
+        "called": 4,
+        "since": "2026-10-21",
+        "brier": 0.2258
+      },
+      "zai": {
+        "n": 4,
+        "right": 3,
+        "called": 4,
+        "since": "2026-10-21",
+        "brier": 0.2223
+      },
+      "claude": {
         "n": 3,
         "right": 1,
         "called": 3,
-        "since": "2026-10-21",
-        "brier": 0.2443
+        "since": "2026-10-22",
+        "brier": 0.2639
       },
-      "mimo": {
-        "n": 3,
-        "right": 3,
-        "called": 3,
-        "since": "2026-10-21",
-        "brier": 0.1889
-      },
-      "zai": {
-        "n": 3,
-        "right": 3,
-        "called": 3,
-        "since": "2026-10-21",
-        "brier": 0.1881
-      },
-      "claude": {
+      "kimi": {
         "n": 2,
         "right": 1,
         "called": 2,
-        "since": "2026-10-22",
-        "brier": 0.2501
-      },
-      "kimi": {
-        "n": 1,
-        "right": 1,
-        "called": 1,
         "since": "2026-10-23",
-        "brier": 0.1764
+        "brier": 0.2564
       },
       "nemotron": {
         "n": 1,
@@ -11153,29 +11271,78 @@
         "called": 1,
         "since": "2026-10-23",
         "brier": 0.2809
+      },
+      "qwen": {
+        "n": 1,
+        "right": 0,
+        "called": 1,
+        "since": "2026-10-26",
+        "brier": 0.3364
       }
     }
   },
   "by_horizon": {
     "1d": [
       {
-        "seat": "zai",
-        "name": "Z.ai",
+        "seat": "qwen",
+        "name": "Qwen",
         "side": "CN",
-        "model": "GLM-5.3",
-        "n": 33,
-        "days": 3,
+        "model": "Qwen3.8-Max",
+        "n": 9,
+        "days": 1,
         "ranked": false,
-        "dir_pct": 60.6,
-        "brier": 0.2341,
+        "dir_pct": 66.7,
+        "brier": 0.242,
         "consensus_brier": null,
         "stars": null,
         "stability": null,
         "worst_month_pct": null,
         "portfolio": {
-          "value": 100375.78,
-          "ret_pct": 0.376,
-          "sp500_ret_pct": -0.995,
+          "value": 100009.23,
+          "ret_pct": 0.009,
+          "sp500_ret_pct": -0.292,
+          "hold_ret_pct": null
+        }
+      },
+      {
+        "seat": "zai",
+        "name": "Z.ai",
+        "side": "CN",
+        "model": "GLM-5.3-Flash",
+        "n": 43,
+        "days": 4,
+        "ranked": false,
+        "dir_pct": 65.1,
+        "brier": 0.2332,
+        "consensus_brier": null,
+        "stars": null,
+        "stability": null,
+        "worst_month_pct": null,
+        "portfolio": {
+          "value": 100314.26,
+          "ret_pct": 0.314,
+          "sp500_ret_pct": -0.292,
+          "hold_ret_pct": null
+        }
+      },
+      {
+        "seat": "meta",
+        "name": "Meta AI",
+        "side": "US",
+        "model": "Muse Spark 1.3",
+        "n": 50,
+        "days": 5,
+        "ranked": false,
+        "dir_pct": 62,
+        "brier": 0.2185,
+        "consensus_brier": null,
+        "stars": null,
+        "stability": null,
+        "worst_month_pct": null,
+        "portfolio": {
+          "value": 101098.47,
+          "ret_pct": 1.098,
+          "sp500_ret_pct": -0.292,
           "hold_ret_pct": null
         }
       },
@@ -11194,30 +11361,9 @@
         "stability": null,
         "worst_month_pct": null,
         "portfolio": {
-          "value": 99375.8,
-          "ret_pct": -0.624,
-          "sp500_ret_pct": -0.995,
-          "hold_ret_pct": null
-        }
-      },
-      {
-        "seat": "meta",
-        "name": "Meta AI",
-        "side": "US",
-        "model": "Muse Spark 1.3",
-        "n": 40,
-        "days": 4,
-        "ranked": false,
-        "dir_pct": 60,
-        "brier": 0.2144,
-        "consensus_brier": null,
-        "stars": null,
-        "stability": null,
-        "worst_month_pct": null,
-        "portfolio": {
-          "value": 102236.09,
-          "ret_pct": 2.236,
-          "sp500_ret_pct": -0.995,
+          "value": 99208.07,
+          "ret_pct": -0.792,
+          "sp500_ret_pct": -0.292,
           "hold_ret_pct": null
         }
       },
@@ -11226,19 +11372,19 @@
         "name": "MiMo (Xiaomi)",
         "side": "CN",
         "model": "MiMo-V2.6-Pro",
-        "n": 55,
-        "days": 5,
+        "n": 65,
+        "days": 6,
         "ranked": false,
-        "dir_pct": 54.5,
-        "brier": 0.2548,
+        "dir_pct": 56.9,
+        "brier": 0.2527,
         "consensus_brier": null,
         "stars": null,
         "stability": null,
         "worst_month_pct": null,
         "portfolio": {
-          "value": 100371.59,
-          "ret_pct": 0.372,
-          "sp500_ret_pct": -0.995,
+          "value": 100324.42,
+          "ret_pct": 0.324,
+          "sp500_ret_pct": -0.292,
           "hold_ret_pct": null
         }
       },
@@ -11247,19 +11393,19 @@
         "name": "Step 5 Preview",
         "side": "CN",
         "model": "Step 5 Preview",
-        "n": 32,
-        "days": 3,
+        "n": 39,
+        "days": 4,
         "ranked": false,
-        "dir_pct": 53.1,
-        "brier": 0.2443,
+        "dir_pct": 56.4,
+        "brier": 0.2442,
         "consensus_brier": null,
         "stars": null,
         "stability": null,
         "worst_month_pct": null,
         "portfolio": {
-          "value": 99851.31,
-          "ret_pct": -0.149,
-          "sp500_ret_pct": -0.995,
+          "value": 99861.31,
+          "ret_pct": -0.139,
+          "sp500_ret_pct": -0.292,
           "hold_ret_pct": null
         }
       },
@@ -11268,19 +11414,19 @@
         "name": "Grok",
         "side": "US",
         "model": "Grok 4.7",
-        "n": 53,
-        "days": 5,
+        "n": 63,
+        "days": 6,
         "ranked": false,
-        "dir_pct": 52.8,
+        "dir_pct": 55.6,
         "brier": 0.2407,
         "consensus_brier": null,
         "stars": null,
         "stability": null,
         "worst_month_pct": null,
         "portfolio": {
-          "value": 100464.77,
-          "ret_pct": 0.465,
-          "sp500_ret_pct": -0.995,
+          "value": 100264.55,
+          "ret_pct": 0.265,
+          "sp500_ret_pct": -0.292,
           "hold_ret_pct": null
         }
       },
@@ -11289,19 +11435,19 @@
         "name": "Gemini",
         "side": "US",
         "model": "Gemini 4 Argon",
-        "n": 44,
-        "days": 4,
+        "n": 54,
+        "days": 5,
         "ranked": false,
-        "dir_pct": 50,
-        "brier": 0.2585,
+        "dir_pct": 51.9,
+        "brier": 0.2559,
         "consensus_brier": null,
         "stars": null,
         "stability": null,
         "worst_month_pct": null,
         "portfolio": {
-          "value": 100966.01,
-          "ret_pct": 0.966,
-          "sp500_ret_pct": -0.995,
+          "value": 100537.24,
+          "ret_pct": 0.537,
+          "sp500_ret_pct": -0.292,
           "hold_ret_pct": null
         }
       },
@@ -11310,40 +11456,19 @@
         "name": "ChatGPT",
         "side": "US",
         "model": "GPT-6.1 Sol",
-        "n": 46,
-        "days": 4,
-        "ranked": false,
-        "dir_pct": 47.8,
-        "brier": 0.2494,
-        "consensus_brier": null,
-        "stars": null,
-        "stability": null,
-        "worst_month_pct": null,
-        "portfolio": {
-          "value": 99986.51,
-          "ret_pct": -0.013,
-          "sp500_ret_pct": -0.995,
-          "hold_ret_pct": null
-        }
-      },
-      {
-        "seat": "claude",
-        "name": "Claude",
-        "side": "US",
-        "model": "Claude Opus 5.5",
-        "n": 54,
+        "n": 56,
         "days": 5,
         "ranked": false,
-        "dir_pct": 46.3,
-        "brier": 0.2534,
+        "dir_pct": 50,
+        "brier": 0.2492,
         "consensus_brier": null,
         "stars": null,
         "stability": null,
         "worst_month_pct": null,
         "portfolio": {
-          "value": 99181.46,
-          "ret_pct": -0.819,
-          "sp500_ret_pct": -0.995,
+          "value": 100024.54,
+          "ret_pct": 0.025,
+          "sp500_ret_pct": -0.292,
           "hold_ret_pct": null
         }
       },
@@ -11352,19 +11477,40 @@
         "name": "Kimi",
         "side": "CN",
         "model": "Kimi K3",
-        "n": 22,
-        "days": 2,
+        "n": 32,
+        "days": 3,
         "ranked": false,
-        "dir_pct": 40.9,
-        "brier": 0.2766,
+        "dir_pct": 50,
+        "brier": 0.2671,
         "consensus_brier": null,
         "stars": null,
         "stability": null,
         "worst_month_pct": null,
         "portfolio": {
-          "value": 99722.52,
-          "ret_pct": -0.277,
-          "sp500_ret_pct": -0.995,
+          "value": 99761.06,
+          "ret_pct": -0.239,
+          "sp500_ret_pct": -0.292,
+          "hold_ret_pct": null
+        }
+      },
+      {
+        "seat": "claude",
+        "name": "Claude",
+        "side": "US",
+        "model": "Claude Opus 5.5",
+        "n": 62,
+        "days": 6,
+        "ranked": false,
+        "dir_pct": 48.4,
+        "brier": 0.2519,
+        "consensus_brier": null,
+        "stars": null,
+        "stability": null,
+        "worst_month_pct": null,
+        "portfolio": {
+          "value": 99619.69,
+          "ret_pct": -0.38,
+          "sp500_ret_pct": -0.292,
           "hold_ret_pct": null
         }
       },
@@ -11383,9 +11529,9 @@
         "stability": null,
         "worst_month_pct": null,
         "portfolio": {
-          "value": 101110.92,
-          "ret_pct": 1.111,
-          "sp500_ret_pct": -0.995,
+          "value": 100693.01,
+          "ret_pct": 0.693,
+          "sp500_ret_pct": -0.292,
           "hold_ret_pct": null
         }
       },
@@ -11404,56 +11550,114 @@
         "stability": null,
         "worst_month_pct": null,
         "portfolio": {
-          "value": 99941.85,
-          "ret_pct": -0.058,
-          "sp500_ret_pct": -0.995,
+          "value": 100039.83,
+          "ret_pct": 0.04,
+          "sp500_ret_pct": -0.292,
           "hold_ret_pct": null
         }
+      }
+    ],
+    "1w": [
+      {
+        "seat": "chatgpt",
+        "name": "ChatGPT",
+        "n": 12,
+        "nb": 12,
+        "dir_pct": 75,
+        "brier": 0.2118
+      },
+      {
+        "seat": "mimo",
+        "name": "MiMo (Xiaomi)",
+        "n": 11,
+        "nb": 12,
+        "dir_pct": 72.7,
+        "brier": 0.2384
+      },
+      {
+        "seat": "gemini",
+        "name": "Gemini",
+        "n": 12,
+        "nb": 12,
+        "dir_pct": 58.3,
+        "brier": 0.246
+      },
+      {
+        "seat": "deepseek",
+        "name": "DeepSeek",
+        "n": 12,
+        "nb": 12,
+        "dir_pct": 41.7,
+        "brier": 0.257
+      },
+      {
+        "seat": "kimi",
+        "name": "Kimi",
+        "n": 12,
+        "nb": 12,
+        "dir_pct": 33.3,
+        "brier": 0.286
+      },
+      {
+        "seat": "claude",
+        "name": "Claude",
+        "n": 10,
+        "nb": 12,
+        "dir_pct": 10,
+        "brier": 0.2883
+      },
+      {
+        "seat": "grok",
+        "name": "Grok",
+        "n": 12,
+        "nb": 12,
+        "dir_pct": 33.3,
+        "brier": 0.2995
       }
     ]
   },
   "lines_hit": {
     "chatgpt": {
-      "t": 16,
-      "tn": 34,
-      "i": 4,
-      "in": 48
+      "t": 22,
+      "tn": 46,
+      "i": 6,
+      "in": 60
     },
     "claude": {
-      "t": 27,
-      "tn": 39,
-      "i": 17,
-      "in": 55
+      "t": 33,
+      "tn": 49,
+      "i": 21,
+      "in": 65
     },
     "deepseek": {
-      "t": 13,
-      "tn": 44,
-      "i": 14,
-      "in": 57
+      "t": 21,
+      "tn": 56,
+      "i": 18,
+      "in": 69
     },
     "gemini": {
-      "t": 15,
-      "tn": 37,
-      "i": 13,
-      "in": 47
+      "t": 22,
+      "tn": 49,
+      "i": 18,
+      "in": 59
     },
     "grok": {
-      "t": 11,
-      "tn": 44,
-      "i": 16,
-      "in": 55
+      "t": 14,
+      "tn": 56,
+      "i": 17,
+      "in": 67
     },
     "kimi": {
-      "t": 5,
-      "tn": 17,
-      "i": 3,
-      "in": 23
+      "t": 10,
+      "tn": 29,
+      "i": 6,
+      "in": 35
     },
     "mimo": {
-      "t": 18,
-      "tn": 49,
-      "i": 13,
-      "in": 57
+      "t": 24,
+      "tn": 60,
+      "i": 17,
+      "in": 68
     },
     "meta": {
       "t": 11,
@@ -11488,17 +11692,17 @@
   },
   "usa_cn": {
     "us": {
-      "dir_pct": 49.2,
+      "dir_pct": 51.7,
       "brier": 0.2574,
-      "n": 248
+      "n": 296
     },
     "cn": {
-      "dir_pct": 53.8,
-      "brier": 0.2616,
-      "n": 208
+      "dir_pct": 57.1,
+      "brier": 0.257,
+      "n": 254
     }
   },
   "url": "https://top.polyhelper.ai/ai-markets/",
-  "snapshot_id": "29f1f914cb5a42c8cfc684dda1b4432c4ede0cf7cd5778676333007e24d8aeec",
-  "snapshot_run": "2026-10-24-btc"
+  "snapshot_id": "972da3801bee0d217f9477ca777ed44388fab497820da2faf10ab71e19a006ac",
+  "snapshot_run": "2026-10-26-am"
 }
