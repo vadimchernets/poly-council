@@ -1,0 +1,15 @@
+date,model,country,resolved_n,direction_hit_pct,brier,consensus_brier,stars,ranked
+2026-10-30,Amazon Nova,US,28,71.4,0.2236,,,false
+2026-10-30,Z.ai,CN,84,60.7,0.2419,,,false
+2026-10-30,Qwen,CN,48,58.3,0.236,,,false
+2026-10-30,Meta AI,US,91,58.2,0.2321,,,false
+2026-10-30,DeepSeek,CN,80,56.2,0.2416,,,false
+2026-10-30,Grok,US,105,54.3,0.2453,,,true
+2026-10-30,MiMo (Xiaomi),CN,105,54.3,0.252,,,true
+2026-10-30,Claude,US,95,52.6,0.2494,,,true
+2026-10-30,Step 5 Preview,CN,64,51.6,0.2464,,,false
+2026-10-30,Gemini,US,96,47.9,0.2543,,,false
+2026-10-30,wenxin,CN,32,46.9,0.2657,,,false
+2026-10-30,Kimi,CN,74,45.9,0.2609,,,false
+2026-10-30,ChatGPT,US,86,45.3,0.2554,,,false
+2026-10-30,Nemotron + Mercury (поиск),US,49,44.9,0.262,,,false
