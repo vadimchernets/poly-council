@@ -2,16 +2,16 @@
   "schema": 1,
   "kind": "council",
   "lang": "en",
-  "generated_at": "2026-10-30T20:58:17Z",
+  "generated_at": "2026-10-31T20:50:33Z",
   "issue": "2026-10-30",
   "run_id": "2026-10-30-am",
   "tz": "America/New_York",
-  "next_at": "2026-10-31T13:12:00Z",
+  "next_at": "2026-11-01T22:15:00Z",
   "next_issue": {
-    "kind": "btc_weekend",
-    "label": "the weekend issue: Bitcoin"
+    "kind": "radar",
+    "label": "the Sunday issue: the week’s radar"
   },
-  "status": "morning",
+  "status": "scored",
   "pinned": true,
   "cut": false,
   "gate": {
@@ -150,7 +150,7 @@
   ],
   "free_asset": "SOX",
   "quotes": {
-    "as_of": "2026-10-30T20:58:14Z",
+    "as_of": "2026-10-31T20:50:28Z",
     "delay_min": 15,
     "source": "yahoo|kraken",
     "live_url": "https://polyhelper-trends-votes.vadymchernets.workers.dev/quotes"
@@ -1579,7 +1579,7 @@
         "price": 28384.846,
         "chg_day_pct": -3.461,
         "chg_since_seal_pct": -3.461,
-        "at": "2026-10-30T20:58:10Z",
+        "at": "2026-10-30T21:15:59Z",
         "stale": false,
         "source": "yahoo",
         "delay_min": 15
@@ -4346,7 +4346,7 @@
         "price": 10688.8,
         "chg_day_pct": -7.201,
         "chg_since_seal_pct": -7.201,
-        "at": "2026-10-30T20:58:13Z",
+        "at": "2026-10-30T21:15:59Z",
         "stale": false,
         "source": "yahoo",
         "delay_min": 15
@@ -7098,10 +7098,10 @@
         "source": "yahoo"
       },
       "now": {
-        "price": 101.93,
-        "chg_day_pct": -0.105,
-        "chg_since_seal_pct": 0.292,
-        "at": "2026-10-30T20:48:11Z",
+        "price": 101.964,
+        "chg_day_pct": 0.083,
+        "chg_since_seal_pct": 0.326,
+        "at": "2026-10-30T20:59:59Z",
         "stale": false,
         "source": "yahoo",
         "delay_min": 15
@@ -9845,10 +9845,10 @@
         "source": "yahoo"
       },
       "now": {
-        "price": 3882.9,
-        "chg_day_pct": -3.684,
-        "chg_since_seal_pct": -2.713,
-        "at": "2026-10-30T20:48:13Z",
+        "price": 3898.9,
+        "chg_day_pct": -3.287,
+        "chg_since_seal_pct": -2.313,
+        "at": "2026-10-30T20:59:59Z",
         "stale": false,
         "source": "yahoo",
         "delay_min": 15
@@ -11224,10 +11224,10 @@
         "source": "yahoo"
       },
       "now": {
-        "price": 102.94,
-        "chg_day_pct": 0.922,
-        "chg_since_seal_pct": -1.162,
-        "at": "2026-10-30T20:48:13Z",
+        "price": 104.12,
+        "chg_day_pct": 2.078,
+        "chg_since_seal_pct": -0.029,
+        "at": "2026-10-30T20:59:59Z",
         "stale": false,
         "source": "yahoo",
         "delay_min": 15
@@ -12610,10 +12610,10 @@
         "source": "yahoo"
       },
       "now": {
-        "price": 112.3,
-        "chg_day_pct": 1.354,
-        "chg_since_seal_pct": -1.083,
-        "at": "2026-10-30T20:48:13Z",
+        "price": 113.43,
+        "chg_day_pct": 2.374,
+        "chg_since_seal_pct": -0.088,
+        "at": "2026-10-30T20:59:57Z",
         "stale": false,
         "source": "yahoo",
         "delay_min": 15
@@ -13978,10 +13978,10 @@
         "source": "yahoo"
       },
       "now": {
-        "price": 6.488,
-        "chg_day_pct": -1.734,
-        "chg_since_seal_pct": -0.399,
-        "at": "2026-10-30T20:48:02Z",
+        "price": 6.482,
+        "chg_day_pct": -1.825,
+        "chg_since_seal_pct": -0.491,
+        "at": "2026-10-30T20:59:59Z",
         "stale": false,
         "source": "yahoo",
         "delay_min": 15
@@ -15351,10 +15351,10 @@
         "source": "kraken"
       },
       "now": {
-        "price": 76771.5,
-        "chg_day_pct": -2.528,
-        "chg_since_seal_pct": -1.078,
-        "at": "2026-10-30T20:58:14Z",
+        "price": 77450.1,
+        "chg_day_pct": 0.87,
+        "chg_since_seal_pct": -0.204,
+        "at": "2026-10-31T20:50:28Z",
         "stale": false,
         "source": "kraken",
         "delay_min": 0
@@ -16723,7 +16723,7 @@
     }
   ],
   "evening": {
-    "at": "2026-10-30T20:30:48Z",
+    "at": "2026-10-30T21:06:56Z",
     "rows": [
       {
         "asset": "SPX",
@@ -17147,26 +17147,42 @@
         "price_check": {
           "source2": "cnbc",
           "status": "ok",
-          "diff_pct": -0.0222,
+          "diff_pct": -0.0002,
           "tol_pct": 0.1,
           "ref_diff_pct": 0.02,
+          "ref_kept": true,
           "accepted": {
             "p0": 10880.095703125,
-            "p1": 10586.4755859375,
+            "p1": 10688.7998046875,
             "outcome": 0,
             "noise": 0.116734001849407
           }
         },
+        "close_refresh": {
+          "close_was": 10586.4755859375,
+          "close_at_was": "2026-10-30T19:45:00Z",
+          "ref_was": 10880.095703125,
+          "draw_was": false,
+          "actual_pct_was": -2.699,
+          "close_at": "2026-10-30T20:00:00Z",
+          "from": "2026-10-21",
+          "by": "confirmed",
+          "close": 10688.7998046875,
+          "ref": 10880.095703125,
+          "draw": false,
+          "actual_pct": -1.758
+        },
         "1d": {
           "expected": "down",
           "ref": 10880.095703125,
-          "close": 10586.4755859375,
-          "close_at": "2026-10-30T19:45:00Z",
-          "actual_pct": -2.699,
+          "close": 10688.7998046875,
+          "close_at": "2026-10-30T20:00:00Z",
+          "close_final": true,
+          "actual_pct": -1.758,
           "draw": false,
           "right": 12,
           "of": 13,
-          "closest": "meta",
+          "closest": "grok",
           "p": {
             "chatgpt": [
               39,
@@ -17287,19 +17303,35 @@
           "diff_pct": 0,
           "tol_pct": 0.3,
           "ref_diff_pct": 0.0406,
+          "ref_kept": true,
           "accepted": {
             "p0": 4.927000045776367,
-            "p1": 4.927000045776367,
+            "p1": 4.928999900817871,
             "outcome": null,
             "noise": 0.06312987223352963
           }
         },
+        "close_refresh": {
+          "close_was": 4.927000045776367,
+          "close_at_was": "2026-10-30T18:58:00Z",
+          "ref_was": 4.927000045776367,
+          "draw_was": true,
+          "actual_pct_was": 0,
+          "close_at": "2026-10-30T18:59:00Z",
+          "from": "2026-10-21",
+          "by": "confirmed",
+          "close": 4.928999900817871,
+          "ref": 4.927000045776367,
+          "draw": true,
+          "actual_pct": 0.041
+        },
         "1d": {
           "expected": "up",
           "ref": 4.927000045776367,
-          "close": 4.927000045776367,
-          "close_at": "2026-10-30T18:58:00Z",
-          "actual_pct": 0,
+          "close": 4.928999900817871,
+          "close_at": "2026-10-30T18:59:00Z",
+          "close_final": true,
+          "actual_pct": 0.041,
           "draw": true,
           "right": 0,
           "of": 13,
@@ -17310,55 +17342,55 @@
           "pall": {
             "chatgpt": [
               42,
-              0
+              1
             ],
             "qwen": [
               65,
-              0
+              1
             ],
             "claude": [
               45,
-              0
+              1
             ],
             "stepfun": [
               45,
-              0
+              1
             ],
             "kimi": [
               58,
-              0
+              1
             ],
             "gemini": [
               60,
-              0
+              1
             ],
             "mimo": [
               45,
-              0
+              1
             ],
             "zai": [
               45,
-              0
+              1
             ],
             "deepseek": [
               42,
-              0
+              1
             ],
             "grok": [
               55,
-              0
+              1
             ],
             "nova": [
               65,
-              0
+              1
             ],
             "nemotron": [
               48,
-              0
+              1
             ],
             "meta": [
               66,
-              0
+              1
             ]
           }
         }
@@ -17721,6 +17753,145 @@
             ],
             "meta": [
               44,
+              0
+            ]
+          }
+        }
+      },
+      {
+        "asset": "WTI",
+        "minority_right": true,
+        "price_check": {
+          "source2": "cnbc",
+          "status": "ok",
+          "diff_pct": 0,
+          "tol_pct": 0.2,
+          "ref_diff_pct": 0,
+          "accepted": {
+            "p0": 103.91999816894531,
+            "p1": 103.05000305175781,
+            "outcome": 0,
+            "noise": 0.09002861359124024
+          }
+        },
+        "1d": {
+          "expected": "up",
+          "ref": 103.91999816894531,
+          "close": 103.05000305175781,
+          "close_at": "2026-10-30T20:00:00Z",
+          "close_final": true,
+          "actual_pct": -0.837,
+          "draw": false,
+          "right": 1,
+          "of": 13,
+          "closest": "nemotron",
+          "p": {
+            "chatgpt": [
+              53,
+              0
+            ],
+            "qwen": [
+              75,
+              0
+            ],
+            "claude": [
+              53,
+              0
+            ],
+            "stepfun": [
+              55,
+              0
+            ],
+            "kimi": [
+              58,
+              0
+            ],
+            "gemini": [
+              66,
+              0
+            ],
+            "mimo": [
+              57,
+              0
+            ],
+            "zai": [
+              62,
+              0
+            ],
+            "deepseek": [
+              56,
+              0
+            ],
+            "grok": [
+              52,
+              0
+            ],
+            "nova": [
+              55,
+              0
+            ],
+            "nemotron": [
+              45,
+              0
+            ],
+            "meta": [
+              68,
+              0
+            ]
+          },
+          "noise": 0.09,
+          "cw": 58,
+          "pall": {
+            "chatgpt": [
+              53,
+              0
+            ],
+            "qwen": [
+              75,
+              0
+            ],
+            "claude": [
+              53,
+              0
+            ],
+            "stepfun": [
+              55,
+              0
+            ],
+            "kimi": [
+              58,
+              0
+            ],
+            "gemini": [
+              66,
+              0
+            ],
+            "mimo": [
+              57,
+              0
+            ],
+            "zai": [
+              62,
+              0
+            ],
+            "deepseek": [
+              56,
+              0
+            ],
+            "grok": [
+              52,
+              0
+            ],
+            "nova": [
+              55,
+              0
+            ],
+            "nemotron": [
+              45,
+              0
+            ],
+            "meta": [
+              68,
               0
             ]
           }

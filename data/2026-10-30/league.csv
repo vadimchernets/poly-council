@@ -1,15 +1,15 @@
 date,model,country,resolved_n,direction_hit_pct,brier,consensus_brier,stars,ranked
-2026-10-30,Amazon Nova,US,28,71.4,0.2236,,,false
-2026-10-30,Z.ai,CN,84,60.7,0.2419,,,false
-2026-10-30,Qwen,CN,48,58.3,0.236,,,false
-2026-10-30,Meta AI,US,91,58.2,0.2321,,,false
-2026-10-30,DeepSeek,CN,80,56.2,0.2416,,,false
-2026-10-30,Grok,US,105,54.3,0.2453,,,true
-2026-10-30,MiMo (Xiaomi),CN,105,54.3,0.252,,,true
-2026-10-30,Claude,US,95,52.6,0.2494,,,true
-2026-10-30,Step 5 Preview,CN,64,51.6,0.2464,,,false
-2026-10-30,Gemini,US,96,47.9,0.2543,,,false
-2026-10-30,wenxin,CN,32,46.9,0.2657,,,false
-2026-10-30,Kimi,CN,74,45.9,0.2609,,,false
-2026-10-30,ChatGPT,US,86,45.3,0.2554,,,false
-2026-10-30,Nemotron + Mercury (поиск),US,49,44.9,0.262,,,false
+2026-10-30,Amazon Nova,US,29,69,0.2262,,,false
+2026-10-30,Z.ai,CN,85,60,0.2435,,,false
+2026-10-30,Meta AI,US,92,57.6,0.2345,,,false
+2026-10-30,Qwen,CN,49,57.1,0.2422,,,false
+2026-10-30,DeepSeek,CN,81,55.6,0.2424,,,false
+2026-10-30,Grok,US,106,53.8,0.2455,,,true
+2026-10-30,MiMo (Xiaomi),CN,106,53.8,0.2526,,,true
+2026-10-30,Claude,US,96,52.1,0.2497,,,true
+2026-10-30,Step 5 Preview,CN,65,50.8,0.2471,,,false
+2026-10-30,Gemini,US,97,47.4,0.2561,,,false
+2026-10-30,"Wenxin (文心, Baidu; ERNIE)",CN,32,46.9,0.2657,,,false
+2026-10-30,Nemotron + Mercury (поиск),US,50,46,0.2608,,,false
+2026-10-30,Kimi,CN,75,45.3,0.2619,,,false
+2026-10-30,ChatGPT,US,87,44.8,0.2557,,,false
