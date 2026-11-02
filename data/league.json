@@ -2,24 +2,24 @@
   "schema": 1,
   "kind": "council-league",
   "lang": "en",
-  "generated_at": "2026-11-01T08:19:11Z",
+  "generated_at": "2026-11-02T21:56:20Z",
   "notice": "These results are based on simulated or hypothetical performance results that have certain inherent limitations. Unlike the results shown in an actual performance record, these results do not represent actual trading. Also, because these trades have not actually been executed, these results may have under-or over-compensated for the impact, if any, of certain market factors, such as lack of liquidity. Simulated or hypothetical trading programs in general are also subject to the fact that they are designed with the benefit of hindsight. No representation is being made that any account will or is likely to achieve profits or losses similar to these being shown.",
-  "resolved_n": 106,
+  "resolved_n": 115,
   "need": 30,
-  "days_collected": 16,
+  "days_collected": 18,
   "first_day": "2026-10-16",
   "history": "collecting history: 30 of 30 resolved forecasts",
   "benchmarks": {
     "coin_brier": 0.25,
-    "consensus_brier": 0.2489,
-    "weighted_brier": 0.2478,
-    "usa_brier": 0.2474,
-    "china_brier": 0.2497,
-    "sp500_ret_pct": -1.829,
+    "consensus_brier": 0.2498,
+    "weighted_brier": 0.2487,
+    "usa_brier": 0.2491,
+    "china_brier": 0.2501,
+    "sp500_ret_pct": -2.021,
     "poly_portfolio": {
-      "value": 100025.61,
-      "ret_pct": 0.026,
-      "sp500_ret_pct": -1.829,
+      "value": 99773.34,
+      "ret_pct": -0.227,
+      "sp500_ret_pct": -2.021,
       "hold_ret_pct": null
     }
   },
@@ -30,33 +30,33 @@
         "lo": 50,
         "hi": 60,
         "bin": "[50,60)",
-        "n": 854,
-        "said": 54.4,
-        "came": 49.6
+        "n": 943,
+        "said": 54.5,
+        "came": 48.8
       },
       {
         "lo": 60,
         "hi": 70,
         "bin": "[60,70)",
-        "n": 168,
-        "said": 62.2,
-        "came": 62.5
+        "n": 195,
+        "said": 62.1,
+        "came": 59
       },
       {
         "lo": 70,
         "hi": 80,
         "bin": "[70,80)",
-        "n": 28,
-        "said": 71.2,
-        "came": 78.6
+        "n": 33,
+        "said": 71.3,
+        "came": 78.8
       },
       {
         "lo": 80,
         "hi": 100,
         "bin": "[80,100]",
-        "n": 0,
-        "said": null,
-        "came": null
+        "n": 1,
+        "said": 80,
+        "came": 0
       }
     ],
     "chatgpt": [
@@ -64,17 +64,17 @@
         "lo": 50,
         "hi": 60,
         "bin": "[50,60)",
-        "n": 74,
-        "said": 54.6,
-        "came": 39.2
+        "n": 80,
+        "said": 54.9,
+        "came": 38.8
       },
       {
         "lo": 60,
         "hi": 70,
         "bin": "[60,70)",
-        "n": 13,
-        "said": 62.1,
-        "came": 76.9
+        "n": 16,
+        "said": 62.2,
+        "came": 68.8
       },
       {
         "lo": 70,
@@ -98,9 +98,9 @@
         "lo": 50,
         "hi": 60,
         "bin": "[50,60)",
-        "n": 93,
+        "n": 100,
         "said": 52.7,
-        "came": 50.5
+        "came": 49
       },
       {
         "lo": 60,
@@ -132,9 +132,9 @@
         "lo": 50,
         "hi": 60,
         "bin": "[50,60)",
-        "n": 71,
-        "said": 54.6,
-        "came": 50.7
+        "n": 80,
+        "said": 54.7,
+        "came": 50
       },
       {
         "lo": 60,
@@ -166,17 +166,17 @@
         "lo": 50,
         "hi": 60,
         "bin": "[50,60)",
-        "n": 74,
+        "n": 78,
         "said": 55.8,
-        "came": 44.6
+        "came": 46.2
       },
       {
         "lo": 60,
         "hi": 70,
         "bin": "[60,70)",
-        "n": 17,
-        "said": 63.3,
-        "came": 47.1
+        "n": 22,
+        "said": 62.9,
+        "came": 50
       },
       {
         "lo": 70,
@@ -200,17 +200,17 @@
         "lo": 50,
         "hi": 60,
         "bin": "[50,60)",
-        "n": 80,
-        "said": 54.3,
-        "came": 51.2
+        "n": 88,
+        "said": 54.4,
+        "came": 50
       },
       {
         "lo": 60,
         "hi": 70,
         "bin": "[60,70)",
-        "n": 24,
-        "said": 62.5,
-        "came": 58.3
+        "n": 25,
+        "said": 62.4,
+        "came": 56
       },
       {
         "lo": 70,
@@ -234,17 +234,17 @@
         "lo": 50,
         "hi": 60,
         "bin": "[50,60)",
-        "n": 65,
+        "n": 71,
         "said": 54.8,
-        "came": 46.2
+        "came": 46.5
       },
       {
         "lo": 60,
         "hi": 70,
         "bin": "[60,70)",
-        "n": 10,
+        "n": 11,
         "said": 62.2,
-        "came": 40
+        "came": 36.4
       },
       {
         "lo": 70,
@@ -268,17 +268,17 @@
         "lo": 50,
         "hi": 60,
         "bin": "[50,60)",
-        "n": 95,
+        "n": 103,
         "said": 54.8,
-        "came": 54.7
+        "came": 54.4
       },
       {
         "lo": 60,
         "hi": 70,
         "bin": "[60,70)",
-        "n": 11,
-        "said": 62.4,
-        "came": 45.5
+        "n": 12,
+        "said": 62.2,
+        "came": 50
       },
       {
         "lo": 70,
@@ -302,17 +302,17 @@
         "lo": 50,
         "hi": 60,
         "bin": "[50,60)",
-        "n": 63,
-        "said": 54.1,
-        "came": 49.2
+        "n": 69,
+        "said": 54,
+        "came": 49.3
       },
       {
         "lo": 60,
         "hi": 70,
         "bin": "[60,70)",
-        "n": 2,
+        "n": 3,
         "said": 60,
-        "came": 100
+        "came": 66.7
       },
       {
         "lo": 70,
@@ -336,23 +336,23 @@
         "lo": 50,
         "hi": 60,
         "bin": "[50,60)",
-        "n": 24,
-        "said": 54.1,
-        "came": 45.8
+        "n": 34,
+        "said": 54.2,
+        "came": 35.3
       },
       {
         "lo": 60,
         "hi": 70,
         "bin": "[60,70)",
-        "n": 7,
-        "said": 62.7,
-        "came": 57.1
+        "n": 8,
+        "said": 62.4,
+        "came": 50
       },
       {
         "lo": 70,
         "hi": 80,
         "bin": "[70,80)",
-        "n": 1,
+        "n": 2,
         "said": 70,
         "came": 0
       },
@@ -370,17 +370,17 @@
         "lo": 50,
         "hi": 60,
         "bin": "[50,60)",
-        "n": 62,
-        "said": 54.6,
-        "came": 50
+        "n": 67,
+        "said": 54.5,
+        "came": 47.8
       },
       {
         "lo": 60,
         "hi": 70,
         "bin": "[60,70)",
-        "n": 22,
-        "said": 63.4,
-        "came": 68.2
+        "n": 26,
+        "said": 63.1,
+        "came": 57.7
       },
       {
         "lo": 70,
@@ -404,17 +404,17 @@
         "lo": 50,
         "hi": 60,
         "bin": "[50,60)",
-        "n": 77,
-        "said": 54.3,
-        "came": 61
+        "n": 85,
+        "said": 54.2,
+        "came": 62.4
       },
       {
         "lo": 60,
         "hi": 70,
         "bin": "[60,70)",
-        "n": 8,
-        "said": 60.8,
-        "came": 50
+        "n": 9,
+        "said": 60.7,
+        "came": 44.4
       },
       {
         "lo": 70,
@@ -438,25 +438,25 @@
         "lo": 50,
         "hi": 60,
         "bin": "[50,60)",
-        "n": 42,
-        "said": 54.8,
-        "came": 42.9
+        "n": 50,
+        "said": 55,
+        "came": 44
       },
       {
         "lo": 60,
         "hi": 70,
         "bin": "[60,70)",
-        "n": 6,
-        "said": 62.5,
-        "came": 66.7
+        "n": 8,
+        "said": 62.1,
+        "came": 62.5
       },
       {
         "lo": 70,
         "hi": 80,
         "bin": "[70,80)",
-        "n": 2,
+        "n": 3,
         "said": 70,
-        "came": 50
+        "came": 66.7
       },
       {
         "lo": 80,
@@ -472,33 +472,33 @@
         "lo": 50,
         "hi": 60,
         "bin": "[50,60)",
-        "n": 20,
+        "n": 21,
         "said": 55,
-        "came": 45
+        "came": 42.9
       },
       {
         "lo": 60,
         "hi": 70,
         "bin": "[60,70)",
-        "n": 22,
-        "said": 61.8,
-        "came": 63.6
+        "n": 25,
+        "said": 61.6,
+        "came": 60
       },
       {
         "lo": 70,
         "hi": 80,
         "bin": "[70,80)",
-        "n": 7,
-        "said": 70.7,
-        "came": 71.4
+        "n": 9,
+        "said": 71.7,
+        "came": 77.8
       },
       {
         "lo": 80,
         "hi": 100,
         "bin": "[80,100]",
-        "n": 0,
-        "said": null,
-        "came": null
+        "n": 1,
+        "said": 80,
+        "came": 0
       }
     ],
     "nova": [
@@ -506,23 +506,23 @@
         "lo": 50,
         "hi": 60,
         "bin": "[50,60)",
-        "n": 14,
-        "said": 54.8,
-        "came": 64.3
+        "n": 17,
+        "said": 55,
+        "came": 52.9
       },
       {
         "lo": 60,
         "hi": 70,
         "bin": "[60,70)",
-        "n": 13,
-        "said": 61.2,
-        "came": 69.2
+        "n": 17,
+        "said": 61.5,
+        "came": 70.6
       },
       {
         "lo": 70,
         "hi": 80,
         "bin": "[70,80)",
-        "n": 2,
+        "n": 3,
         "said": 70,
         "came": 100
       },
@@ -537,9 +537,9 @@
     ]
   },
   "together": {
-    "all_wrong": 6,
-    "minority_right": 47,
-    "rows": 111
+    "all_wrong": 7,
+    "minority_right": 51,
+    "rows": 120
   },
   "crowd": {
     "polymarket": {
@@ -12440,19 +12440,19 @@
       "name": "Amazon Nova",
       "side": "US",
       "model": "Amazon Nova",
-      "n": 29,
-      "days": 3,
+      "n": 37,
+      "days": 4,
       "ranked": false,
-      "dir_pct": 69,
-      "brier": 0.2262,
+      "dir_pct": 64.9,
+      "brier": 0.2265,
       "consensus_brier": null,
       "stars": null,
       "stability": null,
       "worst_month_pct": null,
       "portfolio": {
-        "value": 98605.42,
-        "ret_pct": -1.395,
-        "sp500_ret_pct": -1.829,
+        "value": 96997.04,
+        "ret_pct": -3.003,
+        "sp500_ret_pct": -2.021,
         "hold_ret_pct": null
       }
     },
@@ -12460,41 +12460,20 @@
       "seat": "zai",
       "name": "Z.ai",
       "side": "CN",
-      "model": "GLM-5.3",
-      "n": 85,
-      "days": 8,
-      "ranked": false,
-      "dir_pct": 60,
-      "brier": 0.2435,
-      "consensus_brier": null,
-      "stars": null,
-      "stability": null,
-      "worst_month_pct": null,
-      "portfolio": {
-        "value": 99912.18,
-        "ret_pct": -0.088,
-        "sp500_ret_pct": -1.829,
-        "hold_ret_pct": null
-      }
-    },
-    {
-      "seat": "meta",
-      "name": "Meta AI",
-      "side": "US",
-      "model": "Muse Spark 1.3",
-      "n": 92,
+      "model": "GLM-5.3-Flash",
+      "n": 94,
       "days": 9,
       "ranked": false,
-      "dir_pct": 57.6,
-      "brier": 0.2345,
+      "dir_pct": 60.6,
+      "brier": 0.2432,
       "consensus_brier": null,
       "stars": null,
       "stability": null,
       "worst_month_pct": null,
       "portfolio": {
-        "value": 102406.32,
-        "ret_pct": 2.406,
-        "sp500_ret_pct": -1.829,
+        "value": 99465.29,
+        "ret_pct": -0.535,
+        "sp500_ret_pct": -2.021,
         "hold_ret_pct": null
       }
     },
@@ -12503,19 +12482,19 @@
       "name": "Qwen",
       "side": "CN",
       "model": "Qwen3.8-Max",
-      "n": 49,
-      "days": 5,
+      "n": 56,
+      "days": 6,
       "ranked": false,
-      "dir_pct": 57.1,
-      "brier": 0.2422,
+      "dir_pct": 55.4,
+      "brier": 0.2465,
       "consensus_brier": null,
       "stars": null,
       "stability": null,
       "worst_month_pct": null,
       "portfolio": {
-        "value": 99097.85,
-        "ret_pct": -0.902,
-        "sp500_ret_pct": -1.829,
+        "value": 97911.16,
+        "ret_pct": -2.089,
+        "sp500_ret_pct": -2.021,
         "hold_ret_pct": null
       }
     },
@@ -12524,40 +12503,19 @@
       "name": "DeepSeek",
       "side": "CN",
       "model": "DeepSeek V4.1",
-      "n": 81,
-      "days": 8,
+      "n": 90,
+      "days": 9,
       "ranked": false,
-      "dir_pct": 55.6,
-      "brier": 0.2424,
+      "dir_pct": 54.4,
+      "brier": 0.2449,
       "consensus_brier": null,
       "stars": null,
       "stability": null,
       "worst_month_pct": null,
       "portfolio": {
-        "value": 100296.52,
-        "ret_pct": 0.297,
-        "sp500_ret_pct": -1.829,
-        "hold_ret_pct": null
-      }
-    },
-    {
-      "seat": "grok",
-      "name": "Grok",
-      "side": "US",
-      "model": "Grok 4.7",
-      "n": 106,
-      "days": 10,
-      "ranked": true,
-      "dir_pct": 53.8,
-      "brier": 0.2455,
-      "consensus_brier": null,
-      "stars": null,
-      "stability": null,
-      "worst_month_pct": null,
-      "portfolio": {
-        "value": 100340.89,
-        "ret_pct": 0.341,
-        "sp500_ret_pct": -1.829,
+        "value": 99834.83,
+        "ret_pct": -0.165,
+        "sp500_ret_pct": -2.021,
         "hold_ret_pct": null
       }
     },
@@ -12566,19 +12524,61 @@
       "name": "MiMo (Xiaomi)",
       "side": "CN",
       "model": "MiMo-V2.6-Pro",
-      "n": 106,
-      "days": 10,
+      "n": 115,
+      "days": 11,
       "ranked": true,
-      "dir_pct": 53.8,
-      "brier": 0.2526,
+      "dir_pct": 53.9,
+      "brier": 0.2513,
       "consensus_brier": null,
       "stars": null,
       "stability": null,
       "worst_month_pct": null,
       "portfolio": {
-        "value": 100219.54,
-        "ret_pct": 0.22,
-        "sp500_ret_pct": -1.829,
+        "value": 100285.01,
+        "ret_pct": 0.285,
+        "sp500_ret_pct": -2.021,
+        "hold_ret_pct": null
+      }
+    },
+    {
+      "seat": "meta",
+      "name": "Meta AI",
+      "side": "US",
+      "model": "Muse Spark 1.3",
+      "n": 101,
+      "days": 10,
+      "ranked": true,
+      "dir_pct": 53.5,
+      "brier": 0.2413,
+      "consensus_brier": null,
+      "stars": null,
+      "stability": null,
+      "worst_month_pct": null,
+      "portfolio": {
+        "value": 99694.04,
+        "ret_pct": -0.306,
+        "sp500_ret_pct": -2.021,
+        "hold_ret_pct": null
+      }
+    },
+    {
+      "seat": "grok",
+      "name": "Grok",
+      "side": "US",
+      "model": "Grok 4.7",
+      "n": 115,
+      "days": 11,
+      "ranked": true,
+      "dir_pct": 52.2,
+      "brier": 0.2485,
+      "consensus_brier": null,
+      "stars": null,
+      "stability": null,
+      "worst_month_pct": null,
+      "portfolio": {
+        "value": 98869.9,
+        "ret_pct": -1.13,
+        "sp500_ret_pct": -2.021,
         "hold_ret_pct": null
       }
     },
@@ -12587,19 +12587,19 @@
       "name": "Claude",
       "side": "US",
       "model": "Claude Opus 5.5",
-      "n": 96,
-      "days": 10,
+      "n": 103,
+      "days": 11,
       "ranked": true,
-      "dir_pct": 52.1,
-      "brier": 0.2497,
+      "dir_pct": 50.5,
+      "brier": 0.2507,
       "consensus_brier": null,
       "stars": null,
       "stability": null,
       "worst_month_pct": null,
       "portfolio": {
-        "value": 98482.29,
-        "ret_pct": -1.518,
-        "sp500_ret_pct": -1.829,
+        "value": 98446.11,
+        "ret_pct": -1.554,
+        "sp500_ret_pct": -2.021,
         "hold_ret_pct": null
       }
     },
@@ -12608,19 +12608,19 @@
       "name": "Step 5 Preview",
       "side": "CN",
       "model": "Step 5 Preview",
-      "n": 65,
-      "days": 7,
+      "n": 72,
+      "days": 8,
       "ranked": false,
-      "dir_pct": 50.8,
-      "brier": 0.2471,
+      "dir_pct": 50,
+      "brier": 0.2489,
       "consensus_brier": null,
       "stars": null,
       "stability": null,
       "worst_month_pct": null,
       "portfolio": {
-        "value": 99690.68,
-        "ret_pct": -0.309,
-        "sp500_ret_pct": -1.829,
+        "value": 99550.64,
+        "ret_pct": -0.449,
+        "sp500_ret_pct": -2.021,
         "hold_ret_pct": null
       }
     },
@@ -12629,61 +12629,40 @@
       "name": "Gemini",
       "side": "US",
       "model": "Gemini 4 Argon",
-      "n": 97,
-      "days": 9,
-      "ranked": false,
-      "dir_pct": 47.4,
-      "brier": 0.2561,
+      "n": 106,
+      "days": 10,
+      "ranked": true,
+      "dir_pct": 49.1,
+      "brier": 0.2545,
       "consensus_brier": null,
       "stars": null,
       "stability": null,
       "worst_month_pct": null,
       "portfolio": {
-        "value": 100668.55,
-        "ret_pct": 0.669,
-        "sp500_ret_pct": -1.829,
-        "hold_ret_pct": null
-      }
-    },
-    {
-      "seat": "wenxin",
-      "name": "Wenxin (文心, Baidu; ERNIE)",
-      "side": "CN",
-      "model": "文心 5.1",
-      "n": 32,
-      "days": 3,
-      "ranked": false,
-      "dir_pct": 46.9,
-      "brier": 0.2657,
-      "consensus_brier": null,
-      "stars": null,
-      "stability": null,
-      "worst_month_pct": null,
-      "portfolio": {
-        "value": 100694.7,
-        "ret_pct": 0.695,
-        "sp500_ret_pct": -1.829,
+        "value": 98866.04,
+        "ret_pct": -1.134,
+        "sp500_ret_pct": -2.021,
         "hold_ret_pct": null
       }
     },
     {
       "seat": "nemotron",
-      "name": "Nemotron + Mercury (поиск)",
+      "name": "nemotron",
       "side": "US",
-      "model": "Nemotron 3 Ultra",
-      "n": 50,
-      "days": 5,
+      "model": null,
+      "n": 61,
+      "days": 6,
       "ranked": false,
-      "dir_pct": 46,
-      "brier": 0.2608,
+      "dir_pct": 47.5,
+      "brier": 0.2577,
       "consensus_brier": null,
       "stars": null,
       "stability": null,
       "worst_month_pct": null,
       "portfolio": {
-        "value": 99592.1,
-        "ret_pct": -0.408,
-        "sp500_ret_pct": -1.829,
+        "value": 99761.16,
+        "ret_pct": -0.239,
+        "sp500_ret_pct": -2.021,
         "hold_ret_pct": null
       }
     },
@@ -12692,19 +12671,19 @@
       "name": "Kimi",
       "side": "CN",
       "model": "Kimi K3",
-      "n": 75,
-      "days": 7,
+      "n": 82,
+      "days": 8,
       "ranked": false,
-      "dir_pct": 45.3,
-      "brier": 0.2619,
+      "dir_pct": 45.1,
+      "brier": 0.2637,
       "consensus_brier": null,
       "stars": null,
       "stability": null,
       "worst_month_pct": null,
       "portfolio": {
-        "value": 100053.27,
-        "ret_pct": 0.053,
-        "sp500_ret_pct": -1.829,
+        "value": 99803.01,
+        "ret_pct": -0.197,
+        "sp500_ret_pct": -2.021,
         "hold_ret_pct": null
       }
     },
@@ -12712,20 +12691,41 @@
       "seat": "chatgpt",
       "name": "ChatGPT",
       "side": "US",
-      "model": "GPT-6.1 Sol",
-      "n": 87,
-      "days": 8,
+      "model": "GPT-6",
+      "n": 96,
+      "days": 9,
       "ranked": false,
-      "dir_pct": 44.8,
-      "brier": 0.2557,
+      "dir_pct": 43.8,
+      "brier": 0.2592,
       "consensus_brier": null,
       "stars": null,
       "stability": null,
       "worst_month_pct": null,
       "portfolio": {
-        "value": 101007.79,
-        "ret_pct": 1.008,
-        "sp500_ret_pct": -1.829,
+        "value": 100885.09,
+        "ret_pct": 0.885,
+        "sp500_ret_pct": -2.021,
+        "hold_ret_pct": null
+      }
+    },
+    {
+      "seat": "wenxin",
+      "name": "wenxin",
+      "side": "CN",
+      "model": null,
+      "n": 44,
+      "days": 4,
+      "ranked": false,
+      "dir_pct": 36.4,
+      "brier": 0.2771,
+      "consensus_brier": null,
+      "stars": null,
+      "stability": null,
+      "worst_month_pct": null,
+      "portfolio": {
+        "value": 98673.96,
+        "ret_pct": -1.326,
+        "sp500_ret_pct": -2.021,
         "hold_ret_pct": null
       }
     }
@@ -12733,111 +12733,111 @@
   "by_asset": {
     "SPX": {
       "chatgpt": {
-        "n": 8,
-        "right": 2,
-        "called": 8,
-        "since": "2026-10-19",
-        "brier": 0.2634
-      },
-      "claude": {
-        "n": 10,
-        "right": 6,
-        "called": 10,
-        "since": "2026-10-19",
-        "brier": 0.2468
-      },
-      "deepseek": {
-        "n": 8,
-        "right": 5,
-        "called": 8,
-        "since": "2026-10-19",
-        "brier": 0.221
-      },
-      "gemini": {
         "n": 9,
-        "right": 8,
+        "right": 2,
         "called": 9,
         "since": "2026-10-19",
-        "brier": 0.2137
+        "brier": 0.2703
       },
-      "grok": {
-        "n": 10,
+      "claude": {
+        "n": 11,
         "right": 6,
-        "called": 10,
+        "called": 11,
         "since": "2026-10-19",
-        "brier": 0.2177
+        "brier": 0.2489
       },
-      "kimi": {
-        "n": 7,
+      "deepseek": {
+        "n": 9,
         "right": 5,
-        "called": 7,
+        "called": 9,
         "since": "2026-10-19",
-        "brier": 0.2374
+        "brier": 0.2313
       },
-      "mimo": {
+      "gemini": {
         "n": 10,
         "right": 8,
         "called": 10,
         "since": "2026-10-19",
         "brier": 0.226
       },
-      "stepfun": {
-        "n": 7,
+      "grok": {
+        "n": 11,
+        "right": 6,
+        "called": 11,
+        "since": "2026-10-19",
+        "brier": 0.2274
+      },
+      "kimi": {
+        "n": 8,
         "right": 5,
-        "called": 7,
+        "called": 8,
+        "since": "2026-10-19",
+        "brier": 0.2498
+      },
+      "mimo": {
+        "n": 11,
+        "right": 8,
+        "called": 11,
+        "since": "2026-10-19",
+        "brier": 0.233
+      },
+      "stepfun": {
+        "n": 8,
+        "right": 5,
+        "called": 8,
         "since": "2026-10-20",
-        "brier": 0.228
+        "brier": 0.2333
       },
       "wenxin": {
-        "n": 3,
+        "n": 4,
         "right": 3,
-        "called": 3,
+        "called": 4,
         "since": "2026-10-20",
-        "brier": 0.1999
+        "brier": 0.234
       },
       "meta": {
-        "n": 8,
+        "n": 9,
         "right": 6,
-        "called": 8,
+        "called": 9,
         "since": "2026-10-21",
-        "brier": 0.1865
+        "brier": 0.2085
       },
       "zai": {
-        "n": 8,
-        "right": 6,
-        "called": 8,
+        "n": 9,
+        "right": 7,
+        "called": 9,
         "since": "2026-10-21",
-        "brier": 0.226
+        "brier": 0.2244
       },
       "nemotron": {
-        "n": 5,
+        "n": 6,
         "right": 4,
-        "called": 5,
+        "called": 6,
         "since": "2026-10-23",
-        "brier": 0.2281
+        "brier": 0.2461
       },
       "qwen": {
-        "n": 5,
+        "n": 6,
         "right": 4,
-        "called": 5,
+        "called": 6,
         "since": "2026-10-26",
-        "brier": 0.2055
+        "brier": 0.2312
       },
       "nova": {
-        "n": 3,
+        "n": 4,
         "right": 3,
-        "called": 3,
+        "called": 4,
         "since": "2026-10-28",
-        "brier": 0.215
+        "brier": 0.2369
       }
     },
     "NDX": {
       "chatgpt": {
-        "n": 7,
+        "n": 8,
         "right": 3,
-        "called": 7,
+        "called": 8,
         "since": "2026-10-19",
-        "brier": 0.2592
+        "brier": 0.2703
       },
       "claude": {
         "n": 8,
@@ -12847,97 +12847,97 @@
         "brier": 0.2534
       },
       "deepseek": {
-        "n": 7,
+        "n": 8,
         "right": 4,
-        "called": 7,
+        "called": 8,
         "since": "2026-10-19",
-        "brier": 0.2305
+        "brier": 0.2438
       },
       "gemini": {
-        "n": 8,
-        "right": 2,
-        "called": 8,
+        "n": 9,
+        "right": 3,
+        "called": 9,
         "since": "2026-10-19",
-        "brier": 0.2542
+        "brier": 0.2484
       },
       "grok": {
-        "n": 9,
-        "right": 6,
-        "called": 9,
+        "n": 10,
+        "right": 7,
+        "called": 10,
         "since": "2026-10-19",
-        "brier": 0.2126
+        "brier": 0.2098
       },
       "kimi": {
-        "n": 6,
+        "n": 7,
         "right": 3,
-        "called": 6,
+        "called": 7,
         "since": "2026-10-19",
-        "brier": 0.2533
+        "brier": 0.2636
       },
       "mimo": {
-        "n": 9,
+        "n": 10,
         "right": 5,
-        "called": 9,
+        "called": 10,
         "since": "2026-10-19",
-        "brier": 0.2592
+        "brier": 0.2614
       },
       "meta": {
-        "n": 8,
+        "n": 9,
         "right": 7,
-        "called": 8,
+        "called": 9,
         "since": "2026-10-20",
-        "brier": 0.1888
+        "brier": 0.2078
       },
       "stepfun": {
-        "n": 6,
-        "right": 5,
-        "called": 6,
-        "since": "2026-10-20",
-        "brier": 0.218
-      },
-      "wenxin": {
-        "n": 3,
-        "right": 1,
-        "called": 3,
-        "since": "2026-10-20",
-        "brier": 0.2648
-      },
-      "zai": {
         "n": 7,
         "right": 5,
         "called": 7,
+        "since": "2026-10-20",
+        "brier": 0.2255
+      },
+      "wenxin": {
+        "n": 4,
+        "right": 1,
+        "called": 4,
+        "since": "2026-10-20",
+        "brier": 0.2742
+      },
+      "zai": {
+        "n": 8,
+        "right": 6,
+        "called": 8,
         "since": "2026-10-21",
-        "brier": 0.2263
+        "brier": 0.2222
       },
       "nemotron": {
-        "n": 4,
-        "right": 3,
-        "called": 4,
+        "n": 5,
+        "right": 4,
+        "called": 5,
         "since": "2026-10-23",
-        "brier": 0.2188
+        "brier": 0.2104
       },
       "qwen": {
-        "n": 4,
+        "n": 5,
         "right": 4,
-        "called": 4,
+        "called": 5,
         "since": "2026-10-26",
-        "brier": 0.1653
+        "brier": 0.2603
       },
       "nova": {
-        "n": 2,
+        "n": 3,
         "right": 2,
-        "called": 2,
+        "called": 3,
         "since": "2026-10-28",
-        "brier": 0.1413
+        "brier": 0.2063
       }
     },
     "SOX": {
       "chatgpt": {
-        "n": 8,
+        "n": 9,
         "right": 3,
-        "called": 8,
+        "called": 9,
         "since": "2026-10-19",
-        "brier": 0.2785
+        "brier": 0.2849
       },
       "claude": {
         "n": 6,
@@ -12947,46 +12947,46 @@
         "brier": 0.2544
       },
       "deepseek": {
+        "n": 9,
+        "right": 3,
+        "called": 9,
+        "since": "2026-10-19",
+        "brier": 0.2507
+      },
+      "gemini": {
+        "n": 10,
+        "right": 4,
+        "called": 10,
+        "since": "2026-10-19",
+        "brier": 0.2604
+      },
+      "grok": {
+        "n": 11,
+        "right": 5,
+        "called": 11,
+        "since": "2026-10-19",
+        "brier": 0.2513
+      },
+      "kimi": {
         "n": 8,
         "right": 3,
         "called": 8,
         "since": "2026-10-19",
-        "brier": 0.2456
+        "brier": 0.2799
       },
-      "gemini": {
-        "n": 9,
-        "right": 3,
-        "called": 9,
-        "since": "2026-10-19",
-        "brier": 0.2698
-      },
-      "grok": {
+      "mimo": {
         "n": 10,
         "right": 5,
         "called": 10,
         "since": "2026-10-19",
-        "brier": 0.2428
-      },
-      "kimi": {
-        "n": 7,
-        "right": 3,
-        "called": 7,
-        "since": "2026-10-19",
-        "brier": 0.2751
-      },
-      "mimo": {
-        "n": 9,
-        "right": 5,
-        "called": 9,
-        "since": "2026-10-19",
-        "brier": 0.2567
+        "brier": 0.2581
       },
       "meta": {
-        "n": 9,
+        "n": 10,
         "right": 5,
-        "called": 9,
+        "called": 10,
         "since": "2026-10-20",
-        "brier": 0.2153
+        "brier": 0.224
       },
       "stepfun": {
         "n": 7,
@@ -12996,39 +12996,39 @@
         "brier": 0.2395
       },
       "wenxin": {
-        "n": 3,
-        "right": 2,
-        "called": 3,
+        "n": 4,
+        "right": 3,
+        "called": 4,
         "since": "2026-10-20",
-        "brier": 0.2475
+        "brier": 0.2363
       },
       "zai": {
-        "n": 7,
+        "n": 8,
         "right": 4,
-        "called": 7,
+        "called": 8,
         "since": "2026-10-21",
-        "brier": 0.2577
+        "brier": 0.258
       },
       "nemotron": {
-        "n": 5,
-        "right": 2,
-        "called": 5,
+        "n": 6,
+        "right": 3,
+        "called": 6,
         "since": "2026-10-23",
-        "brier": 0.2843
+        "brier": 0.2519
       },
       "qwen": {
-        "n": 5,
-        "right": 3,
-        "called": 5,
+        "n": 6,
+        "right": 4,
+        "called": 6,
         "since": "2026-10-26",
-        "brier": 0.2326
+        "brier": 0.2205
       },
       "nova": {
-        "n": 3,
-        "right": 3,
-        "called": 3,
+        "n": 4,
+        "right": 4,
+        "called": 4,
         "since": "2026-10-28",
-        "brier": 0.1367
+        "brier": 0.125
       }
     },
     "US10Y": {
@@ -13096,11 +13096,11 @@
         "brier": 0.2505
       },
       "wenxin": {
-        "n": 3,
+        "n": 4,
         "right": 1,
-        "called": 3,
+        "called": 4,
         "since": "2026-10-20",
-        "brier": 0.2508
+        "brier": 0.2781
       },
       "zai": {
         "n": 5,
@@ -13133,39 +13133,39 @@
     },
     "DXY": {
       "chatgpt": {
-        "n": 6,
+        "n": 7,
         "right": 1,
-        "called": 6,
+        "called": 7,
         "since": "2026-10-19",
-        "brier": 0.2793
+        "brier": 0.2811
       },
       "claude": {
-        "n": 7,
+        "n": 8,
         "right": 4,
-        "called": 7,
+        "called": 8,
         "since": "2026-10-19",
-        "brier": 0.2503
+        "brier": 0.2555
       },
       "deepseek": {
-        "n": 5,
-        "right": 2,
-        "called": 5,
+        "n": 6,
+        "right": 3,
+        "called": 6,
         "since": "2026-10-19",
-        "brier": 0.2595
+        "brier": 0.2546
       },
       "gemini": {
-        "n": 7,
-        "right": 3,
-        "called": 7,
+        "n": 8,
+        "right": 4,
+        "called": 8,
         "since": "2026-10-19",
-        "brier": 0.2719
+        "brier": 0.2611
       },
       "grok": {
-        "n": 7,
+        "n": 8,
         "right": 6,
-        "called": 7,
+        "called": 8,
         "since": "2026-10-19",
-        "brier": 0.2361
+        "brier": 0.2431
       },
       "kimi": {
         "n": 6,
@@ -13175,46 +13175,46 @@
         "brier": 0.2369
       },
       "mimo": {
+        "n": 9,
+        "right": 5,
+        "called": 9,
+        "since": "2026-10-19",
+        "brier": 0.2492
+      },
+      "meta": {
         "n": 8,
         "right": 4,
         "called": 8,
-        "since": "2026-10-19",
-        "brier": 0.2528
-      },
-      "meta": {
-        "n": 7,
-        "right": 3,
-        "called": 7,
         "since": "2026-10-20",
-        "brier": 0.2458
+        "brier": 0.2371
       },
       "stepfun": {
-        "n": 3,
-        "right": 0,
-        "called": 3,
-        "since": "2026-10-20",
-        "brier": 0.2704
-      },
-      "wenxin": {
-        "n": 3,
-        "right": 0,
-        "called": 3,
-        "since": "2026-10-20",
-        "brier": 0.2811
-      },
-      "zai": {
-        "n": 6,
-        "right": 3,
-        "called": 6,
-        "since": "2026-10-22",
-        "brier": 0.2545
-      },
-      "nemotron": {
         "n": 4,
         "right": 1,
         "called": 4,
+        "since": "2026-10-20",
+        "brier": 0.2604
+      },
+      "wenxin": {
+        "n": 4,
+        "right": 0,
+        "called": 4,
+        "since": "2026-10-20",
+        "brier": 0.2784
+      },
+      "zai": {
+        "n": 7,
+        "right": 4,
+        "called": 7,
+        "since": "2026-10-22",
+        "brier": 0.2484
+      },
+      "nemotron": {
+        "n": 5,
+        "right": 1,
+        "called": 5,
         "since": "2026-10-23",
-        "brier": 0.2767
+        "brier": 0.2818
       },
       "qwen": {
         "n": 4,
@@ -13224,111 +13224,111 @@
         "brier": 0.2494
       },
       "nova": {
-        "n": 2,
-        "right": 0,
-        "called": 2,
+        "n": 3,
+        "right": 1,
+        "called": 3,
         "since": "2026-10-28",
-        "brier": 0.3025
+        "brier": 0.255
       }
     },
     "VIX": {
       "chatgpt": {
+        "n": 9,
+        "right": 3,
+        "called": 9,
+        "since": "2026-10-19",
+        "brier": 0.3018
+      },
+      "claude": {
+        "n": 11,
+        "right": 7,
+        "called": 11,
+        "since": "2026-10-19",
+        "brier": 0.2338
+      },
+      "deepseek": {
         "n": 8,
         "right": 3,
         "called": 8,
         "since": "2026-10-19",
-        "brier": 0.28
-      },
-      "claude": {
-        "n": 10,
-        "right": 7,
-        "called": 10,
-        "since": "2026-10-19",
-        "brier": 0.2235
-      },
-      "deepseek": {
-        "n": 7,
-        "right": 3,
-        "called": 7,
-        "since": "2026-10-19",
-        "brier": 0.2594
+        "brier": 0.269
       },
       "gemini": {
-        "n": 9,
+        "n": 10,
         "right": 2,
-        "called": 9,
+        "called": 10,
         "since": "2026-10-19",
-        "brier": 0.2706
+        "brier": 0.2819
       },
       "grok": {
+        "n": 11,
+        "right": 4,
+        "called": 11,
+        "since": "2026-10-19",
+        "brier": 0.2656
+      },
+      "kimi": {
+        "n": 8,
+        "right": 2,
+        "called": 8,
+        "since": "2026-10-19",
+        "brier": 0.314
+      },
+      "mimo": {
+        "n": 10,
+        "right": 3,
+        "called": 10,
+        "since": "2026-10-19",
+        "brier": 0.2707
+      },
+      "meta": {
         "n": 10,
         "right": 4,
         "called": 10,
-        "since": "2026-10-19",
-        "brier": 0.2586
-      },
-      "kimi": {
-        "n": 7,
-        "right": 1,
-        "called": 7,
-        "since": "2026-10-19",
-        "brier": 0.3299
-      },
-      "mimo": {
-        "n": 9,
-        "right": 2,
-        "called": 9,
-        "since": "2026-10-19",
-        "brier": 0.2783
-      },
-      "meta": {
-        "n": 9,
-        "right": 4,
-        "called": 9,
         "since": "2026-10-20",
-        "brier": 0.2519
+        "brier": 0.2627
       },
       "stepfun": {
-        "n": 6,
+        "n": 7,
         "right": 5,
-        "called": 6,
+        "called": 7,
         "since": "2026-10-20",
-        "brier": 0.2266
+        "brier": 0.2457
       },
       "wenxin": {
-        "n": 3,
+        "n": 4,
         "right": 2,
-        "called": 3,
+        "called": 4,
         "since": "2026-10-20",
-        "brier": 0.2438
+        "brier": 0.3053
       },
       "zai": {
-        "n": 6,
+        "n": 7,
         "right": 4,
-        "called": 6,
+        "called": 7,
         "since": "2026-10-22",
-        "brier": 0.2471
+        "brier": 0.2632
       },
       "nemotron": {
-        "n": 5,
-        "right": 1,
-        "called": 5,
+        "n": 6,
+        "right": 2,
+        "called": 6,
         "since": "2026-10-23",
-        "brier": 0.2923
+        "brier": 0.2773
       },
       "qwen": {
-        "n": 5,
+        "n": 6,
         "right": 5,
-        "called": 5,
+        "called": 6,
         "since": "2026-10-26",
-        "brier": 0.132
+        "brier": 0.17
       },
       "nova": {
-        "n": 3,
+        "n": 4,
         "right": 3,
-        "called": 3,
+        "called": 4,
         "since": "2026-10-28",
-        "brier": 0.1367
+        "brier": 0.1925
       }
     },
     "GOLD": {
@@ -13396,11 +13396,11 @@
         "brier": 0.2442
       },
       "wenxin": {
-        "n": 2,
+        "n": 3,
         "right": 0,
-        "called": 2,
+        "called": 3,
         "since": "2026-10-20",
-        "brier": 0.2865
+        "brier": 0.2918
       },
       "zai": {
         "n": 7,
@@ -13410,11 +13410,11 @@
         "brier": 0.2318
       },
       "nemotron": {
-        "n": 4,
+        "n": 5,
         "right": 2,
-        "called": 4,
+        "called": 5,
         "since": "2026-10-23",
-        "brier": 0.2753
+        "brier": 0.2875
       },
       "qwen": {
         "n": 4,
@@ -13433,202 +13433,202 @@
     },
     "WTI": {
       "chatgpt": {
-        "n": 7,
-        "right": 3,
-        "called": 7,
+        "n": 8,
+        "right": 4,
+        "called": 8,
         "since": "2026-10-19",
-        "brier": 0.2626
+        "brier": 0.2508
       },
       "claude": {
-        "n": 9,
-        "right": 4,
-        "called": 9,
+        "n": 10,
+        "right": 5,
+        "called": 10,
         "since": "2026-10-19",
-        "brier": 0.2519
+        "brier": 0.2488
       },
       "deepseek": {
-        "n": 8,
-        "right": 4,
-        "called": 8,
+        "n": 9,
+        "right": 5,
+        "called": 9,
         "since": "2026-10-19",
-        "brier": 0.2665
+        "brier": 0.2584
       },
       "gemini": {
-        "n": 8,
-        "right": 3,
-        "called": 8,
+        "n": 9,
+        "right": 4,
+        "called": 9,
         "since": "2026-10-19",
-        "brier": 0.3122
+        "brier": 0.2936
       },
       "grok": {
-        "n": 9,
-        "right": 3,
-        "called": 9,
+        "n": 10,
+        "right": 4,
+        "called": 10,
         "since": "2026-10-19",
-        "brier": 0.2819
+        "brier": 0.2767
       },
       "kimi": {
-        "n": 6,
-        "right": 2,
-        "called": 6,
-        "since": "2026-10-19",
-        "brier": 0.26
-      },
-      "mimo": {
-        "n": 9,
-        "right": 2,
-        "called": 9,
-        "since": "2026-10-19",
-        "brier": 0.2984
-      },
-      "meta": {
-        "n": 8,
-        "right": 5,
-        "called": 8,
-        "since": "2026-10-20",
-        "brier": 0.2722
-      },
-      "stepfun": {
-        "n": 6,
-        "right": 1,
-        "called": 6,
-        "since": "2026-10-20",
-        "brier": 0.2833
-      },
-      "wenxin": {
-        "n": 2,
-        "right": 0,
-        "called": 2,
-        "since": "2026-10-20",
-        "brier": 0.4132
-      },
-      "zai": {
         "n": 7,
         "right": 3,
         "called": 7,
-        "since": "2026-10-21",
-        "brier": 0.2739
+        "since": "2026-10-19",
+        "brier": 0.2558
       },
-      "nemotron": {
-        "n": 5,
-        "right": 1,
-        "called": 5,
-        "since": "2026-10-23",
-        "brier": 0.2876
+      "mimo": {
+        "n": 10,
+        "right": 3,
+        "called": 10,
+        "since": "2026-10-19",
+        "brier": 0.2845
       },
-      "qwen": {
-        "n": 4,
-        "right": 1,
-        "called": 4,
-        "since": "2026-10-27",
+      "meta": {
+        "n": 9,
+        "right": 5,
+        "called": 9,
+        "since": "2026-10-20",
+        "brier": 0.272
+      },
+      "stepfun": {
+        "n": 7,
+        "right": 2,
+        "called": 7,
+        "since": "2026-10-20",
+        "brier": 0.2757
+      },
+      "wenxin": {
+        "n": 3,
+        "right": 0,
+        "called": 3,
+        "since": "2026-10-20",
         "brier": 0.3763
       },
+      "zai": {
+        "n": 8,
+        "right": 4,
+        "called": 8,
+        "since": "2026-10-21",
+        "brier": 0.2649
+      },
+      "nemotron": {
+        "n": 6,
+        "right": 2,
+        "called": 6,
+        "since": "2026-10-23",
+        "brier": 0.269
+      },
+      "qwen": {
+        "n": 5,
+        "right": 2,
+        "called": 5,
+        "since": "2026-10-27",
+        "brier": 0.3135
+      },
       "nova": {
-        "n": 3,
-        "right": 1,
-        "called": 3,
+        "n": 4,
+        "right": 2,
+        "called": 4,
         "since": "2026-10-28",
-        "brier": 0.3092
+        "brier": 0.2625
       }
     },
     "BRENT": {
       "chatgpt": {
-        "n": 8,
-        "right": 4,
-        "called": 8,
-        "since": "2026-10-19",
-        "brier": 0.2424
-      },
-      "claude": {
-        "n": 10,
-        "right": 5,
-        "called": 10,
-        "since": "2026-10-19",
-        "brier": 0.2528
-      },
-      "deepseek": {
-        "n": 8,
-        "right": 5,
-        "called": 8,
-        "since": "2026-10-19",
-        "brier": 0.2457
-      },
-      "gemini": {
         "n": 9,
         "right": 5,
         "called": 9,
         "since": "2026-10-19",
-        "brier": 0.2531
+        "brier": 0.2332
+      },
+      "claude": {
+        "n": 11,
+        "right": 6,
+        "called": 11,
+        "since": "2026-10-19",
+        "brier": 0.2499
+      },
+      "deepseek": {
+        "n": 9,
+        "right": 6,
+        "called": 9,
+        "since": "2026-10-19",
+        "brier": 0.2399
+      },
+      "gemini": {
+        "n": 10,
+        "right": 6,
+        "called": 10,
+        "since": "2026-10-19",
+        "brier": 0.2438
       },
       "grok": {
-        "n": 10,
-        "right": 4,
-        "called": 10,
+        "n": 11,
+        "right": 5,
+        "called": 11,
         "since": "2026-10-19",
-        "brier": 0.2517
+        "brier": 0.2497
       },
       "kimi": {
-        "n": 7,
-        "right": 2,
-        "called": 7,
+        "n": 8,
+        "right": 3,
+        "called": 8,
         "since": "2026-10-19",
-        "brier": 0.2556
+        "brier": 0.2513
       },
       "mimo": {
-        "n": 10,
-        "right": 3,
-        "called": 10,
+        "n": 11,
+        "right": 4,
+        "called": 11,
         "since": "2026-10-19",
-        "brier": 0.2923
+        "brier": 0.2817
       },
       "stepfun": {
-        "n": 7,
-        "right": 2,
-        "called": 7,
+        "n": 8,
+        "right": 3,
+        "called": 8,
         "since": "2026-10-20",
-        "brier": 0.2728
+        "brier": 0.2652
       },
       "wenxin": {
-        "n": 2,
+        "n": 3,
         "right": 0,
-        "called": 2,
+        "called": 3,
         "since": "2026-10-20",
-        "brier": 0.3937
+        "brier": 0.367
       },
       "meta": {
-        "n": 8,
+        "n": 9,
         "right": 5,
-        "called": 8,
+        "called": 9,
         "since": "2026-10-21",
-        "brier": 0.2398
+        "brier": 0.2444
       },
       "zai": {
-        "n": 8,
-        "right": 4,
-        "called": 8,
+        "n": 9,
+        "right": 5,
+        "called": 9,
         "since": "2026-10-21",
-        "brier": 0.2654
+        "brier": 0.2584
       },
       "nemotron": {
-        "n": 4,
-        "right": 1,
-        "called": 4,
+        "n": 5,
+        "right": 2,
+        "called": 5,
         "since": "2026-10-23",
-        "brier": 0.2887
+        "brier": 0.263
       },
       "qwen": {
-        "n": 5,
-        "right": 1,
-        "called": 5,
+        "n": 6,
+        "right": 2,
+        "called": 6,
         "since": "2026-10-26",
-        "brier": 0.371
+        "brier": 0.3196
       },
       "nova": {
-        "n": 3,
-        "right": 1,
-        "called": 3,
+        "n": 4,
+        "right": 2,
+        "called": 4,
         "since": "2026-10-28",
-        "brier": 0.3196
+        "brier": 0.2704
       }
     },
     "COPPER": {
@@ -13703,11 +13703,11 @@
         "brier": 0.2344
       },
       "nemotron": {
-        "n": 5,
+        "n": 6,
         "right": 4,
-        "called": 5,
+        "called": 6,
         "since": "2026-10-23",
-        "brier": 0.2196
+        "brier": 0.2334
       },
       "qwen": {
         "n": 3,
@@ -13724,48 +13724,48 @@
         "brier": 0.2358
       },
       "wenxin": {
-        "n": 2,
+        "n": 3,
         "right": 2,
-        "called": 2,
+        "called": 3,
         "since": "2026-10-28",
-        "brier": 0.2304
+        "brier": 0.2437
       }
     },
     "BTC": {
       "chatgpt": {
-        "n": 8,
-        "right": 6,
-        "called": 8,
+        "n": 9,
+        "right": 7,
+        "called": 9,
         "since": "2026-10-19",
-        "brier": 0.2156
+        "brier": 0.2113
       },
       "claude": {
-        "n": 8,
+        "n": 9,
         "right": 3,
-        "called": 8,
+        "called": 9,
         "since": "2026-10-19",
-        "brier": 0.253
+        "brier": 0.2538
       },
       "deepseek": {
-        "n": 8,
-        "right": 5,
-        "called": 8,
+        "n": 9,
+        "right": 6,
+        "called": 9,
         "since": "2026-10-19",
-        "brier": 0.2295
+        "brier": 0.2296
       },
       "gemini": {
-        "n": 8,
-        "right": 2,
-        "called": 8,
+        "n": 9,
+        "right": 3,
+        "called": 9,
         "since": "2026-10-19",
-        "brier": 0.2684
+        "brier": 0.2554
       },
       "grok": {
-        "n": 10,
+        "n": 11,
         "right": 5,
-        "called": 10,
+        "called": 11,
         "since": "2026-10-19",
-        "brier": 0.2434
+        "brier": 0.2458
       },
       "kimi": {
         "n": 6,
@@ -13775,11 +13775,11 @@
         "brier": 0.2653
       },
       "mimo": {
-        "n": 9,
-        "right": 4,
-        "called": 9,
+        "n": 10,
+        "right": 5,
+        "called": 10,
         "since": "2026-10-19",
-        "brier": 0.2471
+        "brier": 0.2427
       },
       "stepfun": {
         "n": 5,
@@ -13789,25 +13789,25 @@
         "brier": 0.2389
       },
       "wenxin": {
-        "n": 3,
+        "n": 4,
         "right": 1,
-        "called": 3,
+        "called": 4,
         "since": "2026-10-20",
-        "brier": 0.2555
+        "brier": 0.2645
       },
       "zai": {
-        "n": 8,
-        "right": 5,
-        "called": 8,
+        "n": 9,
+        "right": 6,
+        "called": 9,
         "since": "2026-10-21",
-        "brier": 0.232
+        "brier": 0.2308
       },
       "meta": {
-        "n": 5,
+        "n": 6,
         "right": 2,
-        "called": 5,
+        "called": 6,
         "since": "2026-10-26",
-        "brier": 0.2458
+        "brier": 0.2482
       },
       "qwen": {
         "n": 5,
@@ -13817,111 +13817,111 @@
         "brier": 0.2115
       },
       "nemotron": {
-        "n": 3,
-        "right": 2,
-        "called": 3,
+        "n": 4,
+        "right": 3,
+        "called": 4,
         "since": "2026-10-28",
-        "brier": 0.2364
+        "brier": 0.228
       },
       "nova": {
-        "n": 3,
+        "n": 4,
         "right": 3,
-        "called": 3,
+        "called": 4,
         "since": "2026-10-28",
-        "brier": 0.16
+        "brier": 0.1956
       }
     },
     "DJI": {
       "chatgpt": {
-        "n": 6,
+        "n": 7,
         "right": 2,
-        "called": 6,
+        "called": 7,
         "since": "2026-10-20",
-        "brier": 0.2575
+        "brier": 0.2721
       },
       "gemini": {
-        "n": 8,
-        "right": 4,
-        "called": 8,
-        "since": "2026-10-20",
-        "brier": 0.2577
-      },
-      "meta": {
         "n": 9,
-        "right": 3,
+        "right": 4,
         "called": 9,
         "since": "2026-10-20",
-        "brier": 0.2574
+        "brier": 0.2718
+      },
+      "meta": {
+        "n": 10,
+        "right": 3,
+        "called": 10,
+        "since": "2026-10-20",
+        "brier": 0.2726
       },
       "stepfun": {
-        "n": 6,
+        "n": 7,
         "right": 1,
-        "called": 6,
+        "called": 7,
         "since": "2026-10-20",
-        "brier": 0.2583
+        "brier": 0.2646
       },
       "wenxin": {
-        "n": 3,
+        "n": 4,
         "right": 3,
-        "called": 3,
+        "called": 4,
         "since": "2026-10-20",
-        "brier": 0.2243
+        "brier": 0.2385
       },
       "deepseek": {
-        "n": 4,
+        "n": 5,
         "right": 2,
-        "called": 4,
+        "called": 5,
         "since": "2026-10-21",
-        "brier": 0.2334
+        "brier": 0.2472
       },
       "grok": {
-        "n": 8,
+        "n": 9,
         "right": 4,
-        "called": 8,
+        "called": 9,
         "since": "2026-10-21",
-        "brier": 0.2545
+        "brier": 0.2662
       },
       "mimo": {
-        "n": 8,
+        "n": 9,
         "right": 5,
-        "called": 8,
+        "called": 9,
         "since": "2026-10-21",
-        "brier": 0.2404
+        "brier": 0.2473
       },
       "zai": {
-        "n": 8,
+        "n": 9,
         "right": 4,
-        "called": 8,
+        "called": 9,
         "since": "2026-10-21",
-        "brier": 0.2427
+        "brier": 0.2493
       },
       "claude": {
-        "n": 7,
+        "n": 8,
         "right": 3,
-        "called": 7,
+        "called": 8,
         "since": "2026-10-22",
-        "brier": 0.2548
+        "brier": 0.2567
       },
       "kimi": {
-        "n": 6,
+        "n": 7,
         "right": 2,
-        "called": 6,
+        "called": 7,
         "since": "2026-10-23",
-        "brier": 0.2702
+        "brier": 0.2865
       },
       "nemotron": {
-        "n": 4,
+        "n": 5,
         "right": 1,
-        "called": 4,
+        "called": 5,
         "since": "2026-10-23",
-        "brier": 0.2687
+        "brier": 0.2918
       },
       "qwen": {
-        "n": 4,
+        "n": 5,
         "right": 1,
-        "called": 4,
+        "called": 5,
         "since": "2026-10-26",
-        "brier": 0.286
+        "brier": 0.2893
       },
       "nova": {
         "n": 1,
@@ -13939,19 +13939,19 @@
         "name": "Amazon Nova",
         "side": "US",
         "model": "Amazon Nova",
-        "n": 29,
-        "days": 3,
+        "n": 37,
+        "days": 4,
         "ranked": false,
-        "dir_pct": 69,
-        "brier": 0.2262,
+        "dir_pct": 64.9,
+        "brier": 0.2265,
         "consensus_brier": null,
         "stars": null,
         "stability": null,
         "worst_month_pct": null,
         "portfolio": {
-          "value": 98605.42,
-          "ret_pct": -1.395,
-          "sp500_ret_pct": -1.829,
+          "value": 96997.04,
+          "ret_pct": -3.003,
+          "sp500_ret_pct": -2.021,
           "hold_ret_pct": null
         }
       },
@@ -13959,41 +13959,20 @@
         "seat": "zai",
         "name": "Z.ai",
         "side": "CN",
-        "model": "GLM-5.3",
-        "n": 85,
-        "days": 8,
-        "ranked": false,
-        "dir_pct": 60,
-        "brier": 0.2435,
-        "consensus_brier": null,
-        "stars": null,
-        "stability": null,
-        "worst_month_pct": null,
-        "portfolio": {
-          "value": 99912.18,
-          "ret_pct": -0.088,
-          "sp500_ret_pct": -1.829,
-          "hold_ret_pct": null
-        }
-      },
-      {
-        "seat": "meta",
-        "name": "Meta AI",
-        "side": "US",
-        "model": "Muse Spark 1.3",
-        "n": 92,
+        "model": "GLM-5.3-Flash",
+        "n": 94,
         "days": 9,
         "ranked": false,
-        "dir_pct": 57.6,
-        "brier": 0.2345,
+        "dir_pct": 60.6,
+        "brier": 0.2432,
         "consensus_brier": null,
         "stars": null,
         "stability": null,
         "worst_month_pct": null,
         "portfolio": {
-          "value": 102406.32,
-          "ret_pct": 2.406,
-          "sp500_ret_pct": -1.829,
+          "value": 99465.29,
+          "ret_pct": -0.535,
+          "sp500_ret_pct": -2.021,
           "hold_ret_pct": null
         }
       },
@@ -14002,19 +13981,19 @@
         "name": "Qwen",
         "side": "CN",
         "model": "Qwen3.8-Max",
-        "n": 49,
-        "days": 5,
+        "n": 56,
+        "days": 6,
         "ranked": false,
-        "dir_pct": 57.1,
-        "brier": 0.2422,
+        "dir_pct": 55.4,
+        "brier": 0.2465,
         "consensus_brier": null,
         "stars": null,
         "stability": null,
         "worst_month_pct": null,
         "portfolio": {
-          "value": 99097.85,
-          "ret_pct": -0.902,
-          "sp500_ret_pct": -1.829,
+          "value": 97911.16,
+          "ret_pct": -2.089,
+          "sp500_ret_pct": -2.021,
           "hold_ret_pct": null
         }
       },
@@ -14023,40 +14002,19 @@
         "name": "DeepSeek",
         "side": "CN",
         "model": "DeepSeek V4.1",
-        "n": 81,
-        "days": 8,
+        "n": 90,
+        "days": 9,
         "ranked": false,
-        "dir_pct": 55.6,
-        "brier": 0.2424,
+        "dir_pct": 54.4,
+        "brier": 0.2449,
         "consensus_brier": null,
         "stars": null,
         "stability": null,
         "worst_month_pct": null,
         "portfolio": {
-          "value": 100296.52,
-          "ret_pct": 0.297,
-          "sp500_ret_pct": -1.829,
-          "hold_ret_pct": null
-        }
-      },
-      {
-        "seat": "grok",
-        "name": "Grok",
-        "side": "US",
-        "model": "Grok 4.7",
-        "n": 106,
-        "days": 10,
-        "ranked": true,
-        "dir_pct": 53.8,
-        "brier": 0.2455,
-        "consensus_brier": null,
-        "stars": null,
-        "stability": null,
-        "worst_month_pct": null,
-        "portfolio": {
-          "value": 100340.89,
-          "ret_pct": 0.341,
-          "sp500_ret_pct": -1.829,
+          "value": 99834.83,
+          "ret_pct": -0.165,
+          "sp500_ret_pct": -2.021,
           "hold_ret_pct": null
         }
       },
@@ -14065,19 +14023,61 @@
         "name": "MiMo (Xiaomi)",
         "side": "CN",
         "model": "MiMo-V2.6-Pro",
-        "n": 106,
-        "days": 10,
+        "n": 115,
+        "days": 11,
         "ranked": true,
-        "dir_pct": 53.8,
-        "brier": 0.2526,
+        "dir_pct": 53.9,
+        "brier": 0.2513,
         "consensus_brier": null,
         "stars": null,
         "stability": null,
         "worst_month_pct": null,
         "portfolio": {
-          "value": 100219.54,
-          "ret_pct": 0.22,
-          "sp500_ret_pct": -1.829,
+          "value": 100285.01,
+          "ret_pct": 0.285,
+          "sp500_ret_pct": -2.021,
+          "hold_ret_pct": null
+        }
+      },
+      {
+        "seat": "meta",
+        "name": "Meta AI",
+        "side": "US",
+        "model": "Muse Spark 1.3",
+        "n": 101,
+        "days": 10,
+        "ranked": true,
+        "dir_pct": 53.5,
+        "brier": 0.2413,
+        "consensus_brier": null,
+        "stars": null,
+        "stability": null,
+        "worst_month_pct": null,
+        "portfolio": {
+          "value": 99694.04,
+          "ret_pct": -0.306,
+          "sp500_ret_pct": -2.021,
+          "hold_ret_pct": null
+        }
+      },
+      {
+        "seat": "grok",
+        "name": "Grok",
+        "side": "US",
+        "model": "Grok 4.7",
+        "n": 115,
+        "days": 11,
+        "ranked": true,
+        "dir_pct": 52.2,
+        "brier": 0.2485,
+        "consensus_brier": null,
+        "stars": null,
+        "stability": null,
+        "worst_month_pct": null,
+        "portfolio": {
+          "value": 98869.9,
+          "ret_pct": -1.13,
+          "sp500_ret_pct": -2.021,
           "hold_ret_pct": null
         }
       },
@@ -14086,19 +14086,19 @@
         "name": "Claude",
         "side": "US",
         "model": "Claude Opus 5.5",
-        "n": 96,
-        "days": 10,
+        "n": 103,
+        "days": 11,
         "ranked": true,
-        "dir_pct": 52.1,
-        "brier": 0.2497,
+        "dir_pct": 50.5,
+        "brier": 0.2507,
         "consensus_brier": null,
         "stars": null,
         "stability": null,
         "worst_month_pct": null,
         "portfolio": {
-          "value": 98482.29,
-          "ret_pct": -1.518,
-          "sp500_ret_pct": -1.829,
+          "value": 98446.11,
+          "ret_pct": -1.554,
+          "sp500_ret_pct": -2.021,
           "hold_ret_pct": null
         }
       },
@@ -14107,19 +14107,19 @@
         "name": "Step 5 Preview",
         "side": "CN",
         "model": "Step 5 Preview",
-        "n": 65,
-        "days": 7,
+        "n": 72,
+        "days": 8,
         "ranked": false,
-        "dir_pct": 50.8,
-        "brier": 0.2471,
+        "dir_pct": 50,
+        "brier": 0.2489,
         "consensus_brier": null,
         "stars": null,
         "stability": null,
         "worst_month_pct": null,
         "portfolio": {
-          "value": 99690.68,
-          "ret_pct": -0.309,
-          "sp500_ret_pct": -1.829,
+          "value": 99550.64,
+          "ret_pct": -0.449,
+          "sp500_ret_pct": -2.021,
           "hold_ret_pct": null
         }
       },
@@ -14128,61 +14128,40 @@
         "name": "Gemini",
         "side": "US",
         "model": "Gemini 4 Argon",
-        "n": 97,
-        "days": 9,
-        "ranked": false,
-        "dir_pct": 47.4,
-        "brier": 0.2561,
+        "n": 106,
+        "days": 10,
+        "ranked": true,
+        "dir_pct": 49.1,
+        "brier": 0.2545,
         "consensus_brier": null,
         "stars": null,
         "stability": null,
         "worst_month_pct": null,
         "portfolio": {
-          "value": 100668.55,
-          "ret_pct": 0.669,
-          "sp500_ret_pct": -1.829,
-          "hold_ret_pct": null
-        }
-      },
-      {
-        "seat": "wenxin",
-        "name": "Wenxin (文心, Baidu; ERNIE)",
-        "side": "CN",
-        "model": "文心 5.1",
-        "n": 32,
-        "days": 3,
-        "ranked": false,
-        "dir_pct": 46.9,
-        "brier": 0.2657,
-        "consensus_brier": null,
-        "stars": null,
-        "stability": null,
-        "worst_month_pct": null,
-        "portfolio": {
-          "value": 100694.7,
-          "ret_pct": 0.695,
-          "sp500_ret_pct": -1.829,
+          "value": 98866.04,
+          "ret_pct": -1.134,
+          "sp500_ret_pct": -2.021,
           "hold_ret_pct": null
         }
       },
       {
         "seat": "nemotron",
-        "name": "Nemotron + Mercury (поиск)",
+        "name": "nemotron",
         "side": "US",
-        "model": "Nemotron 3 Ultra",
-        "n": 50,
-        "days": 5,
+        "model": null,
+        "n": 61,
+        "days": 6,
         "ranked": false,
-        "dir_pct": 46,
-        "brier": 0.2608,
+        "dir_pct": 47.5,
+        "brier": 0.2577,
         "consensus_brier": null,
         "stars": null,
         "stability": null,
         "worst_month_pct": null,
         "portfolio": {
-          "value": 99592.1,
-          "ret_pct": -0.408,
-          "sp500_ret_pct": -1.829,
+          "value": 99761.16,
+          "ret_pct": -0.239,
+          "sp500_ret_pct": -2.021,
           "hold_ret_pct": null
         }
       },
@@ -14191,19 +14170,19 @@
         "name": "Kimi",
         "side": "CN",
         "model": "Kimi K3",
-        "n": 75,
-        "days": 7,
+        "n": 82,
+        "days": 8,
         "ranked": false,
-        "dir_pct": 45.3,
-        "brier": 0.2619,
+        "dir_pct": 45.1,
+        "brier": 0.2637,
         "consensus_brier": null,
         "stars": null,
         "stability": null,
         "worst_month_pct": null,
         "portfolio": {
-          "value": 100053.27,
-          "ret_pct": 0.053,
-          "sp500_ret_pct": -1.829,
+          "value": 99803.01,
+          "ret_pct": -0.197,
+          "sp500_ret_pct": -2.021,
           "hold_ret_pct": null
         }
       },
@@ -14211,20 +14190,41 @@
         "seat": "chatgpt",
         "name": "ChatGPT",
         "side": "US",
-        "model": "GPT-6.1 Sol",
-        "n": 87,
-        "days": 8,
+        "model": "GPT-6",
+        "n": 96,
+        "days": 9,
         "ranked": false,
-        "dir_pct": 44.8,
-        "brier": 0.2557,
+        "dir_pct": 43.8,
+        "brier": 0.2592,
         "consensus_brier": null,
         "stars": null,
         "stability": null,
         "worst_month_pct": null,
         "portfolio": {
-          "value": 101007.79,
-          "ret_pct": 1.008,
-          "sp500_ret_pct": -1.829,
+          "value": 100885.09,
+          "ret_pct": 0.885,
+          "sp500_ret_pct": -2.021,
+          "hold_ret_pct": null
+        }
+      },
+      {
+        "seat": "wenxin",
+        "name": "wenxin",
+        "side": "CN",
+        "model": null,
+        "n": 44,
+        "days": 4,
+        "ranked": false,
+        "dir_pct": 36.4,
+        "brier": 0.2771,
+        "consensus_brier": null,
+        "stars": null,
+        "stability": null,
+        "worst_month_pct": null,
+        "portfolio": {
+          "value": 98673.96,
+          "ret_pct": -1.326,
+          "sp500_ret_pct": -2.021,
           "hold_ret_pct": null
         }
       }
@@ -14232,51 +14232,59 @@
     "1w": [
       {
         "seat": "wenxin",
-        "name": "Wenxin (文心, Baidu; ERNIE)",
+        "name": "wenxin",
         "n": 10,
         "nb": 10,
         "dir_pct": 90,
         "brier": 0.1517
       },
       {
-        "seat": "gemini",
-        "name": "Gemini",
-        "n": 42,
-        "nb": 42,
-        "dir_pct": 64.3,
-        "brier": 0.2315
+        "seat": "chatgpt",
+        "name": "ChatGPT",
+        "n": 55,
+        "nb": 55,
+        "dir_pct": 67.3,
+        "brier": 0.2325
       },
       {
-        "seat": "mimo",
-        "name": "MiMo (Xiaomi)",
-        "n": 50,
+        "seat": "gemini",
+        "name": "Gemini",
+        "n": 54,
         "nb": 54,
-        "dir_pct": 64,
+        "dir_pct": 63,
         "brier": 0.2331
       },
       {
         "seat": "stepfun",
         "name": "Step 5 Preview",
-        "n": 29,
-        "nb": 31,
-        "dir_pct": 65.5,
-        "brier": 0.2332
+        "n": 36,
+        "nb": 42,
+        "dir_pct": 63.9,
+        "brier": 0.2353
       },
       {
-        "seat": "chatgpt",
-        "name": "ChatGPT",
-        "n": 43,
-        "nb": 43,
-        "dir_pct": 62.8,
-        "brier": 0.2375
+        "seat": "mimo",
+        "name": "MiMo (Xiaomi)",
+        "n": 61,
+        "nb": 66,
+        "dir_pct": 62.3,
+        "brier": 0.2368
       },
       {
         "seat": "zai",
         "name": "Z.ai",
-        "n": 32,
-        "nb": 32,
-        "dir_pct": 56.2,
-        "brier": 0.2422
+        "n": 43,
+        "nb": 44,
+        "dir_pct": 60.5,
+        "brier": 0.2412
+      },
+      {
+        "seat": "meta",
+        "name": "Meta AI",
+        "n": 50,
+        "nb": 50,
+        "dir_pct": 56,
+        "brier": 0.2509
       },
       {
         "seat": "deepseek",
@@ -14287,146 +14295,146 @@
         "brier": 0.2523
       },
       {
-        "seat": "meta",
-        "name": "Meta AI",
-        "n": 38,
-        "nb": 38,
-        "dir_pct": 50,
-        "brier": 0.2569
-      },
-      {
         "seat": "claude",
         "name": "Claude",
-        "n": 45,
-        "nb": 54,
-        "dir_pct": 46.7,
-        "brier": 0.2577
-      },
-      {
-        "seat": "grok",
-        "name": "Grok",
-        "n": 53,
-        "nb": 54,
-        "dir_pct": 37.7,
-        "brier": 0.2754
+        "n": 56,
+        "nb": 66,
+        "dir_pct": 42.9,
+        "brier": 0.2589
       },
       {
         "seat": "kimi",
         "name": "Kimi",
-        "n": 21,
-        "nb": 22,
-        "dir_pct": 42.9,
-        "brier": 0.2783
+        "n": 33,
+        "nb": 34,
+        "dir_pct": 51.5,
+        "brier": 0.2673
+      },
+      {
+        "seat": "grok",
+        "name": "Grok",
+        "n": 65,
+        "nb": 66,
+        "dir_pct": 33.8,
+        "brier": 0.28
       },
       {
         "seat": "nemotron",
-        "name": "Nemotron + Mercury (поиск)",
+        "name": "nemotron",
         "n": 9,
         "nb": 10,
         "dir_pct": 22.2,
         "brier": 0.2962
+      },
+      {
+        "seat": "qwen",
+        "name": "Qwen",
+        "n": 12,
+        "nb": 12,
+        "dir_pct": 16.7,
+        "brier": 0.3289
       }
     ]
   },
   "lines_hit": {
     "chatgpt": {
-      "t": 59,
-      "tn": 120,
-      "i": 17,
-      "in": 144
+      "t": 72,
+      "tn": 140,
+      "i": 20,
+      "in": 168
     },
     "claude": {
-      "t": 87,
-      "tn": 118,
-      "i": 40,
-      "in": 154
+      "t": 97,
+      "tn": 136,
+      "i": 44,
+      "in": 175
     },
     "deepseek": {
-      "t": 40,
-      "tn": 123,
-      "i": 36,
-      "in": 145
+      "t": 45,
+      "tn": 132,
+      "i": 38,
+      "in": 156
     },
     "gemini": {
-      "t": 64,
-      "tn": 135,
-      "i": 50,
-      "in": 155
+      "t": 82,
+      "tn": 156,
+      "i": 59,
+      "in": 179
     },
     "grok": {
-      "t": 57,
-      "tn": 149,
-      "i": 38,
-      "in": 174
+      "t": 68,
+      "tn": 171,
+      "i": 45,
+      "in": 198
     },
     "kimi": {
-      "t": 33,
-      "tn": 92,
-      "i": 18,
-      "in": 106
+      "t": 46,
+      "tn": 111,
+      "i": 25,
+      "in": 127
     },
     "mimo": {
-      "t": 55,
-      "tn": 147,
-      "i": 47,
-      "in": 171
+      "t": 65,
+      "tn": 166,
+      "i": 54,
+      "in": 194
     },
     "meta": {
-      "t": 43,
-      "tn": 125,
-      "i": 22,
-      "in": 148
+      "t": 57,
+      "tn": 147,
+      "i": 33,
+      "in": 172
     },
     "stepfun": {
-      "t": 32,
-      "tn": 70,
-      "i": 50,
-      "in": 107
+      "t": 38,
+      "tn": 83,
+      "i": 58,
+      "in": 123
     },
     "wenxin": {
-      "t": 17,
-      "tn": 35,
-      "i": 21,
-      "in": 44
+      "t": 18,
+      "tn": 41,
+      "i": 28,
+      "in": 56
     },
     "zai": {
-      "t": 49,
-      "tn": 114,
-      "i": 19,
-      "in": 128
+      "t": 61,
+      "tn": 135,
+      "i": 25,
+      "in": 151
     },
     "nemotron": {
-      "t": 16,
-      "tn": 47,
+      "t": 21,
+      "tn": 53,
       "i": 35,
-      "in": 68
+      "in": 80
     },
     "qwen": {
-      "t": 12,
-      "tn": 34,
-      "i": 15,
-      "in": 55
+      "t": 23,
+      "tn": 53,
+      "i": 23,
+      "in": 76
     },
     "nova": {
-      "t": 9,
-      "tn": 23,
-      "i": 12,
-      "in": 34
+      "t": 14,
+      "tn": 33,
+      "i": 14,
+      "in": 45
     }
   },
   "usa_cn": {
     "us": {
-      "dir_pct": 51.7,
-      "brier": 0.2469,
-      "n": 557
+      "dir_pct": 50.6,
+      "brier": 0.2483,
+      "n": 619
     },
     "cn": {
-      "dir_pct": 53.3,
-      "brier": 0.2508,
-      "n": 493
+      "dir_pct": 52.1,
+      "brier": 0.2537,
+      "n": 553
     }
   },
   "url": "https://top.polyhelper.ai/ai-markets/",
-  "snapshot_id": "377d89ef424c18352588d45b9a30915d863525e3d14fb4afb13cc93066d67750",
-  "snapshot_run": "2026-10-31-btc"
+  "snapshot_id": "d52d6bb8b39b6a49630145bd3ae7bfb1a04137839e8928b277cbe67381d86da8",
+  "snapshot_run": "2026-11-02-am"
 }
