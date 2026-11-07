@@ -2,16 +2,16 @@
   "schema": 1,
   "kind": "council",
   "lang": "en",
-  "generated_at": "2026-11-06T17:48:52Z",
+  "generated_at": "2026-11-07T19:29:57Z",
   "issue": "2026-11-06",
   "run_id": "2026-11-06-am",
   "tz": "America/New_York",
-  "next_at": "2026-11-07T14:12:00Z",
+  "next_at": "2026-11-08T22:15:00Z",
   "next_issue": {
-    "kind": "btc_weekend",
-    "label": "the weekend issue: Bitcoin"
+    "kind": "radar",
+    "label": "the Sunday issue: the week’s radar"
   },
-  "status": "morning",
+  "status": "scored",
   "pinned": true,
   "cut": false,
   "gate": {
@@ -150,7 +150,7 @@
   ],
   "free_asset": "US10Y",
   "quotes": {
-    "as_of": "2026-11-06T17:48:33Z",
+    "as_of": "2026-11-07T19:29:40Z",
     "delay_min": 15,
     "source": "yahoo|kraken",
     "live_url": "https://polyhelper-trends-votes.vadymchernets.workers.dev/quotes"
@@ -188,10 +188,10 @@
         "source": "yahoo"
       },
       "now": {
-        "price": 7386.05,
-        "chg_day_pct": 0.44,
-        "chg_since_seal_pct": 0.44,
-        "at": "2026-11-06T17:48:32Z",
+        "price": 7376.86,
+        "chg_day_pct": 0.315,
+        "chg_since_seal_pct": 0.315,
+        "at": "2026-11-06T21:37:09Z",
         "stale": false,
         "source": "yahoo",
         "delay_min": 15
@@ -1587,10 +1587,10 @@
         "source": "yahoo"
       },
       "now": {
-        "price": 26934.658,
-        "chg_day_pct": 1.145,
-        "chg_since_seal_pct": 1.145,
-        "at": "2026-11-06T17:48:32Z",
+        "price": 26989.992,
+        "chg_day_pct": 1.353,
+        "chg_since_seal_pct": 1.353,
+        "at": "2026-11-06T22:15:59Z",
         "stale": false,
         "source": "yahoo",
         "delay_min": 15
@@ -2988,10 +2988,10 @@
         "source": "yahoo"
       },
       "now": {
-        "price": 51441.87,
-        "chg_day_pct": -0.158,
-        "chg_since_seal_pct": -0.158,
-        "at": "2026-11-06T17:48:33Z",
+        "price": 51285.73,
+        "chg_day_pct": -0.461,
+        "chg_since_seal_pct": -0.461,
+        "at": "2026-11-06T21:37:13Z",
         "stale": false,
         "source": "yahoo",
         "delay_min": 15
@@ -4378,10 +4378,10 @@
         "source": "yahoo"
       },
       "now": {
-        "price": 9250.247,
-        "chg_day_pct": 2.654,
-        "chg_since_seal_pct": 2.653,
-        "at": "2026-11-06T17:48:32Z",
+        "price": 9390.25,
+        "chg_day_pct": 4.207,
+        "chg_since_seal_pct": 4.207,
+        "at": "2026-11-06T22:15:59Z",
         "stale": false,
         "source": "yahoo",
         "delay_min": 15
@@ -5768,10 +5768,10 @@
         "source": "yahoo"
       },
       "now": {
-        "price": 4.847,
-        "chg_day_pct": 0.207,
-        "chg_since_seal_pct": 0.207,
-        "at": "2026-11-06T17:33:26Z",
+        "price": 4.859,
+        "chg_day_pct": 0.455,
+        "chg_since_seal_pct": 0.455,
+        "at": "2026-11-06T19:59:56Z",
         "stale": false,
         "source": "yahoo",
         "delay_min": 15
@@ -7156,10 +7156,10 @@
         "source": "yahoo"
       },
       "now": {
-        "price": 102.113,
-        "chg_day_pct": 0.557,
-        "chg_since_seal_pct": 0.137,
-        "at": "2026-11-06T17:38:32Z",
+        "price": 102.279,
+        "chg_day_pct": -0.019,
+        "chg_since_seal_pct": 0.3,
+        "at": "2026-11-06T21:59:59Z",
         "stale": false,
         "source": "yahoo",
         "delay_min": 15
@@ -8545,10 +8545,10 @@
         "source": "yahoo"
       },
       "now": {
-        "price": 24.58,
-        "chg_day_pct": -12.77,
-        "chg_since_seal_pct": -7.906,
-        "at": "2026-11-06T17:33:31Z",
+        "price": 25.64,
+        "chg_day_pct": -9.013,
+        "chg_since_seal_pct": -3.934,
+        "at": "2026-11-06T21:15:01Z",
         "stale": false,
         "source": "yahoo",
         "delay_min": 15
@@ -9935,10 +9935,10 @@
         "source": "yahoo"
       },
       "now": {
-        "price": 4068.2,
-        "chg_day_pct": -1.101,
-        "chg_since_seal_pct": -0.279,
-        "at": "2026-11-06T17:38:32Z",
+        "price": 4074.9,
+        "chg_day_pct": -0.938,
+        "chg_since_seal_pct": -0.115,
+        "at": "2026-11-06T21:59:59Z",
         "stale": false,
         "source": "yahoo",
         "delay_min": 15
@@ -11330,10 +11330,10 @@
         "source": "yahoo"
       },
       "now": {
-        "price": 89.93,
-        "chg_day_pct": -0.652,
-        "chg_since_seal_pct": -1.165,
-        "at": "2026-11-06T17:38:33Z",
+        "price": 90.83,
+        "chg_day_pct": 0.342,
+        "chg_since_seal_pct": -0.176,
+        "at": "2026-11-06T21:59:58Z",
         "stale": false,
         "source": "yahoo",
         "delay_min": 15
@@ -12725,10 +12725,10 @@
         "source": "yahoo"
       },
       "now": {
-        "price": 97.3,
-        "chg_day_pct": -1.007,
-        "chg_since_seal_pct": -1.338,
-        "at": "2026-11-06T17:38:33Z",
+        "price": 98.32,
+        "chg_day_pct": 0.031,
+        "chg_since_seal_pct": -0.304,
+        "at": "2026-11-06T21:59:44Z",
         "stale": false,
         "source": "yahoo",
         "delay_min": 15
@@ -14110,10 +14110,10 @@
         "source": "yahoo"
       },
       "now": {
-        "price": 6.242,
-        "chg_day_pct": -0.439,
-        "chg_since_seal_pct": -0.224,
-        "at": "2026-11-06T17:38:32Z",
+        "price": 6.238,
+        "chg_day_pct": -0.518,
+        "chg_since_seal_pct": -0.288,
+        "at": "2026-11-06T21:59:48Z",
         "stale": false,
         "source": "yahoo",
         "delay_min": 15
@@ -15493,10 +15493,10 @@
         "source": "kraken"
       },
       "now": {
-        "price": 75500,
-        "chg_day_pct": -0.289,
-        "chg_since_seal_pct": -0.681,
-        "at": "2026-11-06T17:48:33Z",
+        "price": 75687.7,
+        "chg_day_pct": -0.105,
+        "chg_since_seal_pct": -0.434,
+        "at": "2026-11-07T19:29:40Z",
         "stale": false,
         "source": "kraken",
         "delay_min": 0
@@ -16853,7 +16853,2117 @@
       "yesterday": null
     }
   ],
-  "evening": null,
+  "evening": {
+    "at": "2026-11-07T00:02:56Z",
+    "rows": [
+      {
+        "asset": "SPX",
+        "price_check": {
+          "source2": "cnbc",
+          "status": "ok",
+          "diff_pct": -0.0008,
+          "tol_pct": 0.1,
+          "ref_diff_pct": 0,
+          "accepted": {
+            "p0": 7378.56005859375,
+            "p1": 7376.85986328125,
+            "outcome": null,
+            "noise": 0.06656438950234046,
+            "late_ref": {
+              "nova": 7431.4599609375,
+              "qwen": 7420.509765625,
+              "nemotron": 7396.2001953125
+            },
+            "late_outcome": {
+              "nova": 0,
+              "qwen": 0,
+              "nemotron": 0
+            }
+          }
+        },
+        "1d": {
+          "expected": "up",
+          "ref": 7378.56005859375,
+          "close": 7376.85986328125,
+          "close_at": "2026-11-06T21:00:00Z",
+          "close_final": true,
+          "actual_pct": -0.023,
+          "draw": true,
+          "right": 1,
+          "of": 14,
+          "closest": "claude",
+          "p": {
+            "nova": [
+              45,
+              0
+            ],
+            "qwen": [
+              55,
+              0
+            ],
+            "nemotron": [
+              58,
+              0
+            ]
+          },
+          "noise": 0.0666,
+          "cw": 53,
+          "pall": {
+            "chatgpt": [
+              54,
+              0
+            ],
+            "claude": [
+              48,
+              0
+            ],
+            "wenxin": [
+              45,
+              0
+            ],
+            "stepfun": [
+              48,
+              0
+            ],
+            "gemini": [
+              56,
+              0
+            ],
+            "mimo": [
+              55,
+              0
+            ],
+            "zai": [
+              53,
+              0
+            ],
+            "deepseek": [
+              55,
+              0
+            ],
+            "grok": [
+              53,
+              0
+            ],
+            "kimi": [
+              58,
+              0
+            ],
+            "meta": [
+              55,
+              0
+            ],
+            "nova": [
+              45,
+              0
+            ],
+            "qwen": [
+              55,
+              0
+            ],
+            "nemotron": [
+              58,
+              0
+            ]
+          },
+          "late_ref": {
+            "nova": 7431.4599609375,
+            "qwen": 7420.509765625,
+            "nemotron": 7396.2001953125
+          }
+        }
+      },
+      {
+        "asset": "NDX",
+        "minority_right": true,
+        "price_check": {
+          "source2": "cnbc",
+          "status": "ok",
+          "diff_pct": 0,
+          "tol_pct": 0.1,
+          "ref_diff_pct": 0.011,
+          "accepted": {
+            "p0": 27054.0859375,
+            "p1": 26989.9921875,
+            "outcome": 0,
+            "noise": 0.1072681633826294,
+            "late_ref": {
+              "nova": 27249.177734375,
+              "qwen": 27117.275390625,
+              "nemotron": 26973.796875
+            },
+            "late_outcome": {
+              "nova": 0,
+              "qwen": 0,
+              "nemotron": null
+            }
+          }
+        },
+        "1d": {
+          "expected": "up",
+          "ref": 27054.0859375,
+          "close": 26989.9921875,
+          "close_at": "2026-11-06T21:00:00Z",
+          "close_final": true,
+          "actual_pct": -0.237,
+          "draw": false,
+          "right": 4,
+          "of": 14,
+          "closest": "claude",
+          "p": {
+            "chatgpt": [
+              55,
+              0
+            ],
+            "claude": [
+              48,
+              0
+            ],
+            "wenxin": [
+              42,
+              0
+            ],
+            "stepfun": [
+              44,
+              0
+            ],
+            "gemini": [
+              58,
+              0
+            ],
+            "mimo": [
+              55,
+              0
+            ],
+            "zai": [
+              51,
+              0
+            ],
+            "deepseek": [
+              62,
+              0
+            ],
+            "grok": [
+              40,
+              0
+            ],
+            "kimi": [
+              60,
+              0
+            ],
+            "meta": [
+              62,
+              0
+            ],
+            "nova": [
+              60,
+              0
+            ],
+            "qwen": [
+              58,
+              0
+            ]
+          },
+          "noise": 0.1073,
+          "cw": 53,
+          "pall": {
+            "chatgpt": [
+              55,
+              0
+            ],
+            "claude": [
+              48,
+              0
+            ],
+            "wenxin": [
+              42,
+              0
+            ],
+            "stepfun": [
+              44,
+              0
+            ],
+            "gemini": [
+              58,
+              0
+            ],
+            "mimo": [
+              55,
+              0
+            ],
+            "zai": [
+              51,
+              0
+            ],
+            "deepseek": [
+              62,
+              0
+            ],
+            "grok": [
+              40,
+              0
+            ],
+            "kimi": [
+              60,
+              0
+            ],
+            "meta": [
+              62,
+              0
+            ],
+            "nova": [
+              60,
+              0
+            ],
+            "qwen": [
+              58,
+              0
+            ],
+            "nemotron": [
+              62,
+              1
+            ]
+          },
+          "late_ref": {
+            "nova": 27249.177734375,
+            "qwen": 27117.275390625,
+            "nemotron": 26973.796875
+          }
+        }
+      },
+      {
+        "asset": "DJI",
+        "minority_right": true,
+        "1d": {
+          "expected": "down",
+          "ref": 51079.80859375,
+          "close": 51285.73046875,
+          "close_at": "2026-11-06T21:00:00Z",
+          "close_final": true,
+          "actual_pct": 0.403,
+          "draw": false,
+          "right": 5,
+          "of": 13,
+          "closest": "kimi",
+          "p": {
+            "chatgpt": [
+              51,
+              1
+            ],
+            "claude": [
+              49,
+              1
+            ],
+            "wenxin": [
+              48,
+              1
+            ],
+            "stepfun": [
+              42,
+              1
+            ],
+            "gemini": [
+              55,
+              1
+            ],
+            "mimo": [
+              41,
+              1
+            ],
+            "zai": [
+              47,
+              1
+            ],
+            "deepseek": [
+              47,
+              1
+            ],
+            "grok": [
+              56,
+              1
+            ],
+            "kimi": [
+              56,
+              1
+            ],
+            "meta": [
+              40,
+              1
+            ],
+            "qwen": [
+              48,
+              0
+            ],
+            "nemotron": [
+              51,
+              0
+            ]
+          },
+          "noise": 0.0572,
+          "cw": 48,
+          "p50": {
+            "nova": [
+              50,
+              0
+            ]
+          },
+          "pall": {
+            "chatgpt": [
+              51,
+              1
+            ],
+            "claude": [
+              49,
+              1
+            ],
+            "wenxin": [
+              48,
+              1
+            ],
+            "stepfun": [
+              42,
+              1
+            ],
+            "gemini": [
+              55,
+              1
+            ],
+            "mimo": [
+              41,
+              1
+            ],
+            "zai": [
+              47,
+              1
+            ],
+            "deepseek": [
+              47,
+              1
+            ],
+            "grok": [
+              56,
+              1
+            ],
+            "kimi": [
+              56,
+              1
+            ],
+            "meta": [
+              40,
+              1
+            ],
+            "nova": [
+              50,
+              0
+            ],
+            "qwen": [
+              48,
+              0
+            ],
+            "nemotron": [
+              51,
+              0
+            ]
+          },
+          "late_ref": {
+            "nova": 51434.3203125,
+            "qwen": 51542.23046875,
+            "nemotron": 51430.578125
+          }
+        }
+      },
+      {
+        "asset": "SOX",
+        "minority_right": true,
+        "price_check": {
+          "source2": "cnbc",
+          "status": "ok",
+          "diff_pct": 0.0008,
+          "tol_pct": 0.1,
+          "ref_diff_pct": 0.0212,
+          "accepted": {
+            "p0": 9474.005859375,
+            "p1": 9390.25,
+            "outcome": 0,
+            "noise": 0.23455366209882664,
+            "late_ref": {
+              "nova": 9535.541015625,
+              "qwen": 9375.9306640625,
+              "nemotron": 9251.083984375
+            },
+            "late_outcome": {
+              "nova": 0,
+              "qwen": null,
+              "nemotron": 1
+            }
+          }
+        },
+        "1d": {
+          "expected": "up",
+          "ref": 9474.005859375,
+          "close": 9390.25,
+          "close_at": "2026-11-06T21:00:00Z",
+          "close_final": true,
+          "actual_pct": -0.884,
+          "draw": false,
+          "right": 4,
+          "of": 13,
+          "closest": "gemini",
+          "p": {
+            "chatgpt": [
+              53,
+              0
+            ],
+            "wenxin": [
+              38,
+              0
+            ],
+            "stepfun": [
+              52,
+              0
+            ],
+            "gemini": [
+              44,
+              0
+            ],
+            "mimo": [
+              57,
+              0
+            ],
+            "zai": [
+              48,
+              0
+            ],
+            "deepseek": [
+              56,
+              0
+            ],
+            "grok": [
+              51,
+              0
+            ],
+            "kimi": [
+              54,
+              0
+            ],
+            "meta": [
+              58,
+              0
+            ],
+            "nova": [
+              55,
+              0
+            ],
+            "nemotron": [
+              65,
+              1
+            ]
+          },
+          "noise": 0.2346,
+          "cw": 52,
+          "p50": {
+            "claude": [
+              50,
+              0
+            ]
+          },
+          "pall": {
+            "chatgpt": [
+              53,
+              0
+            ],
+            "claude": [
+              50,
+              0
+            ],
+            "wenxin": [
+              38,
+              0
+            ],
+            "stepfun": [
+              52,
+              0
+            ],
+            "gemini": [
+              44,
+              0
+            ],
+            "mimo": [
+              57,
+              0
+            ],
+            "zai": [
+              48,
+              0
+            ],
+            "deepseek": [
+              56,
+              0
+            ],
+            "grok": [
+              51,
+              0
+            ],
+            "kimi": [
+              54,
+              0
+            ],
+            "meta": [
+              58,
+              0
+            ],
+            "nova": [
+              55,
+              0
+            ],
+            "qwen": [
+              60,
+              1
+            ],
+            "nemotron": [
+              65,
+              1
+            ]
+          },
+          "late_ref": {
+            "nova": 9535.541015625,
+            "qwen": 9375.9306640625,
+            "nemotron": 9251.083984375
+          }
+        }
+      },
+      {
+        "asset": "US10Y",
+        "minority_right": true,
+        "price_check": {
+          "source2": "cnbc",
+          "status": "ok",
+          "diff_pct": 0,
+          "tol_pct": 0.3,
+          "ref_diff_pct": 0.041,
+          "accepted": {
+            "p0": 4.875999927520752,
+            "p1": 4.859000205993652,
+            "outcome": 0,
+            "noise": 0.07488342861581246,
+            "late_ref": {
+              "nova": 4.883999824523926,
+              "qwen": 4.866000175476074,
+              "nemotron": 4.855000019073486
+            },
+            "late_outcome": {
+              "nova": 0,
+              "qwen": 0,
+              "nemotron": 1
+            }
+          }
+        },
+        "1d": {
+          "expected": "up",
+          "ref": 4.875999927520752,
+          "close": 4.859000205993652,
+          "close_at": "2026-11-06T19:59:00Z",
+          "close_final": true,
+          "actual_pct": -0.349,
+          "draw": false,
+          "right": 4,
+          "of": 12,
+          "closest": "grok",
+          "p": {
+            "chatgpt": [
+              57,
+              0
+            ],
+            "claude": [
+              52,
+              0
+            ],
+            "stepfun": [
+              45,
+              0
+            ],
+            "gemini": [
+              64,
+              0
+            ],
+            "mimo": [
+              56,
+              0
+            ],
+            "zai": [
+              44,
+              0
+            ],
+            "deepseek": [
+              52,
+              0
+            ],
+            "grok": [
+              47,
+              0
+            ],
+            "meta": [
+              62,
+              0
+            ],
+            "nova": [
+              65,
+              0
+            ],
+            "qwen": [
+              52,
+              0
+            ],
+            "nemotron": [
+              55,
+              1
+            ]
+          },
+          "noise": 0.0749,
+          "cw": 52,
+          "p50": {
+            "wenxin": [
+              50,
+              0
+            ],
+            "kimi": [
+              50,
+              0
+            ]
+          },
+          "pall": {
+            "chatgpt": [
+              57,
+              0
+            ],
+            "claude": [
+              52,
+              0
+            ],
+            "wenxin": [
+              50,
+              0
+            ],
+            "stepfun": [
+              45,
+              0
+            ],
+            "gemini": [
+              64,
+              0
+            ],
+            "mimo": [
+              56,
+              0
+            ],
+            "zai": [
+              44,
+              0
+            ],
+            "deepseek": [
+              52,
+              0
+            ],
+            "grok": [
+              47,
+              0
+            ],
+            "kimi": [
+              50,
+              0
+            ],
+            "meta": [
+              62,
+              0
+            ],
+            "nova": [
+              65,
+              0
+            ],
+            "qwen": [
+              52,
+              0
+            ],
+            "nemotron": [
+              55,
+              1
+            ]
+          },
+          "late_ref": {
+            "nova": 4.883999824523926,
+            "qwen": 4.866000175476074,
+            "nemotron": 4.855000019073486
+          }
+        }
+      },
+      {
+        "asset": "DXY",
+        "minority_right": true,
+        "price_check": {
+          "source2": "cnbc",
+          "status": "ok",
+          "diff_pct": -0.045,
+          "tol_pct": 0.25,
+          "ref_diff_pct": 0.0147,
+          "accepted": {
+            "p0": 102.35099792480469,
+            "p1": 102.27400207519531,
+            "outcome": 0,
+            "noise": 0.013060446526639674,
+            "late_ref": {
+              "nova": 102.19999694824219,
+              "qwen": 102.11199951171875,
+              "nemotron": 102.16000366210938
+            },
+            "late_outcome": {
+              "nova": 1,
+              "qwen": 1,
+              "nemotron": 1
+            }
+          }
+        },
+        "1d": {
+          "expected": "up",
+          "ref": 102.35099792480469,
+          "close": 102.27400207519531,
+          "close_at": "2026-11-06T21:00:00Z",
+          "close_final": true,
+          "actual_pct": -0.075,
+          "draw": false,
+          "right": 3,
+          "of": 14,
+          "closest": "nemotron",
+          "p": {
+            "chatgpt": [
+              51,
+              0
+            ],
+            "claude": [
+              53,
+              0
+            ],
+            "wenxin": [
+              55,
+              0
+            ],
+            "stepfun": [
+              60,
+              0
+            ],
+            "gemini": [
+              60,
+              0
+            ],
+            "mimo": [
+              51,
+              0
+            ],
+            "zai": [
+              56,
+              0
+            ],
+            "deepseek": [
+              56,
+              0
+            ],
+            "grok": [
+              54,
+              0
+            ],
+            "kimi": [
+              52,
+              0
+            ],
+            "meta": [
+              58,
+              0
+            ],
+            "nova": [
+              60,
+              1
+            ],
+            "qwen": [
+              55,
+              1
+            ],
+            "nemotron": [
+              53,
+              1
+            ]
+          },
+          "noise": 0.0131,
+          "cw": 55,
+          "pall": {
+            "chatgpt": [
+              51,
+              0
+            ],
+            "claude": [
+              53,
+              0
+            ],
+            "wenxin": [
+              55,
+              0
+            ],
+            "stepfun": [
+              60,
+              0
+            ],
+            "gemini": [
+              60,
+              0
+            ],
+            "mimo": [
+              51,
+              0
+            ],
+            "zai": [
+              56,
+              0
+            ],
+            "deepseek": [
+              56,
+              0
+            ],
+            "grok": [
+              54,
+              0
+            ],
+            "kimi": [
+              52,
+              0
+            ],
+            "meta": [
+              58,
+              0
+            ],
+            "nova": [
+              60,
+              1
+            ],
+            "qwen": [
+              55,
+              1
+            ],
+            "nemotron": [
+              53,
+              1
+            ]
+          },
+          "late_ref": {
+            "nova": 102.19999694824219,
+            "qwen": 102.11199951171875,
+            "nemotron": 102.16000366210938
+          }
+        }
+      },
+      {
+        "asset": "VIX",
+        "price_check": {
+          "source2": "cnbc",
+          "status": "ok",
+          "diff_pct": 0,
+          "tol_pct": 0.5,
+          "ref_diff_pct": 0,
+          "accepted": {
+            "p0": 26.170000076293945,
+            "p1": 25.649999618530273,
+            "outcome": 0,
+            "noise": 0.6800352361539491,
+            "late_ref": {
+              "nova": 23.600000381469727,
+              "qwen": 23.979999542236328,
+              "nemotron": 25.399999618530273
+            },
+            "late_outcome": {
+              "nova": 1,
+              "qwen": 1,
+              "nemotron": 1
+            }
+          }
+        },
+        "1d": {
+          "expected": "down",
+          "ref": 26.170000076293945,
+          "close": 25.649999618530273,
+          "close_at": "2026-11-06T21:00:00Z",
+          "close_final": true,
+          "actual_pct": -1.987,
+          "draw": false,
+          "right": 11,
+          "of": 14,
+          "closest": "mimo",
+          "p": {
+            "chatgpt": [
+              42,
+              0
+            ],
+            "claude": [
+              40,
+              0
+            ],
+            "wenxin": [
+              30,
+              0
+            ],
+            "stepfun": [
+              30,
+              0
+            ],
+            "gemini": [
+              32,
+              0
+            ],
+            "mimo": [
+              38,
+              0
+            ],
+            "zai": [
+              38,
+              0
+            ],
+            "deepseek": [
+              43,
+              0
+            ],
+            "grok": [
+              36,
+              0
+            ],
+            "kimi": [
+              35,
+              0
+            ],
+            "meta": [
+              38,
+              0
+            ],
+            "nova": [
+              40,
+              1
+            ],
+            "qwen": [
+              40,
+              1
+            ],
+            "nemotron": [
+              40,
+              1
+            ]
+          },
+          "noise": 0.68,
+          "cw": 37,
+          "pall": {
+            "chatgpt": [
+              42,
+              0
+            ],
+            "claude": [
+              40,
+              0
+            ],
+            "wenxin": [
+              30,
+              0
+            ],
+            "stepfun": [
+              30,
+              0
+            ],
+            "gemini": [
+              32,
+              0
+            ],
+            "mimo": [
+              38,
+              0
+            ],
+            "zai": [
+              38,
+              0
+            ],
+            "deepseek": [
+              43,
+              0
+            ],
+            "grok": [
+              36,
+              0
+            ],
+            "kimi": [
+              35,
+              0
+            ],
+            "meta": [
+              38,
+              0
+            ],
+            "nova": [
+              40,
+              1
+            ],
+            "qwen": [
+              40,
+              1
+            ],
+            "nemotron": [
+              40,
+              1
+            ]
+          },
+          "late_ref": {
+            "nova": 23.600000381469727,
+            "qwen": 23.979999542236328,
+            "nemotron": 25.399999618530273
+          }
+        }
+      },
+      {
+        "asset": "GOLD",
+        "price_check": {
+          "source2": "cnbc",
+          "status": "ok",
+          "diff_pct": 0,
+          "tol_pct": 0.15,
+          "ref_diff_pct": 0,
+          "accepted": {
+            "p0": 4043.10009765625,
+            "p1": 4074.10009765625,
+            "outcome": 1,
+            "noise": 0.06761211555101669,
+            "late_ref": {
+              "nova": 4051.10009765625,
+              "qwen": 4059.699951171875,
+              "nemotron": 4054
+            },
+            "late_outcome": {
+              "nova": 1,
+              "qwen": 1,
+              "nemotron": 1
+            }
+          }
+        },
+        "1d": {
+          "expected": "up",
+          "ref": 4043.10009765625,
+          "close": 4074.10009765625,
+          "close_at": "2026-11-06T21:00:00Z",
+          "close_final": true,
+          "actual_pct": 0.767,
+          "draw": false,
+          "right": 7,
+          "of": 13,
+          "closest": "qwen",
+          "p": {
+            "chatgpt": [
+              52,
+              1
+            ],
+            "claude": [
+              52,
+              1
+            ],
+            "wenxin": [
+              52,
+              1
+            ],
+            "gemini": [
+              54,
+              1
+            ],
+            "mimo": [
+              44,
+              1
+            ],
+            "zai": [
+              47,
+              1
+            ],
+            "deepseek": [
+              52,
+              1
+            ],
+            "grok": [
+              43,
+              1
+            ],
+            "kimi": [
+              56,
+              1
+            ],
+            "meta": [
+              52,
+              1
+            ],
+            "nova": [
+              35,
+              1
+            ],
+            "qwen": [
+              48,
+              1
+            ],
+            "nemotron": [
+              48,
+              1
+            ]
+          },
+          "noise": 0.0676,
+          "cw": 51,
+          "p50": {
+            "stepfun": [
+              50,
+              1
+            ]
+          },
+          "pall": {
+            "chatgpt": [
+              52,
+              1
+            ],
+            "claude": [
+              52,
+              1
+            ],
+            "wenxin": [
+              52,
+              1
+            ],
+            "stepfun": [
+              50,
+              1
+            ],
+            "gemini": [
+              54,
+              1
+            ],
+            "mimo": [
+              44,
+              1
+            ],
+            "zai": [
+              47,
+              1
+            ],
+            "deepseek": [
+              52,
+              1
+            ],
+            "grok": [
+              43,
+              1
+            ],
+            "kimi": [
+              56,
+              1
+            ],
+            "meta": [
+              52,
+              1
+            ],
+            "nova": [
+              35,
+              1
+            ],
+            "qwen": [
+              48,
+              1
+            ],
+            "nemotron": [
+              48,
+              1
+            ]
+          },
+          "late_ref": {
+            "nova": 4051.10009765625,
+            "qwen": 4059.699951171875,
+            "nemotron": 4054
+          }
+        }
+      },
+      {
+        "asset": "WTI",
+        "price_check": {
+          "source2": "cnbc",
+          "status": "ok",
+          "diff_pct": 0,
+          "tol_pct": 0.2,
+          "ref_diff_pct": 0,
+          "accepted": {
+            "p0": 90.66000366210938,
+            "p1": 90.5999984741211,
+            "outcome": null,
+            "noise": 0.12849868270700476,
+            "late_ref": {
+              "nova": 90.7699966430664,
+              "qwen": 90.04000091552734,
+              "nemotron": 90.16000366210938
+            },
+            "late_outcome": {
+              "nova": 0,
+              "qwen": 1,
+              "nemotron": 1
+            }
+          }
+        },
+        "1d": {
+          "expected": "up",
+          "ref": 90.66000366210938,
+          "close": 90.5999984741211,
+          "close_at": "2026-11-06T21:00:00Z",
+          "close_final": true,
+          "actual_pct": -0.066,
+          "draw": true,
+          "right": 1,
+          "of": 13,
+          "closest": "nemotron",
+          "p": {
+            "nova": [
+              55,
+              0
+            ],
+            "nemotron": [
+              52,
+              1
+            ]
+          },
+          "noise": 0.1285,
+          "cw": 53,
+          "p50": {
+            "qwen": [
+              50,
+              1
+            ]
+          },
+          "pall": {
+            "chatgpt": [
+              52,
+              0
+            ],
+            "claude": [
+              54,
+              0
+            ],
+            "wenxin": [
+              48,
+              0
+            ],
+            "stepfun": [
+              52,
+              0
+            ],
+            "gemini": [
+              58,
+              0
+            ],
+            "mimo": [
+              55,
+              0
+            ],
+            "zai": [
+              52,
+              0
+            ],
+            "deepseek": [
+              53,
+              0
+            ],
+            "grok": [
+              56,
+              0
+            ],
+            "kimi": [
+              55,
+              0
+            ],
+            "meta": [
+              42,
+              0
+            ],
+            "nova": [
+              55,
+              0
+            ],
+            "qwen": [
+              50,
+              1
+            ],
+            "nemotron": [
+              52,
+              1
+            ]
+          },
+          "late_ref": {
+            "nova": 90.7699966430664,
+            "qwen": 90.04000091552734,
+            "nemotron": 90.16000366210938
+          }
+        }
+      },
+      {
+        "asset": "BRENT",
+        "minority_right": true,
+        "price_check": {
+          "source2": "cnbc",
+          "status": "ok",
+          "diff_pct": 0,
+          "tol_pct": 0.2,
+          "ref_diff_pct": 0,
+          "accepted": {
+            "p0": 98.33999633789062,
+            "p1": 98,
+            "outcome": 0,
+            "noise": 0.137542393168241,
+            "late_ref": {
+              "nova": 97.94999694824219,
+              "qwen": 97.12999725341797,
+              "nemotron": 97.16000366210938
+            },
+            "late_outcome": {
+              "nova": null,
+              "qwen": 1,
+              "nemotron": 1
+            }
+          }
+        },
+        "1d": {
+          "expected": "up",
+          "ref": 98.33999633789062,
+          "close": 98,
+          "close_at": "2026-11-06T21:00:00Z",
+          "close_final": true,
+          "actual_pct": -0.346,
+          "draw": false,
+          "right": 3,
+          "of": 13,
+          "closest": "nova",
+          "p": {
+            "chatgpt": [
+              51,
+              0
+            ],
+            "claude": [
+              55,
+              0
+            ],
+            "wenxin": [
+              48,
+              0
+            ],
+            "stepfun": [
+              51,
+              0
+            ],
+            "gemini": [
+              57,
+              0
+            ],
+            "mimo": [
+              55,
+              0
+            ],
+            "zai": [
+              52,
+              0
+            ],
+            "deepseek": [
+              53,
+              0
+            ],
+            "grok": [
+              55,
+              0
+            ],
+            "kimi": [
+              55,
+              0
+            ],
+            "meta": [
+              42,
+              0
+            ],
+            "nemotron": [
+              51,
+              1
+            ]
+          },
+          "noise": 0.1375,
+          "cw": 53,
+          "p50": {
+            "qwen": [
+              50,
+              1
+            ]
+          },
+          "pall": {
+            "chatgpt": [
+              51,
+              0
+            ],
+            "claude": [
+              55,
+              0
+            ],
+            "wenxin": [
+              48,
+              0
+            ],
+            "stepfun": [
+              51,
+              0
+            ],
+            "gemini": [
+              57,
+              0
+            ],
+            "mimo": [
+              55,
+              0
+            ],
+            "zai": [
+              52,
+              0
+            ],
+            "deepseek": [
+              53,
+              0
+            ],
+            "grok": [
+              55,
+              0
+            ],
+            "kimi": [
+              55,
+              0
+            ],
+            "meta": [
+              42,
+              0
+            ],
+            "nova": [
+              55,
+              1
+            ],
+            "qwen": [
+              50,
+              1
+            ],
+            "nemotron": [
+              51,
+              1
+            ]
+          },
+          "late_ref": {
+            "nova": 97.94999694824219,
+            "qwen": 97.12999725341797,
+            "nemotron": 97.16000366210938
+          }
+        }
+      },
+      {
+        "asset": "COPPER",
+        "price_check": {
+          "source2": "cnbc",
+          "status": "ok",
+          "diff_pct": 0,
+          "tol_pct": 0.2,
+          "ref_diff_pct": 0,
+          "accepted": {
+            "p0": 6.254000186920166,
+            "p1": 6.258500099182129,
+            "outcome": null,
+            "noise": 0.07607674338729611,
+            "late_ref": {
+              "nova": 6.270500183105469,
+              "qwen": 6.258999824523926,
+              "nemotron": 6.247499942779541
+            },
+            "late_outcome": {
+              "nova": 0,
+              "qwen": null,
+              "nemotron": 1
+            }
+          }
+        },
+        "1d": {
+          "expected": null,
+          "ref": 6.254000186920166,
+          "close": 6.258500099182129,
+          "close_at": "2026-11-06T21:00:00Z",
+          "close_final": true,
+          "actual_pct": 0.072,
+          "draw": true,
+          "right": 1,
+          "of": 12,
+          "closest": "chatgpt",
+          "p": {
+            "nova": [
+              45,
+              0
+            ]
+          },
+          "noise": 0.0761,
+          "cw": 50,
+          "p50": {
+            "nemotron": [
+              50,
+              1
+            ]
+          },
+          "pall": {
+            "chatgpt": [
+              51,
+              1
+            ],
+            "claude": [
+              52,
+              1
+            ],
+            "wenxin": [
+              44,
+              1
+            ],
+            "stepfun": [
+              45,
+              1
+            ],
+            "gemini": [
+              53,
+              1
+            ],
+            "mimo": [
+              50,
+              1
+            ],
+            "zai": [
+              54,
+              1
+            ],
+            "deepseek": [
+              51,
+              1
+            ],
+            "grok": [
+              46,
+              1
+            ],
+            "kimi": [
+              58,
+              1
+            ],
+            "meta": [
+              48,
+              1
+            ],
+            "nova": [
+              45,
+              0
+            ],
+            "qwen": [
+              45,
+              0
+            ],
+            "nemotron": [
+              50,
+              1
+            ]
+          },
+          "late_ref": {
+            "nova": 6.270500183105469,
+            "qwen": 6.258999824523926,
+            "nemotron": 6.247499942779541
+          }
+        }
+      },
+      {
+        "asset": "BTC",
+        "price_check": {
+          "source2": "coinbase",
+          "status": "ok",
+          "diff_pct": 0,
+          "tol_pct": 0.2,
+          "ref_diff_pct": 0.0157,
+          "accepted": {
+            "p0": 75633.9375,
+            "p1": 75777.3125,
+            "outcome": 1,
+            "noise": 0.11332137162712244,
+            "late_ref": {
+              "chatgpt": 75633.9375,
+              "claude": 75633.9375,
+              "wenxin": 75633.9375,
+              "stepfun": 75633.9375,
+              "gemini": 75633.9375,
+              "mimo": 75633.9375,
+              "zai": 75633.9375,
+              "deepseek": 75633.9375,
+              "grok": 75633.9375,
+              "kimi": 75563.609375,
+              "meta": 75563.609375,
+              "nova": 75625.3671875,
+              "qwen": 75495.4375,
+              "nemotron": 75169.3203125
+            },
+            "late_outcome": {
+              "chatgpt": 1,
+              "claude": 1,
+              "wenxin": 1,
+              "stepfun": 1,
+              "gemini": 1,
+              "mimo": 1,
+              "zai": 1,
+              "deepseek": 1,
+              "grok": 1,
+              "kimi": 1,
+              "meta": 1,
+              "nova": 1,
+              "qwen": 1,
+              "nemotron": 1
+            }
+          }
+        },
+        "1d": {
+          "expected": null,
+          "ref": 75633.9375,
+          "close": 75777.3125,
+          "close_at": "2026-11-06T21:00:00Z",
+          "close_final": true,
+          "actual_pct": 0.19,
+          "draw": false,
+          "right": 6,
+          "of": 13,
+          "closest": "chatgpt",
+          "p": {
+            "chatgpt": [
+              52,
+              1
+            ],
+            "claude": [
+              54,
+              1
+            ],
+            "wenxin": [
+              48,
+              1
+            ],
+            "stepfun": [
+              32,
+              1
+            ],
+            "gemini": [
+              43,
+              1
+            ],
+            "mimo": [
+              53,
+              1
+            ],
+            "zai": [
+              43,
+              1
+            ],
+            "grok": [
+              45,
+              1
+            ],
+            "kimi": [
+              58,
+              1
+            ],
+            "meta": [
+              42,
+              1
+            ],
+            "nova": [
+              55,
+              1
+            ],
+            "qwen": [
+              55,
+              1
+            ],
+            "nemotron": [
+              42,
+              1
+            ]
+          },
+          "noise": 0.1133,
+          "cw": null,
+          "p50": {
+            "deepseek": [
+              50,
+              1
+            ]
+          },
+          "pall": {
+            "chatgpt": [
+              52,
+              1
+            ],
+            "claude": [
+              54,
+              1
+            ],
+            "wenxin": [
+              48,
+              1
+            ],
+            "stepfun": [
+              32,
+              1
+            ],
+            "gemini": [
+              43,
+              1
+            ],
+            "mimo": [
+              53,
+              1
+            ],
+            "zai": [
+              43,
+              1
+            ],
+            "deepseek": [
+              50,
+              1
+            ],
+            "grok": [
+              45,
+              1
+            ],
+            "kimi": [
+              58,
+              1
+            ],
+            "meta": [
+              42,
+              1
+            ],
+            "nova": [
+              55,
+              1
+            ],
+            "qwen": [
+              55,
+              1
+            ],
+            "nemotron": [
+              42,
+              1
+            ]
+          },
+          "late_ref": {
+            "chatgpt": 75633.9375,
+            "claude": 75633.9375,
+            "wenxin": 75633.9375,
+            "stepfun": 75633.9375,
+            "gemini": 75633.9375,
+            "mimo": 75633.9375,
+            "zai": 75633.9375,
+            "deepseek": 75633.9375,
+            "grok": 75633.9375,
+            "kimi": 75563.609375,
+            "meta": 75563.609375,
+            "nova": 75625.3671875,
+            "qwen": 75495.4375,
+            "nemotron": 75169.3203125
+          }
+        }
+      }
+    ],
+    "portfolio_changes": [
+      {
+        "seat": "claude",
+        "asset": "SPX",
+        "from": "hold",
+        "to": "trim",
+        "w_from_pct": 10.1,
+        "w_to_pct": 5.1
+      },
+      {
+        "seat": "claude",
+        "asset": "NDX",
+        "from": "hold",
+        "to": "trim",
+        "w_from_pct": 4.8,
+        "w_to_pct": 0
+      },
+      {
+        "seat": "claude",
+        "asset": "VIX",
+        "from": "trim",
+        "to": "trim",
+        "w_from_pct": -23.4,
+        "w_to_pct": -25
+      },
+      {
+        "seat": "wenxin",
+        "asset": "DJI",
+        "from": "hold",
+        "to": "buy_dips",
+        "w_from_pct": 0,
+        "w_to_pct": 5
+      },
+      {
+        "seat": "wenxin",
+        "asset": "VIX",
+        "from": "sell",
+        "to": "sell",
+        "w_from_pct": -23,
+        "w_to_pct": -25
+      },
+      {
+        "seat": "wenxin",
+        "asset": "GOLD",
+        "from": "hold",
+        "to": "buy_dips",
+        "w_from_pct": 0,
+        "w_to_pct": 5
+      },
+      {
+        "seat": "wenxin",
+        "asset": "BTC",
+        "from": "hold",
+        "to": "buy_dips",
+        "w_from_pct": 5.1,
+        "w_to_pct": 10.1
+      },
+      {
+        "seat": "stepfun",
+        "asset": "VIX",
+        "from": "hold",
+        "to": "trim",
+        "w_from_pct": -4.6,
+        "w_to_pct": -9.6
+      },
+      {
+        "seat": "mimo",
+        "asset": "DJI",
+        "from": "hold",
+        "to": "trim",
+        "w_from_pct": 5,
+        "w_to_pct": 0
+      },
+      {
+        "seat": "mimo",
+        "asset": "WTI",
+        "from": "hold",
+        "to": "buy_dips",
+        "w_from_pct": 0,
+        "w_to_pct": 5
+      },
+      {
+        "seat": "mimo",
+        "asset": "BRENT",
+        "from": "hold",
+        "to": "buy_dips",
+        "w_from_pct": 0,
+        "w_to_pct": 5
+      },
+      {
+        "seat": "zai",
+        "asset": "US10Y",
+        "from": "trim",
+        "to": "trim",
+        "w_from_pct": 10.3,
+        "w_to_pct": 5.3
+      },
+      {
+        "seat": "zai",
+        "asset": "VIX",
+        "from": "buy_dips",
+        "to": "sell",
+        "w_from_pct": -13.7,
+        "w_to_pct": -18.7
+      },
+      {
+        "seat": "zai",
+        "asset": "GOLD",
+        "from": "buy_dips",
+        "to": "hold",
+        "w_from_pct": 5,
+        "w_to_pct": 0
+      },
+      {
+        "seat": "zai",
+        "asset": "BTC",
+        "from": "buy_dips",
+        "to": "sell",
+        "w_from_pct": 4.9,
+        "w_to_pct": 0
+      },
+      {
+        "seat": "deepseek",
+        "asset": "DXY",
+        "from": "hold",
+        "to": "buy_strong",
+        "w_from_pct": 0,
+        "w_to_pct": 10
+      },
+      {
+        "seat": "deepseek",
+        "asset": "VIX",
+        "from": "hold",
+        "to": "trim",
+        "w_from_pct": 5.2,
+        "w_to_pct": 0.2
+      },
+      {
+        "seat": "grok",
+        "asset": "VIX",
+        "from": "buy_dips",
+        "to": "trim",
+        "w_from_pct": -4.5,
+        "w_to_pct": -9.5
+      },
+      {
+        "seat": "kimi",
+        "asset": "VIX",
+        "from": "trim",
+        "to": "trim",
+        "w_from_pct": -8.6,
+        "w_to_pct": -13.6
+      },
+      {
+        "seat": "meta",
+        "asset": "DJI",
+        "from": "buy_dips",
+        "to": "trim",
+        "w_from_pct": 14.6,
+        "w_to_pct": 9.6
+      },
+      {
+        "seat": "meta",
+        "asset": "US10Y",
+        "from": "sell",
+        "to": "buy_strong",
+        "w_from_pct": 6.4,
+        "w_to_pct": 16.4
+      },
+      {
+        "seat": "meta",
+        "asset": "VIX",
+        "from": "buy_dips",
+        "to": "trim",
+        "w_from_pct": 5.8,
+        "w_to_pct": 0.8
+      },
+      {
+        "seat": "meta",
+        "asset": "WTI",
+        "from": "buy_dips",
+        "to": "trim",
+        "w_from_pct": 14.1,
+        "w_to_pct": 9.1
+      },
+      {
+        "seat": "meta",
+        "asset": "BRENT",
+        "from": "buy_dips",
+        "to": "trim",
+        "w_from_pct": 14,
+        "w_to_pct": 9
+      },
+      {
+        "seat": "meta",
+        "asset": "BTC",
+        "from": "buy_dips",
+        "to": "trim",
+        "w_from_pct": 0.1,
+        "w_to_pct": 0
+      },
+      {
+        "seat": "nova",
+        "asset": "US10Y",
+        "from": "trim",
+        "to": "buy_strong",
+        "w_from_pct": -20.9,
+        "w_to_pct": -10.9,
+        "after_answer": "2026-11-06T14:53:42Z"
+      },
+      {
+        "seat": "nova",
+        "asset": "DXY",
+        "from": "hold",
+        "to": "buy_strong",
+        "w_from_pct": 0,
+        "w_to_pct": 10,
+        "after_answer": "2026-11-06T14:53:42Z"
+      },
+      {
+        "seat": "nova",
+        "asset": "GOLD",
+        "from": "buy_strong",
+        "to": "sell",
+        "w_from_pct": 25.5,
+        "w_to_pct": 0,
+        "after_answer": "2026-11-06T14:53:42Z"
+      },
+      {
+        "seat": "nova",
+        "asset": "COPPER",
+        "from": "hold",
+        "to": "sell",
+        "w_from_pct": 4.9,
+        "w_to_pct": 0,
+        "after_answer": "2026-11-06T14:53:42Z"
+      },
+      {
+        "seat": "nova",
+        "asset": "BTC",
+        "from": "buy_strong",
+        "to": "buy_dips",
+        "w_from_pct": 14.7,
+        "w_to_pct": 19.7,
+        "after_answer": "2026-11-06T14:53:42Z"
+      },
+      {
+        "seat": "qwen",
+        "asset": "VIX",
+        "from": "trim",
+        "to": "trim",
+        "w_from_pct": -23,
+        "w_to_pct": -25,
+        "after_answer": "2026-11-06T15:26:10Z"
+      },
+      {
+        "seat": "nemotron",
+        "asset": "VIX",
+        "from": "sell",
+        "to": "trim",
+        "w_from_pct": -4.6,
+        "w_to_pct": -9.6,
+        "after_answer": "2026-11-06T15:35:26Z"
+      },
+      {
+        "seat": "nemotron",
+        "asset": "BTC",
+        "from": "buy_dips",
+        "to": "trim",
+        "w_from_pct": 4.9,
+        "w_to_pct": 0,
+        "after_answer": "2026-11-06T15:35:26Z"
+      },
+      {
+        "seat": "_poly",
+        "asset": "NDX",
+        "from": "trim",
+        "to": "buy_dips",
+        "w_from_pct": 0,
+        "w_to_pct": 5
+      },
+      {
+        "seat": "_poly",
+        "asset": "VIX",
+        "from": "trim",
+        "to": "trim",
+        "w_from_pct": -4.3,
+        "w_to_pct": -9.3
+      }
+    ]
+  },
   "context": {
     "futures": {
       "ES": 0.295,
