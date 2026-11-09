@@ -2,11 +2,11 @@
   "schema": 1,
   "kind": "council-league",
   "lang": "en",
-  "generated_at": "2026-11-08T17:18:36Z",
+  "generated_at": "2026-11-09T21:27:18Z",
   "notice": "These results are based on simulated or hypothetical performance results that have certain inherent limitations. Unlike the results shown in an actual performance record, these results do not represent actual trading. Also, because these trades have not actually been executed, these results may have under-or over-compensated for the impact, if any, of certain market factors, such as lack of liquidity. Simulated or hypothetical trading programs in general are also subject to the fact that they are designed with the benefit of hindsight. No representation is being made that any account will or is likely to achieve profits or losses similar to these being shown.",
   "resolved_n": 159,
   "need": 30,
-  "days_collected": 23,
+  "days_collected": 25,
   "first_day": "2026-10-16",
   "history": "collecting history: 30 of 30 resolved forecasts",
   "benchmarks": {
@@ -14904,7 +14904,7 @@
       "seat": "chatgpt",
       "name": "ChatGPT",
       "side": "US",
-      "model": "GPT-6.1 Sol",
+      "model": "GPT-6",
       "n": 140,
       "days": 13,
       "ranked": true,
@@ -16403,7 +16403,7 @@
         "seat": "chatgpt",
         "name": "ChatGPT",
         "side": "US",
-        "model": "GPT-6.1 Sol",
+        "model": "GPT-6",
         "n": 140,
         "days": 13,
         "ranked": true,
@@ -16425,201 +16425,201 @@
       {
         "seat": "wenxin",
         "name": "Wenxin (文心, Baidu; ERNIE)",
-        "n": 45,
-        "nb": 46,
-        "dir_pct": 46.7,
-        "brier": 0.238
+        "n": 57,
+        "nb": 58,
+        "dir_pct": 54.4,
+        "brier": 0.2358
       },
       {
         "seat": "chatgpt",
         "name": "ChatGPT",
-        "n": 91,
-        "nb": 91,
-        "dir_pct": 57.1,
-        "brier": 0.2441
+        "n": 103,
+        "nb": 103,
+        "dir_pct": 57.3,
+        "brier": 0.2432
       },
       {
         "seat": "mimo",
         "name": "MiMo (Xiaomi)",
-        "n": 108,
-        "nb": 114,
-        "dir_pct": 50.9,
-        "brier": 0.2486
+        "n": 120,
+        "nb": 126,
+        "dir_pct": 53.3,
+        "brier": 0.2446
       },
       {
         "seat": "stepfun",
         "name": "Step 5 Preview",
-        "n": 70,
-        "nb": 78,
-        "dir_pct": 51.4,
-        "brier": 0.2499
-      },
-      {
-        "seat": "gemini",
-        "name": "Gemini",
-        "n": 102,
-        "nb": 102,
-        "dir_pct": 52.9,
-        "brier": 0.2526
-      },
-      {
-        "seat": "deepseek",
-        "name": "DeepSeek",
-        "n": 87,
+        "n": 82,
         "nb": 90,
-        "dir_pct": 42.5,
-        "brier": 0.2531
-      },
-      {
-        "seat": "meta",
-        "name": "Meta AI",
-        "n": 97,
-        "nb": 98,
-        "dir_pct": 51.5,
-        "brier": 0.2551
+        "dir_pct": 54.9,
+        "brier": 0.2463
       },
       {
         "seat": "nemotron",
         "name": "Nemotron + Mercury (поиск)",
-        "n": 50,
-        "nb": 57,
-        "dir_pct": 44,
-        "brier": 0.2573
+        "n": 62,
+        "nb": 69,
+        "dir_pct": 48.4,
+        "brier": 0.2506
+      },
+      {
+        "seat": "gemini",
+        "name": "Gemini",
+        "n": 114,
+        "nb": 114,
+        "dir_pct": 52.6,
+        "brier": 0.2524
+      },
+      {
+        "seat": "deepseek",
+        "name": "DeepSeek",
+        "n": 99,
+        "nb": 102,
+        "dir_pct": 43.4,
+        "brier": 0.2533
+      },
+      {
+        "seat": "meta",
+        "name": "Meta AI",
+        "n": 109,
+        "nb": 110,
+        "dir_pct": 51.4,
+        "brier": 0.2565
       },
       {
         "seat": "claude",
         "name": "Claude",
-        "n": 102,
-        "nb": 114,
-        "dir_pct": 39.2,
-        "brier": 0.2593
+        "n": 111,
+        "nb": 126,
+        "dir_pct": 38.7,
+        "brier": 0.2601
       },
       {
         "seat": "zai",
         "name": "Z.ai",
-        "n": 89,
-        "nb": 92,
-        "dir_pct": 46.1,
-        "brier": 0.261
+        "n": 100,
+        "nb": 104,
+        "dir_pct": 45,
+        "brier": 0.2625
       },
       {
         "seat": "kimi",
         "name": "Kimi",
-        "n": 79,
-        "nb": 82,
-        "dir_pct": 44.3,
-        "brier": 0.2614
+        "n": 90,
+        "nb": 94,
+        "dir_pct": 43.3,
+        "brier": 0.2633
       },
       {
         "seat": "grok",
         "name": "Grok",
-        "n": 108,
-        "nb": 114,
-        "dir_pct": 40.7,
-        "brier": 0.2654
+        "n": 120,
+        "nb": 126,
+        "dir_pct": 41.7,
+        "brier": 0.2642
       },
       {
         "seat": "nova",
         "name": "Amazon Nova",
-        "n": 30,
-        "nb": 36,
-        "dir_pct": 30,
-        "brier": 0.303
+        "n": 40,
+        "nb": 48,
+        "dir_pct": 40,
+        "brier": 0.2796
       },
       {
         "seat": "qwen",
         "name": "Qwen",
-        "n": 57,
-        "nb": 60,
-        "dir_pct": 36.8,
-        "brier": 0.3055
+        "n": 69,
+        "nb": 72,
+        "dir_pct": 40.6,
+        "brier": 0.2924
       }
     ]
   },
   "lines_hit": {
     "chatgpt": {
-      "t": 113,
-      "tn": 217,
-      "i": 38,
-      "in": 264
+      "t": 120,
+      "tn": 227,
+      "i": 41,
+      "in": 276
     },
     "claude": {
-      "t": 145,
-      "tn": 211,
-      "i": 81,
-      "in": 265
+      "t": 150,
+      "tn": 218,
+      "i": 88,
+      "in": 274
     },
     "deepseek": {
-      "t": 77,
-      "tn": 207,
-      "i": 77,
-      "in": 248
+      "t": 85,
+      "tn": 218,
+      "i": 81,
+      "in": 260
     },
     "gemini": {
-      "t": 122,
-      "tn": 237,
-      "i": 106,
-      "in": 275
+      "t": 130,
+      "tn": 249,
+      "i": 113,
+      "in": 287
     },
     "grok": {
-      "t": 112,
-      "tn": 250,
-      "i": 71,
-      "in": 289
+      "t": 121,
+      "tn": 262,
+      "i": 73,
+      "in": 301
     },
     "kimi": {
-      "t": 80,
-      "tn": 192,
-      "i": 51,
-      "in": 219
+      "t": 83,
+      "tn": 202,
+      "i": 59,
+      "in": 230
     },
     "mimo": {
-      "t": 90,
-      "tn": 242,
-      "i": 97,
-      "in": 288
+      "t": 99,
+      "tn": 254,
+      "i": 101,
+      "in": 300
     },
     "meta": {
-      "t": 95,
-      "tn": 226,
-      "i": 57,
-      "in": 267
+      "t": 101,
+      "tn": 238,
+      "i": 65,
+      "in": 279
     },
     "stepfun": {
-      "t": 69,
-      "tn": 155,
-      "i": 100,
-      "in": 211
+      "t": 77,
+      "tn": 165,
+      "i": 106,
+      "in": 223
     },
     "wenxin": {
-      "t": 33,
-      "tn": 89,
-      "i": 82,
-      "in": 133
+      "t": 36,
+      "tn": 93,
+      "i": 91,
+      "in": 145
     },
     "zai": {
-      "t": 98,
-      "tn": 217,
-      "i": 67,
-      "in": 245
+      "t": 103,
+      "tn": 228,
+      "i": 72,
+      "in": 256
     },
     "nemotron": {
-      "t": 52,
-      "tn": 118,
-      "i": 85,
-      "in": 163
+      "t": 61,
+      "tn": 129,
+      "i": 90,
+      "in": 175
     },
     "qwen": {
-      "t": 40,
-      "tn": 122,
-      "i": 62,
-      "in": 162
+      "t": 47,
+      "tn": 134,
+      "i": 66,
+      "in": 174
     },
     "nova": {
-      "t": 33,
-      "tn": 108,
-      "i": 56,
-      "in": 128
+      "t": 38,
+      "tn": 118,
+      "i": 61,
+      "in": 138
     }
   },
   "usa_cn": {
@@ -16635,6 +16635,6 @@
     }
   },
   "url": "https://top.polyhelper.ai/ai-markets/",
-  "snapshot_id": "6371747fe1bc94de90a3e35e9bd30aae729f2d8b95776369a9ece72c24c70b0d",
-  "snapshot_run": "2026-11-07-btc"
+  "snapshot_id": "056afb7caaaa47a779fa0e43fc90c81f7fd74200fa816fb5cde13e926c2bf444",
+  "snapshot_run": "2026-11-09-am"
 }
