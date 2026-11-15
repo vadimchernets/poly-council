@@ -2,11 +2,11 @@
   "schema": 1,
   "kind": "council-league",
   "lang": "en",
-  "generated_at": "2026-11-14T08:47:43Z",
+  "generated_at": "2026-11-15T19:51:13Z",
   "notice": "These results are based on simulated or hypothetical performance results that have certain inherent limitations. Unlike the results shown in an actual performance record, these results do not represent actual trading. Also, because these trades have not actually been executed, these results may have under-or over-compensated for the impact, if any, of certain market factors, such as lack of liquidity. Simulated or hypothetical trading programs in general are also subject to the fact that they are designed with the benefit of hindsight. No representation is being made that any account will or is likely to achieve profits or losses similar to these being shown.",
   "resolved_n": 215,
   "need": 30,
-  "days_collected": 29,
+  "days_collected": 30,
   "first_day": "2026-10-16",
   "history": "collecting history: 30 of 30 resolved forecasts",
   "benchmarks": {
@@ -543,18 +543,18 @@
   },
   "crowd": {
     "polymarket": {
-      "n": 49,
-      "ai_right": 35,
-      "crowd_right": 34,
-      "b_ai": 0.2164,
-      "b_crowd": 0.1708
+      "n": 51,
+      "ai_right": 36,
+      "crowd_right": 35,
+      "b_ai": 0.2177,
+      "b_crowd": 0.1758
     },
     "kalshi": {
-      "n": 8,
-      "ai_right": 7,
-      "crowd_right": 8,
-      "b_ai": 0.195,
-      "b_crowd": 0.0521
+      "n": 9,
+      "ai_right": 8,
+      "crowd_right": 9,
+      "b_ai": 0.1974,
+      "b_crowd": 0.0711
     }
   },
   "experiment": {
@@ -16459,9 +16459,9 @@
     },
     {
       "seat": "nova",
-      "name": "nova",
+      "name": "Amazon Nova",
       "side": "US",
-      "model": null,
+      "model": "Amazon Nova",
       "n": 129,
       "days": 13,
       "ranked": true,
@@ -16480,9 +16480,9 @@
     },
     {
       "seat": "grok",
-      "name": "Grok",
+      "name": "grok",
       "side": "US",
-      "model": "Grok 4.7",
+      "model": null,
       "n": 215,
       "days": 20,
       "ranked": true,
@@ -16501,9 +16501,9 @@
     },
     {
       "seat": "meta",
-      "name": "Meta AI",
+      "name": "meta",
       "side": "US",
-      "model": "Muse Spark 1.3",
+      "model": null,
       "n": 200,
       "days": 19,
       "ranked": true,
@@ -16585,9 +16585,9 @@
     },
     {
       "seat": "gemini",
-      "name": "gemini",
+      "name": "Gemini",
       "side": "US",
-      "model": null,
+      "model": "Gemini 4 Argon",
       "n": 207,
       "days": 19,
       "ranked": true,
@@ -16648,9 +16648,9 @@
     },
     {
       "seat": "wenxin",
-      "name": "wenxin",
+      "name": "Wenxin (文心, Baidu; ERNIE)",
       "side": "CN",
-      "model": null,
+      "model": "ERNIE 5.1",
       "n": 131,
       "days": 13,
       "ranked": true,
@@ -17958,9 +17958,9 @@
       },
       {
         "seat": "nova",
-        "name": "nova",
+        "name": "Amazon Nova",
         "side": "US",
-        "model": null,
+        "model": "Amazon Nova",
         "n": 129,
         "days": 13,
         "ranked": true,
@@ -17979,9 +17979,9 @@
       },
       {
         "seat": "grok",
-        "name": "Grok",
+        "name": "grok",
         "side": "US",
-        "model": "Grok 4.7",
+        "model": null,
         "n": 215,
         "days": 20,
         "ranked": true,
@@ -18000,9 +18000,9 @@
       },
       {
         "seat": "meta",
-        "name": "Meta AI",
+        "name": "meta",
         "side": "US",
-        "model": "Muse Spark 1.3",
+        "model": null,
         "n": 200,
         "days": 19,
         "ranked": true,
@@ -18084,9 +18084,9 @@
       },
       {
         "seat": "gemini",
-        "name": "gemini",
+        "name": "Gemini",
         "side": "US",
-        "model": null,
+        "model": "Gemini 4 Argon",
         "n": 207,
         "days": 19,
         "ranked": true,
@@ -18147,9 +18147,9 @@
       },
       {
         "seat": "wenxin",
-        "name": "wenxin",
+        "name": "Wenxin (文心, Baidu; ERNIE)",
         "side": "CN",
-        "model": null,
+        "model": "ERNIE 5.1",
         "n": 131,
         "days": 13,
         "ranked": true,
@@ -18212,7 +18212,7 @@
     "1w": [
       {
         "seat": "wenxin",
-        "name": "wenxin",
+        "name": "Wenxin (文心, Baidu; ERNIE)",
         "n": 97,
         "nb": 103,
         "dir_pct": 55.7,
@@ -18236,7 +18236,7 @@
       },
       {
         "seat": "gemini",
-        "name": "gemini",
+        "name": "Gemini",
         "n": 159,
         "nb": 159,
         "dir_pct": 52.8,
@@ -18252,7 +18252,7 @@
       },
       {
         "seat": "meta",
-        "name": "Meta AI",
+        "name": "meta",
         "n": 152,
         "nb": 155,
         "dir_pct": 51.3,
@@ -18284,7 +18284,7 @@
       },
       {
         "seat": "grok",
-        "name": "Grok",
+        "name": "grok",
         "n": 165,
         "nb": 171,
         "dir_pct": 45.5,
@@ -18316,7 +18316,7 @@
       },
       {
         "seat": "nova",
-        "name": "nova",
+        "name": "Amazon Nova",
         "n": 83,
         "nb": 95,
         "dir_pct": 39.8,
@@ -18423,6 +18423,6 @@
     }
   },
   "url": "https://top.polyhelper.ai/ai-markets/",
-  "snapshot_id": "56f0af7691644224660bd55b88adc2cb62f2588ef474734d1c7761e41ec39d27",
-  "snapshot_run": "2026-11-13-am"
+  "snapshot_id": "5bb1c9eb3fabb0aaefe6d8020d58ac8092126c7a8474c4c19714d1de8f8ac42a",
+  "snapshot_run": "2026-11-14-btc"
 }
