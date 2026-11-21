@@ -2,11 +2,11 @@
   "schema": 1,
   "kind": "council-league",
   "lang": "en",
-  "generated_at": "2026-11-20T21:58:29Z",
+  "generated_at": "2026-11-21T20:03:33Z",
   "notice": "These results are based on simulated or hypothetical performance results that have certain inherent limitations. Unlike the results shown in an actual performance record, these results do not represent actual trading. Also, because these trades have not actually been executed, these results may have under-or over-compensated for the impact, if any, of certain market factors, such as lack of liquidity. Simulated or hypothetical trading programs in general are also subject to the fact that they are designed with the benefit of hindsight. No representation is being made that any account will or is likely to achieve profits or losses similar to these being shown.",
   "resolved_n": 272,
   "need": 30,
-  "days_collected": 36,
+  "days_collected": 37,
   "first_day": "2026-10-16",
   "history": "collecting history: 30 of 30 resolved forecasts",
   "benchmarks": {
@@ -543,18 +543,18 @@
   },
   "crowd": {
     "polymarket": {
-      "n": 58,
-      "ai_right": 41,
-      "crowd_right": 39,
-      "b_ai": 0.2222,
-      "b_crowd": 0.1889
+      "n": 60,
+      "ai_right": 43,
+      "crowd_right": 41,
+      "b_ai": 0.219,
+      "b_crowd": 0.1847
     },
     "kalshi": {
-      "n": 14,
+      "n": 15,
       "ai_right": 11,
       "crowd_right": 14,
-      "b_ai": 0.2123,
-      "b_crowd": 0.0915
+      "b_ai": 0.2154,
+      "b_crowd": 0.1092
     }
   },
   "experiment": {
@@ -17868,9 +17868,9 @@
     },
     {
       "seat": "wenxin",
-      "name": "wenxin",
+      "name": "Wenxin (文心, Baidu; ERNIE)",
       "side": "CN",
-      "model": null,
+      "model": "ERNIE 5.1",
       "n": 177,
       "days": 17,
       "ranked": true,
@@ -17954,7 +17954,7 @@
       "seat": "gemini",
       "name": "Gemini",
       "side": "US",
-      "model": "Gemini 3.8 Flash",
+      "model": "Gemini 4 Argon",
       "n": 264,
       "days": 24,
       "ranked": true,
@@ -19367,9 +19367,9 @@
       },
       {
         "seat": "wenxin",
-        "name": "wenxin",
+        "name": "Wenxin (文心, Baidu; ERNIE)",
         "side": "CN",
-        "model": null,
+        "model": "ERNIE 5.1",
         "n": 177,
         "days": 17,
         "ranked": true,
@@ -19453,7 +19453,7 @@
         "seat": "gemini",
         "name": "Gemini",
         "side": "US",
-        "model": "Gemini 3.8 Flash",
+        "model": "Gemini 4 Argon",
         "n": 264,
         "days": 24,
         "ranked": true,
@@ -19503,7 +19503,7 @@
       },
       {
         "seat": "wenxin",
-        "name": "wenxin",
+        "name": "Wenxin (文心, Baidu; ERNIE)",
         "n": 151,
         "nb": 160,
         "dir_pct": 58.9,
@@ -19608,32 +19608,32 @@
     ],
     "1m": [
       {
-        "seat": "chatgpt",
-        "name": "ChatGPT",
-        "n": 34,
-        "nb": 34,
-        "dir_pct": 61.8,
-        "brier": 0.2256
-      },
-      {
         "seat": "stepfun",
         "name": "Step 5 Preview",
-        "n": 23,
-        "nb": 23,
-        "dir_pct": 60.9,
-        "brier": 0.2316
+        "n": 34,
+        "nb": 34,
+        "dir_pct": 64.7,
+        "brier": 0.2161
       },
       {
         "seat": "mimo",
         "name": "MiMo (Xiaomi)",
-        "n": 33,
-        "nb": 34,
-        "dir_pct": 45.5,
-        "brier": 0.2445
+        "n": 43,
+        "nb": 45,
+        "dir_pct": 53.5,
+        "brier": 0.235
+      },
+      {
+        "seat": "chatgpt",
+        "name": "ChatGPT",
+        "n": 45,
+        "nb": 45,
+        "dir_pct": 53.3,
+        "brier": 0.2373
       },
       {
         "seat": "wenxin",
-        "name": "wenxin",
+        "name": "Wenxin (文心, Baidu; ERNIE)",
         "n": 11,
         "nb": 11,
         "dir_pct": 54.5,
@@ -19642,42 +19642,34 @@
       {
         "seat": "grok",
         "name": "Grok",
-        "n": 31,
-        "nb": 34,
-        "dir_pct": 48.4,
-        "brier": 0.2545
-      },
-      {
-        "seat": "zai",
-        "name": "Z.ai",
-        "n": 12,
-        "nb": 12,
-        "dir_pct": 50,
-        "brier": 0.2666
-      },
-      {
-        "seat": "deepseek",
-        "name": "DeepSeek",
-        "n": 33,
-        "nb": 34,
-        "dir_pct": 33.3,
-        "brier": 0.2731
-      },
-      {
-        "seat": "gemini",
-        "name": "Gemini",
-        "n": 34,
-        "nb": 34,
-        "dir_pct": 50,
-        "brier": 0.2746
+        "n": 42,
+        "nb": 45,
+        "dir_pct": 42.9,
+        "brier": 0.259
       },
       {
         "seat": "meta",
         "name": "Meta AI",
-        "n": 20,
-        "nb": 20,
-        "dir_pct": 35,
-        "brier": 0.2793
+        "n": 30,
+        "nb": 30,
+        "dir_pct": 43.3,
+        "brier": 0.2595
+      },
+      {
+        "seat": "deepseek",
+        "name": "DeepSeek",
+        "n": 42,
+        "nb": 45,
+        "dir_pct": 31,
+        "brier": 0.2762
+      },
+      {
+        "seat": "zai",
+        "name": "Z.ai",
+        "n": 23,
+        "nb": 23,
+        "dir_pct": 43.5,
+        "brier": 0.2805
       },
       {
         "seat": "kimi",
@@ -19688,45 +19680,53 @@
         "brier": 0.2824
       },
       {
+        "seat": "gemini",
+        "name": "Gemini",
+        "n": 43,
+        "nb": 44,
+        "dir_pct": 44.2,
+        "brier": 0.2868
+      },
+      {
         "seat": "claude",
         "name": "Claude",
-        "n": 34,
-        "nb": 34,
-        "dir_pct": 26.5,
-        "brier": 0.2948
+        "n": 45,
+        "nb": 45,
+        "dir_pct": 26.7,
+        "brier": 0.2888
       }
     ]
   },
   "lines_hit": {
     "chatgpt": {
-      "t": 258,
-      "tn": 438,
-      "i": 104,
-      "in": 536
-    },
-    "claude": {
-      "t": 277,
-      "tn": 413,
-      "i": 203,
-      "in": 510
-    },
-    "deepseek": {
-      "t": 176,
-      "tn": 416,
-      "i": 176,
-      "in": 506
-    },
-    "gemini": {
-      "t": 240,
-      "tn": 462,
-      "i": 230,
+      "t": 265,
+      "tn": 449,
+      "i": 113,
       "in": 548
     },
-    "grok": {
+    "claude": {
+      "t": 286,
+      "tn": 424,
+      "i": 212,
+      "in": 522
+    },
+    "deepseek": {
+      "t": 178,
+      "tn": 426,
+      "i": 184,
+      "in": 516
+    },
+    "gemini": {
       "t": 245,
-      "tn": 479,
-      "i": 148,
-      "in": 556
+      "tn": 473,
+      "i": 239,
+      "in": 559
+    },
+    "grok": {
+      "t": 251,
+      "tn": 489,
+      "i": 159,
+      "in": 568
     },
     "kimi": {
       "t": 151,
@@ -19735,22 +19735,22 @@
       "in": 457
     },
     "mimo": {
-      "t": 187,
-      "tn": 447,
-      "i": 230,
-      "in": 550
+      "t": 197,
+      "tn": 458,
+      "i": 236,
+      "in": 561
     },
     "meta": {
-      "t": 218,
-      "tn": 427,
-      "i": 129,
-      "in": 520
+      "t": 228,
+      "tn": 439,
+      "i": 133,
+      "in": 532
     },
     "stepfun": {
-      "t": 163,
-      "tn": 332,
-      "i": 203,
-      "in": 448
+      "t": 172,
+      "tn": 344,
+      "i": 209,
+      "in": 460
     },
     "wenxin": {
       "t": 107,
@@ -19759,10 +19759,10 @@
       "in": 353
     },
     "zai": {
-      "t": 203,
-      "tn": 417,
-      "i": 166,
-      "in": 484
+      "t": 211,
+      "tn": 429,
+      "i": 174,
+      "in": 496
     },
     "nemotron": {
       "t": 123,
@@ -19796,6 +19796,6 @@
     }
   },
   "url": "https://top.polyhelper.ai/ai-markets/",
-  "snapshot_id": "f394e23a0fc2470066e8c979074debb2af5c7576ade647b35fb680e773523db3",
-  "snapshot_run": "2026-11-20-am"
+  "snapshot_id": "54529a100dd38fdc5cfd7af19cf632bc50b794b78f3b345d9e0a2b524596c1ca",
+  "snapshot_run": "2026-11-21-btc"
 }

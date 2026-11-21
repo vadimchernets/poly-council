@@ -7,7 +7,7 @@ date,model,country,resolved_n,direction_hit_pct,brier,consensus_brier,stars,rank
 2026-11-20,Grok,US,272,58.1,0.2418,,,true
 2026-11-20,Amazon Nova,US,176,53.4,0.2501,,,true
 2026-11-20,DeepSeek,CN,237,53.2,0.2436,,,true
-2026-11-20,wenxin,CN,177,52.5,0.2499,,,true
+2026-11-20,"Wenxin (文心, Baidu; ERNIE)",CN,177,52.5,0.2499,,,true
 2026-11-20,ChatGPT,US,255,52.2,0.2456,,,true
 2026-11-20,Kimi,CN,232,52.2,0.2513,,,true
 2026-11-20,MiMo (Xiaomi),CN,270,52.2,0.2506,,,true
