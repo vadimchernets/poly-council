@@ -2,7 +2,7 @@
   "schema": 1,
   "kind": "council-league",
   "lang": "en",
-  "generated_at": "2026-11-21T20:03:33Z",
+  "generated_at": "2026-11-22T20:58:57Z",
   "notice": "These results are based on simulated or hypothetical performance results that have certain inherent limitations. Unlike the results shown in an actual performance record, these results do not represent actual trading. Also, because these trades have not actually been executed, these results may have under-or over-compensated for the impact, if any, of certain market factors, such as lack of liquidity. Simulated or hypothetical trading programs in general are also subject to the fact that they are designed with the benefit of hindsight. No representation is being made that any account will or is likely to achieve profits or losses similar to these being shown.",
   "resolved_n": 272,
   "need": 30,
@@ -19618,10 +19618,10 @@
       {
         "seat": "mimo",
         "name": "MiMo (Xiaomi)",
-        "n": 43,
-        "nb": 45,
-        "dir_pct": 53.5,
-        "brier": 0.235
+        "n": 55,
+        "nb": 57,
+        "dir_pct": 54.5,
+        "brier": 0.2369
       },
       {
         "seat": "chatgpt",
@@ -19640,44 +19640,52 @@
         "brier": 0.2528
       },
       {
-        "seat": "grok",
-        "name": "Grok",
-        "n": 42,
-        "nb": 45,
-        "dir_pct": 42.9,
-        "brier": 0.259
-      },
-      {
         "seat": "meta",
         "name": "Meta AI",
-        "n": 30,
-        "nb": 30,
-        "dir_pct": 43.3,
-        "brier": 0.2595
-      },
-      {
-        "seat": "deepseek",
-        "name": "DeepSeek",
-        "n": 42,
-        "nb": 45,
-        "dir_pct": 31,
-        "brier": 0.2762
+        "n": 41,
+        "nb": 41,
+        "dir_pct": 51.2,
+        "brier": 0.254
       },
       {
         "seat": "zai",
         "name": "Z.ai",
-        "n": 23,
-        "nb": 23,
-        "dir_pct": 43.5,
-        "brier": 0.2805
+        "n": 34,
+        "nb": 35,
+        "dir_pct": 50,
+        "brier": 0.2612
       },
       {
         "seat": "kimi",
         "name": "Kimi",
-        "n": 11,
-        "nb": 11,
-        "dir_pct": 18.2,
-        "brier": 0.2824
+        "n": 22,
+        "nb": 22,
+        "dir_pct": 36.4,
+        "brier": 0.2638
+      },
+      {
+        "seat": "grok",
+        "name": "Grok",
+        "n": 53,
+        "nb": 57,
+        "dir_pct": 41.5,
+        "brier": 0.2648
+      },
+      {
+        "seat": "deepseek",
+        "name": "DeepSeek",
+        "n": 54,
+        "nb": 57,
+        "dir_pct": 33.3,
+        "brier": 0.2723
+      },
+      {
+        "seat": "claude",
+        "name": "Claude",
+        "n": 56,
+        "nb": 57,
+        "dir_pct": 28.6,
+        "brier": 0.2827
       },
       {
         "seat": "gemini",
@@ -19688,12 +19696,12 @@
         "brier": 0.2868
       },
       {
-        "seat": "claude",
-        "name": "Claude",
-        "n": 45,
-        "nb": 45,
-        "dir_pct": 26.7,
-        "brier": 0.2888
+        "seat": "nemotron",
+        "name": "Nemotron + Mercury (поиск)",
+        "n": 11,
+        "nb": 11,
+        "dir_pct": 27.3,
+        "brier": 0.2905
       }
     ]
   },
@@ -19705,16 +19713,16 @@
       "in": 548
     },
     "claude": {
-      "t": 286,
-      "tn": 424,
-      "i": 212,
-      "in": 522
+      "t": 296,
+      "tn": 435,
+      "i": 220,
+      "in": 533
     },
     "deepseek": {
-      "t": 178,
-      "tn": 426,
-      "i": 184,
-      "in": 516
+      "t": 184,
+      "tn": 437,
+      "i": 191,
+      "in": 528
     },
     "gemini": {
       "t": 245,
@@ -19723,28 +19731,28 @@
       "in": 559
     },
     "grok": {
-      "t": 251,
-      "tn": 489,
-      "i": 159,
-      "in": 568
+      "t": 256,
+      "tn": 499,
+      "i": 166,
+      "in": 579
     },
     "kimi": {
-      "t": 151,
-      "tn": 362,
-      "i": 167,
-      "in": 457
+      "t": 158,
+      "tn": 372,
+      "i": 174,
+      "in": 468
     },
     "mimo": {
-      "t": 197,
-      "tn": 458,
-      "i": 236,
-      "in": 561
+      "t": 204,
+      "tn": 468,
+      "i": 243,
+      "in": 573
     },
     "meta": {
-      "t": 228,
-      "tn": 439,
-      "i": 133,
-      "in": 532
+      "t": 237,
+      "tn": 448,
+      "i": 141,
+      "in": 544
     },
     "stepfun": {
       "t": 172,
@@ -19759,16 +19767,16 @@
       "in": 353
     },
     "zai": {
-      "t": 211,
-      "tn": 429,
-      "i": 174,
-      "in": 496
+      "t": 221,
+      "tn": 439,
+      "i": 179,
+      "in": 507
     },
     "nemotron": {
-      "t": 123,
-      "tn": 286,
-      "i": 190,
-      "in": 368
+      "t": 131,
+      "tn": 297,
+      "i": 201,
+      "in": 380
     },
     "qwen": {
       "t": 116,

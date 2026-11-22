@@ -2,7 +2,7 @@
   "schema": 1,
   "kind": "council",
   "lang": "en",
-  "generated_at": "2026-11-21T20:03:32Z",
+  "generated_at": "2026-11-22T20:58:56Z",
   "issue": "2026-11-20",
   "run_id": "2026-11-20-am",
   "tz": "America/New_York",
@@ -150,7 +150,7 @@
   ],
   "free_asset": "GOLD",
   "quotes": {
-    "as_of": "2026-11-21T20:02:38Z",
+    "as_of": "2026-11-22T20:58:22Z",
     "delay_min": 15,
     "source": "yahoo|kraken",
     "live_url": "https://polyhelper-trends-votes.vadymchernets.workers.dev/quotes"
@@ -1591,7 +1591,7 @@
         "price": 25028.982,
         "chg_day_pct": -5.612,
         "chg_since_seal_pct": -5.612,
-        "at": "2026-11-20T22:15:59Z",
+        "at": "2026-11-20T22:16:00Z",
         "stale": false,
         "source": "yahoo",
         "delay_min": 15
@@ -4367,7 +4367,7 @@
         "price": 8408.591,
         "chg_day_pct": -10.734,
         "chg_since_seal_pct": -10.734,
-        "at": "2026-11-20T22:15:59Z",
+        "at": "2026-11-20T22:16:01Z",
         "stale": false,
         "source": "yahoo",
         "delay_min": 15
@@ -15132,10 +15132,10 @@
         "source": "kraken"
       },
       "now": {
-        "price": 60229.3,
-        "chg_day_pct": 3.19,
-        "chg_since_seal_pct": -2.479,
-        "at": "2026-11-21T20:02:38Z",
+        "price": 60840.2,
+        "chg_day_pct": 0.849,
+        "chg_since_seal_pct": -1.49,
+        "at": "2026-11-22T20:58:22Z",
         "stale": false,
         "source": "kraken",
         "delay_min": 0
