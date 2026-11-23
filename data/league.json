@@ -2,11 +2,11 @@
   "schema": 1,
   "kind": "council-league",
   "lang": "en",
-  "generated_at": "2026-11-22T20:58:57Z",
+  "generated_at": "2026-11-23T17:32:19Z",
   "notice": "These results are based on simulated or hypothetical performance results that have certain inherent limitations. Unlike the results shown in an actual performance record, these results do not represent actual trading. Also, because these trades have not actually been executed, these results may have under-or over-compensated for the impact, if any, of certain market factors, such as lack of liquidity. Simulated or hypothetical trading programs in general are also subject to the fact that they are designed with the benefit of hindsight. No representation is being made that any account will or is likely to achieve profits or losses similar to these being shown.",
   "resolved_n": 272,
   "need": 30,
-  "days_collected": 37,
+  "days_collected": 39,
   "first_day": "2026-10-16",
   "history": "collecting history: 30 of 30 resolved forecasts",
   "benchmarks": {
@@ -17868,9 +17868,9 @@
     },
     {
       "seat": "wenxin",
-      "name": "Wenxin (文心, Baidu; ERNIE)",
+      "name": "wenxin",
       "side": "CN",
-      "model": "ERNIE 5.1",
+      "model": null,
       "n": 177,
       "days": 17,
       "ranked": true,
@@ -17931,9 +17931,9 @@
     },
     {
       "seat": "mimo",
-      "name": "MiMo (Xiaomi)",
+      "name": "mimo",
       "side": "CN",
-      "model": "MiMo-V2.6-Pro",
+      "model": null,
       "n": 270,
       "days": 25,
       "ranked": true,
@@ -19367,9 +19367,9 @@
       },
       {
         "seat": "wenxin",
-        "name": "Wenxin (文心, Baidu; ERNIE)",
+        "name": "wenxin",
         "side": "CN",
-        "model": "ERNIE 5.1",
+        "model": null,
         "n": 177,
         "days": 17,
         "ranked": true,
@@ -19430,9 +19430,9 @@
       },
       {
         "seat": "mimo",
-        "name": "MiMo (Xiaomi)",
+        "name": "mimo",
         "side": "CN",
-        "model": "MiMo-V2.6-Pro",
+        "model": null,
         "n": 270,
         "days": 25,
         "ranked": true,
@@ -19496,114 +19496,114 @@
       {
         "seat": "meta",
         "name": "Meta AI",
-        "n": 210,
-        "nb": 213,
-        "dir_pct": 57.6,
-        "brier": 0.2417
+        "n": 222,
+        "nb": 225,
+        "dir_pct": 59.5,
+        "brier": 0.2384
       },
       {
         "seat": "wenxin",
-        "name": "Wenxin (文心, Baidu; ERNIE)",
-        "n": 151,
-        "nb": 160,
-        "dir_pct": 58.9,
-        "brier": 0.243
+        "name": "wenxin",
+        "n": 163,
+        "nb": 172,
+        "dir_pct": 59.5,
+        "brier": 0.2399
       },
       {
         "seat": "chatgpt",
         "name": "ChatGPT",
-        "n": 205,
-        "nb": 206,
-        "dir_pct": 56.6,
-        "brier": 0.2446
-      },
-      {
-        "seat": "mimo",
-        "name": "MiMo (Xiaomi)",
-        "n": 216,
-        "nb": 229,
-        "dir_pct": 52.3,
-        "brier": 0.2466
+        "n": 217,
+        "nb": 218,
+        "dir_pct": 57.6,
+        "brier": 0.2431
       },
       {
         "seat": "stepfun",
         "name": "Step 5 Preview",
-        "n": 175,
-        "nb": 192,
-        "dir_pct": 53.7,
-        "brier": 0.2479
+        "n": 186,
+        "nb": 204,
+        "dir_pct": 54.8,
+        "brier": 0.2463
+      },
+      {
+        "seat": "mimo",
+        "name": "mimo",
+        "n": 226,
+        "nb": 241,
+        "dir_pct": 51.8,
+        "brier": 0.2465
       },
       {
         "seat": "grok",
         "name": "Grok",
-        "n": 223,
-        "nb": 229,
-        "dir_pct": 48,
-        "brier": 0.2544
+        "n": 235,
+        "nb": 241,
+        "dir_pct": 49.8,
+        "brier": 0.2509
       },
       {
         "seat": "deepseek",
         "name": "DeepSeek",
-        "n": 196,
-        "nb": 205,
-        "dir_pct": 46.4,
-        "brier": 0.2553
-      },
-      {
-        "seat": "claude",
-        "name": "Claude",
-        "n": 203,
-        "nb": 229,
-        "dir_pct": 41.9,
-        "brier": 0.2564
-      },
-      {
-        "seat": "gemini",
-        "name": "Gemini",
-        "n": 217,
+        "n": 208,
         "nb": 217,
-        "dir_pct": 52.1,
-        "brier": 0.2573
+        "dir_pct": 47.6,
+        "brier": 0.2529
       },
       {
         "seat": "kimi",
         "name": "Kimi",
-        "n": 189,
-        "nb": 197,
-        "dir_pct": 48.1,
-        "brier": 0.2577
+        "n": 201,
+        "nb": 209,
+        "dir_pct": 49.3,
+        "brier": 0.2547
+      },
+      {
+        "seat": "claude",
+        "name": "Claude",
+        "n": 214,
+        "nb": 241,
+        "dir_pct": 42.5,
+        "brier": 0.2558
       },
       {
         "seat": "zai",
         "name": "Z.ai",
-        "n": 199,
-        "nb": 207,
-        "dir_pct": 45.7,
-        "brier": 0.2591
+        "n": 211,
+        "nb": 219,
+        "dir_pct": 47.9,
+        "brier": 0.2563
+      },
+      {
+        "seat": "gemini",
+        "name": "Gemini",
+        "n": 228,
+        "nb": 229,
+        "dir_pct": 50.9,
+        "brier": 0.2585
       },
       {
         "seat": "qwen",
         "name": "Qwen",
-        "n": 168,
-        "nb": 175,
-        "dir_pct": 44.6,
-        "brier": 0.2758
+        "n": 177,
+        "nb": 187,
+        "dir_pct": 44.1,
+        "brier": 0.2748
       },
       {
         "seat": "nemotron",
         "name": "Nemotron + Mercury (поиск)",
-        "n": 150,
-        "nb": 172,
-        "dir_pct": 38.7,
-        "brier": 0.277
+        "n": 157,
+        "nb": 184,
+        "dir_pct": 38.9,
+        "brier": 0.2766
       },
       {
         "seat": "nova",
         "name": "Amazon Nova",
-        "n": 135,
-        "nb": 152,
-        "dir_pct": 41.5,
-        "brier": 0.2946
+        "n": 146,
+        "nb": 164,
+        "dir_pct": 42.5,
+        "brier": 0.2887
       }
     ],
     "1m": [
@@ -19617,7 +19617,7 @@
       },
       {
         "seat": "mimo",
-        "name": "MiMo (Xiaomi)",
+        "name": "mimo",
         "n": 55,
         "nb": 57,
         "dir_pct": 54.5,
@@ -19633,7 +19633,7 @@
       },
       {
         "seat": "wenxin",
-        "name": "Wenxin (文心, Baidu; ERNIE)",
+        "name": "wenxin",
         "n": 11,
         "nb": 11,
         "dir_pct": 54.5,
@@ -19707,88 +19707,88 @@
   },
   "lines_hit": {
     "chatgpt": {
-      "t": 265,
-      "tn": 449,
-      "i": 113,
-      "in": 548
+      "t": 268,
+      "tn": 455,
+      "i": 115,
+      "in": 560
     },
     "claude": {
-      "t": 296,
-      "tn": 435,
-      "i": 220,
-      "in": 533
-    },
-    "deepseek": {
-      "t": 184,
-      "tn": 437,
-      "i": 191,
-      "in": 528
-    },
-    "gemini": {
-      "t": 245,
-      "tn": 473,
-      "i": 239,
-      "in": 559
-    },
-    "grok": {
-      "t": 256,
-      "tn": 499,
-      "i": 166,
-      "in": 579
-    },
-    "kimi": {
-      "t": 158,
-      "tn": 372,
-      "i": 174,
-      "in": 468
-    },
-    "mimo": {
-      "t": 204,
-      "tn": 468,
-      "i": 243,
-      "in": 573
-    },
-    "meta": {
-      "t": 237,
-      "tn": 448,
-      "i": 141,
+      "t": 302,
+      "tn": 446,
+      "i": 226,
       "in": 544
     },
+    "deepseek": {
+      "t": 190,
+      "tn": 448,
+      "i": 195,
+      "in": 540
+    },
+    "gemini": {
+      "t": 246,
+      "tn": 483,
+      "i": 247,
+      "in": 570
+    },
+    "grok": {
+      "t": 265,
+      "tn": 510,
+      "i": 168,
+      "in": 591
+    },
+    "kimi": {
+      "t": 162,
+      "tn": 381,
+      "i": 177,
+      "in": 480
+    },
+    "mimo": {
+      "t": 206,
+      "tn": 477,
+      "i": 250,
+      "in": 583
+    },
+    "meta": {
+      "t": 246,
+      "tn": 459,
+      "i": 142,
+      "in": 556
+    },
     "stepfun": {
-      "t": 172,
-      "tn": 344,
-      "i": 209,
-      "in": 460
+      "t": 175,
+      "tn": 351,
+      "i": 216,
+      "in": 471
     },
     "wenxin": {
-      "t": 107,
-      "tn": 233,
-      "i": 203,
-      "in": 353
+      "t": 108,
+      "tn": 239,
+      "i": 213,
+      "in": 365
     },
     "zai": {
-      "t": 221,
-      "tn": 439,
-      "i": 179,
-      "in": 507
+      "t": 228,
+      "tn": 448,
+      "i": 182,
+      "in": 519
     },
     "nemotron": {
       "t": 131,
-      "tn": 297,
-      "i": 201,
-      "in": 380
+      "tn": 301,
+      "i": 208,
+      "in": 387
     },
     "qwen": {
-      "t": 116,
-      "tn": 294,
-      "i": 162,
-      "in": 380
+      "t": 117,
+      "tn": 301,
+      "i": 169,
+      "in": 389
     },
     "nova": {
-      "t": 89,
-      "tn": 288,
-      "i": 148,
-      "in": 338
+      "t": 94,
+      "tn": 299,
+      "i": 153,
+      "in": 349
     }
   },
   "usa_cn": {
@@ -19804,6 +19804,6 @@
     }
   },
   "url": "https://top.polyhelper.ai/ai-markets/",
-  "snapshot_id": "54529a100dd38fdc5cfd7af19cf632bc50b794b78f3b345d9e0a2b524596c1ca",
-  "snapshot_run": "2026-11-21-btc"
+  "snapshot_id": "0cd5a3b99787b0d1cacfc1df3fb562cdd16d0733664ce70fc3a55d2814b1db63",
+  "snapshot_run": "2026-11-23-am"
 }
