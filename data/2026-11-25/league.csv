@@ -1,0 +1,15 @@
+date,model,country,resolved_n,direction_hit_pct,brier,consensus_brier,stars,ranked
+2026-11-25,Qwen,CN,206,60.2,0.2403,,,true
+2026-11-25,Z.ai,CN,268,58.6,0.2431,,,true
+2026-11-25,Step 5 Preview,CN,226,58.4,0.2433,,,true
+2026-11-25,Claude,US,260,57.7,0.2465,,,true
+2026-11-25,Grok,US,291,57.7,0.2417,,,true
+2026-11-25,Meta AI,US,276,57.6,0.2417,,,true
+2026-11-25,DeepSeek,CN,254,53.1,0.2436,,,true
+2026-11-25,MiMo (Xiaomi),CN,289,52.9,0.2497,,,true
+2026-11-25,Amazon Nova,US,188,52.7,0.2532,,,true
+2026-11-25,Kimi,CN,251,52.2,0.2501,,,true
+2026-11-25,Gemini,US,283,51.9,0.2477,,,true
+2026-11-25,ChatGPT,US,274,51.8,0.2455,,,true
+2026-11-25,"Wenxin (文心, Baidu; ERNIE)",CN,189,49.7,0.2589,,,true
+2026-11-25,nemotron,US,218,47.7,0.2578,,,true
